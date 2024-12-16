@@ -21,7 +21,7 @@ The dataset we selected provides information on salaries across job levels withi
 
 ### 1. Download and import dataset as a dataframe.
 
-When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
+Obtain dataset from Kaggle and import into RStudio environment.
 
 ```{r}
 #| echo: false
