@@ -1,6 +1,6 @@
 ---
 title: "assignment_3"
-author: "Nhien Tran, "
+author: "Nhien Tran, Domenick Vitale"
 format: html
 editor: visual
 ---
@@ -11,7 +11,7 @@ Assignment 3
 
 Group: 5
 
-Member: Nhien Tran
+Members: Nhien Tran, Domenick Vitale,
 
 ## Introduction
 
@@ -27,7 +27,7 @@ Obtain dataset from Kaggle and import into RStudio environment.
 #| echo: false
 # Path to Git Bash on your computer
 #!!Use git_bash_path <- "C:/Program Files/Git/git-bash.exe" instead if you're on Windows!!
-git_bash_path <- "/bin/bash"
+git_bash_path <- "C:/Program Files/Git/git-bash.exe"
 # Define the Kaggle dataset URL and file paths
 kaggle_url <- "https://www.kaggle.com/api/v1/datasets/download/taseermehboob9/salary-dataset-of-business-levels"
 output_dir <- "./raw_data"
@@ -112,7 +112,7 @@ salary_df <- salary_df %>%
 
 -   Visualization: graph of summary statistics, bar/dot graph of salaries across all positions and regression analysis to identify trend
 
-## Results 
+## Results
 
 ### Initial inspection
 
@@ -125,7 +125,7 @@ skim(salary_df)
 
 ### Visualization
 
-!! Comments on results
+View of the salaries in relation to the job position using a bar plot.
 
 ```{r}
 library(ggplot2)
@@ -238,4 +238,4 @@ plot(salary_df$level, salary_df$salary_increase_percent,
 
 ## Discussion
 
-!! Add discussion
+It's clear and easy to see how your salary changes with different positions. As the level increases, so does your salary since the higher levels relate to jobs that are much more complex. The higher level jobs require more work but also give more benefits in return. The only thing is it takes a long time to be able to receive the maximum benefits so it's important to continue putting out the best work you can to move up the corporate ladder. 
