@@ -1,0 +1,8 @@
+library/
+local/
+cellar/
+lock/
+python/
+sandbox/
+staging/
+/path/to/your/group_folder/raw_data/
