@@ -1,7 +1,7 @@
 #Assignment 1
 # Path to Git Bash on your computer
 #!!Use git_bash_path <- "C:/Program Files/Git/git-bash.exe" instead if you're on Windows!!
-git_bash_path <- "/bin/bash"
+git_bash_path <- "C:/Program Files/Git/git-bash.exe"
 # Define the Kaggle dataset URL and file paths
 kaggle_url <- "https://www.kaggle.com/api/v1/datasets/download/taseermehboob9/salary-dataset-of-business-levels"
 output_dir <- "./raw_data"
@@ -82,9 +82,8 @@ salary_df <- salary_df %>%
 # Check for missing values
 missing_counts <- salary_df %>% 
   summarise_all(~ sum(is.na(.)))
+print("Missing values:")
 print(missing_counts)
-
-#To-do: Add a function to remove any row with NaN values
 
 
 #Step 6: Save df as a new copy
