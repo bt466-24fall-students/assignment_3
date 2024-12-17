@@ -1,6 +1,6 @@
 ---
 title: "assignment_3"
-author: "Nhien Tran, Domenick Vitale"
+author: "Nhien Tran, Domenick Vitale, Clara Lu"
 format: html
 editor: visual
 ---
@@ -11,7 +11,7 @@ Assignment 3
 
 Group: 5
 
-Members: Nhien Tran, Domenick Vitale,
+Members: Nhien Tran, Domenick Vitale, Clara Lu
 
 ## Introduction
 
@@ -116,7 +116,7 @@ salary_df <- salary_df %>%
 
 ### Initial inspection
 
-!!Comments on the stats
+These initial findings help identify key features, data completeness, and any potential anomalies, laying the foundation for deeper analysis.
 
 ```{r}
 glimpse(salary_df)
@@ -144,6 +144,18 @@ barplot(salary_df$salary,
      cex.axis = 0.6,     # Adjust axis number text size
      space = 1
      )
+
+# Interactive Plotly Bar Chart
+library(plotly)
+
+# Create a Plotly bar chart
+plot_ly(salary_df, x = ~position, y = ~salary, type = 'bar', 
+        text = ~paste("Position:", position, "<br>Salary:", salary),
+        hoverinfo = 'text', 
+        marker = list(color = 'lightblue')) %>%
+  layout(title = "Salary by Position",
+         xaxis = list(title = "Position"),
+         yaxis = list(title = "Salary"))
 
 ```
 
@@ -238,4 +250,4 @@ plot(salary_df$level, salary_df$salary_increase_percent,
 
 ## Discussion
 
-It's clear and easy to see how your salary changes with different positions. As the level increases, so does your salary since the higher levels relate to jobs that are much more complex. The higher level jobs require more work but also give more benefits in return. The only thing is it takes a long time to be able to receive the maximum benefits so it's important to continue putting out the best work you can to move up the corporate ladder. 
+It's clear and easy to see how your salary changes with different positions. As the level increases, so does your salary since the higher levels relate to jobs that are much more complex. The higher level jobs require more work but also give more benefits in return. The only thing is it takes a long time to be able to receive the maximum benefits so it's important to continue putting out the best work you can to move up the corporate ladder.install.packages("plotly")
