@@ -5,9 +5,11 @@ library(dplyr)
 library(ggplot2)
 library(e1071)
 library(skimr)
+library(plotly)
+library(shiny)
 
 # setting download path as the raw data folder
-download_path <- "group_01/raw_data/sales_data.csv"
+download_path <- "raw_data/sales_data.csv"
 
 # storing dataset url in variable
 dataset_link <- "https://docs.google.com/spreadsheets/d/e/2PACX-1vRgpIxJreICLSslDONRupncn6mgOC7EoQXprYjsD1Pk5-lE4t7xNFQG2Y14o5iaaWiF1WlrSmVRmaTV/pub?output=csv"
@@ -82,6 +84,12 @@ Sales_data_cleaned <- Sales_data_cleaned %>%
   filter_all(all_vars(. != "" & !is.na(.)))
 
 
+# Save the cleaned dataset to the raw_data folder
+write_csv(Sales_data_cleaned, "raw_data/sales_data_cleaned.csv")
+
+# Print a message to confirm that the file has been saved
+cat("Cleaned dataset saved to 'raw_data/sales_data_cleaned.csv'")
+
 
 
 #We've selected only ORDERDATE, SALES, QUANTITYORDERED, COUNTRY, PRODUCTLINE,
@@ -151,11 +159,7 @@ print(ggplot(Sales_data_cleaned, aes(x = COUNTRY)) +
         facet_wrap(~ PRODUCTLINE, scales = "free_y") +
         labs(title = "Frequency of Countries by Product Line", x = "Country", y = "Count"))
 
-# Faceted Scatter Plot for Sales vs Quantity Ordered by Country
-print(ggplot(Sales_data_cleaned, aes(x = QUANTITYORDERED, y = SALES)) +
-        geom_point(alpha = 0.5, color = "darkblue") +
-        facet_wrap(~ COUNTRY, scales = "free") +
-        labs(title = "Sales vs Quantity Ordered by Country", x = "Quantity Ordered", y = "Sales"))
+
 
 # Faceted Box Plot for Sales across Different Product Lines and Countries
 print(ggplot(Sales_data_cleaned, aes(x = PRODUCTLINE, y = SALES)) +
@@ -174,6 +178,29 @@ print(ggplot(Sales_data_cleaned, aes(x = PRODUCTLINE, y = QUANTITYORDERED)) +
         geom_boxplot(fill = "lightblue", color = "black", alpha = 0.7) +
         facet_wrap(~ COUNTRY, scales = "free_y") +
         labs(title = "Quantity Ordered Distribution by Product Line and Country", x = "Product Line", y = "Quantity Ordered"))
+
+
+
+# Faceted Scatter Plot for Sales vs Quantity Ordered by Country
+print(ggplot(Sales_data_cleaned, aes(x = QUANTITYORDERED, y = SALES)) +
+        geom_point(alpha = 0.5, color = "darkblue") +
+        facet_wrap(~ COUNTRY, scales = "free") +
+        labs(title = "Sales vs Quantity Ordered by Country", x = "Quantity Ordered", y = "Sales"))
+
+
+
+# Faceted Scatter Plot for Sales vs Quantity Ordered by Country (Plotly)
+plotly_scatter <- ggplot(Sales_data_cleaned, aes(x = QUANTITYORDERED, y = SALES)) +
+  geom_point(alpha = 0.5, color = "darkblue") +
+  facet_wrap(~ COUNTRY, scales = "free") +
+  labs(title = "Sales vs Quantity Ordered by Country", x = "Quantity Ordered", y = "Sales")
+
+
+# Convert ggplot to interactive plotly plot
+interactive_scatter_plot <- ggplotly(plotly_scatter)
+
+# Print the interactive scatter plot
+print(interactive_scatter_plot)
 
 
 
@@ -197,4 +224,8 @@ revenue_by_productline <- Sales_data_cleaned %>%
 print(revenue_by_productline)
 
 
+
+
+
+#-------------------------------------------------------------------------------------------------------
 

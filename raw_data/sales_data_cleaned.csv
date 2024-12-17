@@ -1,0 +1,1262 @@
+ORDERDATE,SALES,QUANTITYORDERED,COUNTRY,PRODUCTLINE,PRICEEACH,ADDRESSLINE1,CITY,STATE,CUSTOMERNAME,POSTALCODE,PHONE,TOTAL_REVENUE
+2/24/2003 0:00,2871,30,USA,Motorcycles,95.7,897 Long Airport Avenue,NYC,NY,Land of Toys Inc.,10022,2125557818,2871
+8/25/2003 0:00,3746.7,45,USA,Motorcycles,83.26,78934 Hillside Dr.,Pasadena,CA,Toys4GrownUps.com,90003,6265557265,3746.7000000000003
+10/28/2003 0:00,3479.76,36,USA,Motorcycles,96.66,9408 Furth Circle,Burlingame,CA,Technics Stores Inc.,94217,6505556809,3479.7599999999998
+2/20/2004 0:00,3965.66,37,Australia,Motorcycles,100,636 St Kilda Road,Melbourne,Victoria,"Australian Collectors, Co.",3004,03 9520 4555,3700
+4/5/2004 0:00,2333.12,23,USA,Motorcycles,100,2678 Kingston Rd.,NYC,NY,Vitachrome Inc.,10022,2125551500,2300
+5/18/2004 0:00,3188.64,28,USA,Motorcycles,100,7476 Moss Rd.,Newark,NJ,Tekni Collectables Inc.,94019,2015559350,2800
+6/28/2004 0:00,3676.76,34,USA,Motorcycles,100,25593 South Bay Ln.,Bridgewater,CT,Gift Depot Inc.,97562,2035552570,3400
+8/27/2004 0:00,4099.68,36,USA,Motorcycles,100,39323 Spinnaker Dr.,Cambridge,MA,Marta's Replicas Co.,51247,6175558555,3600
+11/2/2004 0:00,4358.04,46,USA,Motorcycles,94.74,7586 Pompton St.,Allentown,PA,Diecast Classics Inc.,70267,2155551555,4358.04
+11/15/2004 0:00,4396.14,42,USA,Motorcycles,100,897 Long Airport Avenue,NYC,NY,Land of Toys Inc.,10022,2125557818,4200
+12/17/2004 0:00,1451,20,Australia,Motorcycles,72.55,"Monitor Money Building, 815 Pacific Hwy",Chatswood,NSW,Souveniers And Things Co.,2067,+61 2 9495 8555,1451
+3/3/2005 0:00,3207.12,42,USA,Motorcycles,76.36,1785 First Street,New Bedford,MA,FunGiftIdeas.com,50553,5085552555,3207.12
+7/24/2003 0:00,7374.1,37,USA,Classic Cars,100,9408 Furth Circle,Burlingame,CA,Technics Stores Inc.,94217,6505556809,3700
+10/20/2003 0:00,4860.24,21,USA,Classic Cars,100,5905 Pompton St.,NYC,NY,Classic Legends Inc.,10022,2125558493,2100
+11/6/2003 0:00,8014.82,34,Australia,Classic Cars,100,31 Duncan St. West End,South Brisbane,Queensland,"Australian Gift Network, Co",4101,61-7-3844-6555,3400
+11/13/2003 0:00,5372.57,23,USA,Classic Cars,100,782 First Street,Philadelphia,PA,"Classic Gift Ideas, Inc",71270,2155554695,2300
+12/5/2003 0:00,9064.89,47,Canada,Classic Cars,100,1900 Oak St.,Vancouver,BC,Canadian Gift Exchange Network,V3F 2K1,(604) 555-3392,4700
+1/29/2004 0:00,6075.3,35,USA,Classic Cars,100,3675 Furth Circle,Burbank,CA,West Coast Collectables Co.,94019,3105553722,3500
+3/10/2004 0:00,6463.23,29,USA,Classic Cars,100,4658 Baden Av.,Cambridge,MA,Cambridge Collectables Co.,51247,6175555555,2900
+5/4/2004 0:00,6120.34,34,USA,Classic Cars,100,567 North Pendale Street,New Haven,CT,Super Scale Inc.,97823,2035559545,3400
+6/15/2004 0:00,7680.64,32,Japan,Classic Cars,100,2-2-8 Roppongi,Minato-ku,Tokyo,"Tokyo Collectables, Ltd",106-0032,+81 3 3584 0555,3200
+7/19/2004 0:00,4905.39,21,Australia,Classic Cars,100,"Monitor Money Building, 815 Pacific Hwy",Chatswood,NSW,Souveniers And Things Co.,2067,+61 2 9495 8555,2100
+10/21/2004 0:00,11623.7,48,USA,Classic Cars,100,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,4800
+11/4/2004 0:00,6000.4,40,USA,Classic Cars,100,2304 Long Airport Avenue,Nashua,NH,Online Diecast Creations Co.,62005,6035558647,4000
+11/29/2004 0:00,3944.7,30,Australia,Classic Cars,100,636 St Kilda Road,Melbourne,Victoria,"Australian Collectors, Co.",3004,03 9520 4555,3000
+12/10/2004 0:00,5691.84,32,USA,Classic Cars,100,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,3200
+1/20/2005 0:00,4514.92,41,USA,Classic Cars,100,7825 Douglas Av.,Brickhaven,MA,Collectables For Less Inc.,58339,6175558555,4100
+3/9/2005 0:00,2416.56,24,Australia,Classic Cars,100,201 Miller Street,North Sydney,NSW,"Anna's Decorations, Ltd",2060,02 9936 8555,2400
+5/1/2005 0:00,4140.23,23,Canada,Classic Cars,100,43 rue St. Laurent,Montreal,Quebec,Quebec Home Shopping Network,H1J 1C3,(514) 555-8054,2300
+2/24/2003 0:00,3896.49,39,USA,Motorcycles,99.91,897 Long Airport Avenue,NYC,NY,Land of Toys Inc.,10022,2125557818,3896.49
+4/29/2003 0:00,2793.86,29,Australia,Motorcycles,96.34,636 St Kilda Road,Melbourne,Victoria,"Australian Collectors, Co.",3004,03 9520 4555,2793.86
+8/25/2003 0:00,5192.95,37,USA,Motorcycles,100,78934 Hillside Dr.,Pasadena,CA,Toys4GrownUps.com,90003,6265557265,3700
+10/28/2003 0:00,3660.93,27,USA,Motorcycles,100,9408 Furth Circle,Burlingame,CA,Technics Stores Inc.,94217,6505556809,2700
+1/12/2004 0:00,3009.09,23,Japan,Motorcycles,100,"Dojima Avanza 4F, 1-6-20 Dojima, Kita-ku",Osaka,Osaka,Osaka Souveniers Co.,530-0003,+81 06 6342 5555,2300
+2/20/2004 0:00,5422.39,47,Australia,Motorcycles,100,636 St Kilda Road,Melbourne,Victoria,"Australian Collectors, Co.",3004,03 9520 4555,4700
+4/3/2004 0:00,2852.08,22,USA,Motorcycles,100,11328 Douglas Av.,Philadelphia,PA,Motor Mint Distributors Inc.,71270,2155559857,2200
+5/18/2004 0:00,5756.52,44,USA,Motorcycles,100,7476 Moss Rd.,Newark,NJ,Tekni Collectables Inc.,94019,2015559350,4400
+6/28/2004 0:00,4472,40,USA,Motorcycles,100,25593 South Bay Ln.,Bridgewater,CT,Gift Depot Inc.,97562,2035552570,4000
+8/27/2004 0:00,6484.59,47,USA,Motorcycles,100,39323 Spinnaker Dr.,Cambridge,MA,Marta's Replicas Co.,51247,6175558555,4700
+10/15/2004 0:00,4043.96,34,USA,Motorcycles,100,3758 North Pendale Street,White Plains,NY,Mini Classics,24067,9145554562,3400
+11/2/2004 0:00,5566.5,45,USA,Motorcycles,100,7586 Pompton St.,Allentown,PA,Diecast Classics Inc.,70267,2155551555,4500
+11/15/2004 0:00,3176,20,USA,Motorcycles,100,897 Long Airport Avenue,NYC,NY,Land of Toys Inc.,10022,2125557818,2000
+11/23/2004 0:00,2756.8,40,Japan,Motorcycles,68.92,2-2-8 Roppongi,Minato-ku,Tokyo,"Tokyo Collectables, Ltd",106-0032,+81 3 3584 0555,2756.8
+12/17/2004 0:00,1329.9,26,Australia,Motorcycles,51.15,"Monitor Money Building, 815 Pacific Hwy",Chatswood,NSW,Souveniers And Things Co.,2067,+61 2 9495 8555,1329.8999999999999
+2/2/2005 0:00,5288.01,39,Australia,Motorcycles,100,31 Duncan St. West End,South Brisbane,Queensland,"Australian Gift Network, Co",4101,61-7-3844-6555,3900
+3/3/2005 0:00,2225.5,50,USA,Motorcycles,44.51,1785 First Street,New Bedford,MA,FunGiftIdeas.com,50553,5085552555,2225.5
+2/24/2003 0:00,6065.55,27,USA,Motorcycles,100,897 Long Airport Avenue,NYC,NY,Land of Toys Inc.,10022,2125557818,2700
+4/29/2003 0:00,9264.86,46,Australia,Motorcycles,100,636 St Kilda Road,Melbourne,Victoria,"Australian Collectors, Co.",3004,03 9520 4555,4600
+8/25/2003 0:00,5176.38,33,USA,Motorcycles,100,78934 Hillside Dr.,Pasadena,CA,Toys4GrownUps.com,90003,6265557265,3300
+10/28/2003 0:00,4183,20,USA,Motorcycles,100,9408 Furth Circle,Burlingame,CA,Technics Stores Inc.,94217,6505556809,2000
+1/12/2004 0:00,6123.4,34,Japan,Motorcycles,100,"Dojima Avanza 4F, 1-6-20 Dojima, Kita-ku",Osaka,Osaka,Osaka Souveniers Co.,530-0003,+81 06 6342 5555,3400
+2/20/2004 0:00,9774.03,49,Australia,Motorcycles,100,636 St Kilda Road,Melbourne,Victoria,"Australian Collectors, Co.",3004,03 9520 4555,4900
+4/5/2004 0:00,7023.9,39,USA,Motorcycles,100,2678 Kingston Rd.,NYC,NY,Vitachrome Inc.,10022,2125551500,3900
+5/18/2004 0:00,7078.23,43,USA,Motorcycles,100,7476 Moss Rd.,Newark,NJ,Tekni Collectables Inc.,94019,2015559350,4300
+6/28/2004 0:00,8336.94,41,USA,Motorcycles,100,25593 South Bay Ln.,Bridgewater,CT,Gift Depot Inc.,97562,2035552570,4100
+8/27/2004 0:00,5438.07,27,USA,Motorcycles,100,39323 Spinnaker Dr.,Cambridge,MA,Marta's Replicas Co.,51247,6175558555,2700
+10/15/2004 0:00,4570.4,20,USA,Motorcycles,100,3758 North Pendale Street,White Plains,NY,Mini Classics,24067,9145554562,2000
+11/2/2004 0:00,7667.14,37,USA,Motorcycles,100,7586 Pompton St.,Allentown,PA,Diecast Classics Inc.,70267,2155551555,3700
+11/15/2004 0:00,5868.2,26,USA,Motorcycles,100,897 Long Airport Avenue,NYC,NY,Land of Toys Inc.,10022,2125557818,2600
+11/23/2004 0:00,2990.13,39,Japan,Motorcycles,76.67,2-2-8 Roppongi,Minato-ku,Tokyo,"Tokyo Collectables, Ltd",106-0032,+81 3 3584 0555,2990.13
+1/5/2005 0:00,3664.1,22,USA,Motorcycles,100,9408 Furth Circle,Burlingame,CA,Technics Stores Inc.,94217,6505556809,2200
+2/2/2005 0:00,3834.38,22,Australia,Motorcycles,100,31 Duncan St. West End,South Brisbane,Queensland,"Australian Gift Network, Co",4101,61-7-3844-6555,2200
+3/3/2005 0:00,1822.17,21,USA,Motorcycles,86.77,1785 First Street,New Bedford,MA,FunGiftIdeas.com,50553,5085552555,1822.1699999999998
+8/10/2003 0:00,5597.76,49,USA,Classic Cars,100,4575 Hillside Dr.,New Bedford,MA,Mini Creations Ltd.,50553,5085559555,4900
+2/19/2004 0:00,5997.6,49,USA,Classic Cars,100,361 Furth Circle,San Diego,CA,Collectable Mini Designs Co.,91217,7605558146,4900
+5/7/2004 0:00,2910.4,20,USA,Classic Cars,100,897 Long Airport Avenue,NYC,NY,Land of Toys Inc.,10022,2125557818,2000
+6/17/2004 0:00,3378.24,27,Canada,Classic Cars,100,43 rue St. Laurent,Montreal,Quebec,Quebec Home Shopping Network,H1J 1C3,(514) 555-8054,2700
+8/20/2004 0:00,2992,25,Canada,Classic Cars,100,23 Tsawassen Blvd.,Tsawassen,BC,"Royal Canadian Collectables, Ltd.",T2F 8M4,(604) 555-4555,2500
+9/10/2004 0:00,3427.2,24,USA,Classic Cars,100,8616 Spinnaker Dr.,Boston,MA,Gifts4AllAges.com,51003,6175559555,2400
+10/14/2004 0:00,2692.8,22,USA,Classic Cars,100,782 First Street,Philadelphia,PA,"Classic Gift Ideas, Inc",71270,2155554695,2200
+11/1/2004 0:00,4128.96,33,UK,Classic Cars,100,Garden House Crowther Way,Cowes,Isle of Wight,giftsbymail.co.uk,PO31 7PJ,(198) 555-8888,3300
+11/21/2004 0:00,1201.25,25,USA,Classic Cars,48.05,5905 Pompton St.,NYC,NY,Classic Legends Inc.,10022,2125558493,1201.25
+4/1/2005 0:00,9661.44,64,USA,Classic Cars,100,3086 Ingle Ln.,San Jose,CA,The Sharp Gifts Warehouse,94217,4085553659,6400
+5/6/2005 0:00,2764.88,19,USA,Classic Cars,100,8616 Spinnaker Dr.,Boston,MA,Gifts4AllAges.com,51003,6175559555,1900
+7/24/2003 0:00,3188.12,26,USA,Classic Cars,100,9408 Furth Circle,Burlingame,CA,Technics Stores Inc.,94217,6505556809,2600
+11/13/2003 0:00,3433.36,28,USA,Classic Cars,100,782 First Street,Philadelphia,PA,"Classic Gift Ideas, Inc",71270,2155554695,2800
+12/9/2003 0:00,4076.19,31,USA,Classic Cars,100,6251 Ingle Ln.,Boston,MA,Diecast Collectables,51003,6175552555,3100
+3/11/2004 0:00,6426.5,50,USA,Classic Cars,100,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,5000
+5/4/2004 0:00,4591.72,28,USA,Classic Cars,100,567 North Pendale Street,New Haven,CT,Super Scale Inc.,97823,2035559545,2800
+7/19/2004 0:00,4302.08,32,Australia,Classic Cars,100,"Monitor Money Building, 815 Pacific Hwy",Chatswood,NSW,Souveniers And Things Co.,2067,+61 2 9495 8555,3200
+8/19/2004 0:00,7020.64,44,USA,Classic Cars,100,7586 Pompton St.,Allentown,PA,Diecast Classics Inc.,70267,2155551555,4400
+10/13/2004 0:00,6680.78,38,USA,Classic Cars,100,39323 Spinnaker Dr.,Cambridge,MA,Marta's Replicas Co.,51247,6175558555,3800
+10/22/2004 0:00,6678,40,Canada,Classic Cars,100,1900 Oak St.,Vancouver,BC,Canadian Gift Exchange Network,V3F 2K1,(604) 555-3392,4000
+11/4/2004 0:00,2851.54,46,USA,Classic Cars,61.99,2304 Long Airport Avenue,Nashua,NH,Online Diecast Creations Co.,62005,6035558647,2851.54
+11/29/2004 0:00,4428,27,Australia,Classic Cars,100,636 St Kilda Road,Melbourne,Victoria,"Australian Collectors, Co.",3004,03 9520 4555,2700
+12/10/2004 0:00,5780.92,43,USA,Classic Cars,100,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,4300
+1/20/2005 0:00,2297.05,35,Australia,Classic Cars,65.63,201 Miller Street,North Sydney,NSW,"Anna's Decorations, Ltd",2060,02 9936 8555,2297.0499999999997
+3/9/2005 0:00,1735.3,37,Australia,Classic Cars,46.9,201 Miller Street,North Sydney,NSW,"Anna's Decorations, Ltd",2060,02 9936 8555,1735.3
+5/1/2005 0:00,4427.73,27,Canada,Classic Cars,100,43 rue St. Laurent,Montreal,Quebec,Quebec Home Shopping Network,H1J 1C3,(514) 555-8054,2700
+7/2/2003 0:00,8008.56,42,USA,Classic Cars,100,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,4200
+9/5/2003 0:00,9245.76,48,USA,Classic Cars,100,7825 Douglas Av.,Brickhaven,MA,Collectables For Less Inc.,58339,6175558555,4800
+11/4/2003 0:00,5019.9,30,Australia,Classic Cars,100,201 Miller Street,North Sydney,NSW,"Anna's Decorations, Ltd",2060,02 9936 8555,3000
+8/2/2004 0:00,9631,50,USA,Classic Cars,100,7635 Spinnaker Dr.,Brickhaven,MA,Online Mini Collectables,58339,6175557555,5000
+11/15/2004 0:00,2930.27,41,USA,Classic Cars,71.47,897 Long Airport Avenue,NYC,NY,Land of Toys Inc.,10022,2125557818,2930.27
+6/3/2003 0:00,11279.2,46,USA,Classic Cars,100,4092 Furth Circle,NYC,NY,Muscle Machine Inc,10022,2125557413,4600
+8/8/2003 0:00,8023.29,33,USA,Classic Cars,100,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,3300
+11/14/2003 0:00,3883.74,21,USA,Classic Cars,100,4575 Hillside Dr.,New Bedford,MA,Mini Creations Ltd.,50553,5085559555,2100
+11/26/2003 0:00,8887.7,47,USA,Classic Cars,100,567 North Pendale Street,New Haven,CT,Super Scale Inc.,97823,2035559545,4700
+7/20/2004 0:00,5818.4,35,USA,Classic Cars,100,7586 Pompton St.,Allentown,PA,Diecast Classics Inc.,70267,2155551555,3500
+8/20/2004 0:00,7071.27,41,USA,Classic Cars,100,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,4100
+1/23/2005 0:00,3560.64,32,USA,Classic Cars,100,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,3200
+2/17/2005 0:00,3823.64,34,USA,Classic Cars,100,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,3400
+5/5/2005 0:00,8677.8,36,USA,Classic Cars,100,25593 South Bay Ln.,Bridgewater,CT,Gift Depot Inc.,97562,2035552570,3600
+3/26/2003 0:00,3415.44,21,USA,Trucks and Buses,100,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,2100
+7/24/2003 0:00,4829.8,38,USA,Trucks and Buses,100,9408 Furth Circle,Burlingame,CA,Technics Stores Inc.,94217,6505556809,3800
+11/6/2003 0:00,6817.22,43,Australia,Trucks and Buses,100,31 Duncan St. West End,South Brisbane,Queensland,"Australian Gift Network, Co",4101,61-7-3844-6555,4300
+11/13/2003 0:00,6163.94,41,USA,Trucks and Buses,100,782 First Street,Philadelphia,PA,"Classic Gift Ideas, Inc",71270,2155554695,4100
+12/5/2003 0:00,4056.36,28,Canada,Trucks and Buses,100,1900 Oak St.,Vancouver,BC,Canadian Gift Exchange Network,V3F 2K1,(604) 555-3392,2800
+3/11/2004 0:00,3451,25,USA,Trucks and Buses,100,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,2500
+5/4/2004 0:00,5920.4,38,USA,Trucks and Buses,100,567 North Pendale Street,New Haven,CT,Super Scale Inc.,97823,2035559545,3800
+6/15/2004 0:00,6668.24,41,Japan,Trucks and Buses,100,2-2-8 Roppongi,Minato-ku,Tokyo,"Tokyo Collectables, Ltd",106-0032,+81 3 3584 0555,4100
+7/19/2004 0:00,4094.72,28,Australia,Trucks and Buses,100,"Monitor Money Building, 815 Pacific Hwy",Chatswood,NSW,Souveniers And Things Co.,2067,+61 2 9495 8555,2800
+8/19/2004 0:00,2938.5,25,USA,Trucks and Buses,100,7586 Pompton St.,Allentown,PA,Diecast Classics Inc.,70267,2155551555,2500
+10/22/2004 0:00,2669.1,21,Canada,Trucks and Buses,100,1900 Oak St.,Vancouver,BC,Canadian Gift Exchange Network,V3F 2K1,(604) 555-3392,2100
+11/4/2004 0:00,4784.13,27,USA,Trucks and Buses,100,2304 Long Airport Avenue,Nashua,NH,Online Diecast Creations Co.,62005,6035558647,2700
+11/29/2004 0:00,3586.43,29,Australia,Trucks and Buses,100,636 St Kilda Road,Melbourne,Victoria,"Australian Collectors, Co.",3004,03 9520 4555,2900
+12/10/2004 0:00,5960.36,49,USA,Trucks and Buses,100,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,4900
+1/20/2005 0:00,8470.14,49,Australia,Trucks and Buses,100,201 Miller Street,North Sydney,NSW,"Anna's Decorations, Ltd",2060,02 9936 8555,4900
+3/9/2005 0:00,2464.8,39,Australia,Trucks and Buses,63.2,201 Miller Street,North Sydney,NSW,"Anna's Decorations, Ltd",2060,02 9936 8555,2464.8
+5/1/2005 0:00,6232,40,Canada,Trucks and Buses,100,43 rue St. Laurent,Montreal,Quebec,Quebec Home Shopping Network,H1J 1C3,(514) 555-8054,4000
+2/24/2003 0:00,3036.6,21,USA,Motorcycles,100,897 Long Airport Avenue,NYC,NY,Land of Toys Inc.,10022,2125557818,2100
+8/25/2003 0:00,8339.8,49,USA,Motorcycles,100,78934 Hillside Dr.,Pasadena,CA,Toys4GrownUps.com,90003,6265557265,4900
+11/4/2003 0:00,4639.25,35,Australia,Motorcycles,100,201 Miller Street,North Sydney,NSW,"Anna's Decorations, Ltd",2060,02 9936 8555,3500
+11/18/2003 0:00,4512.48,28,USA,Motorcycles,100,78934 Hillside Dr.,Pasadena,CA,Toys4GrownUps.com,90003,6265557265,2800
+4/5/2004 0:00,4193.28,32,USA,Motorcycles,100,2678 Kingston Rd.,NYC,NY,Vitachrome Inc.,10022,2125551500,3200
+5/18/2004 0:00,7552.28,46,USA,Motorcycles,100,7476 Moss Rd.,Newark,NJ,Tekni Collectables Inc.,94019,2015559350,4600
+6/28/2004 0:00,6434.4,48,USA,Motorcycles,100,25593 South Bay Ln.,Bridgewater,CT,Gift Depot Inc.,97562,2035552570,4800
+8/2/2004 0:00,5181.5,43,USA,Motorcycles,100,7635 Spinnaker Dr.,Brickhaven,MA,Online Mini Collectables,58339,6175557555,4300
+8/27/2004 0:00,6863.92,49,USA,Motorcycles,100,39323 Spinnaker Dr.,Cambridge,MA,Marta's Replicas Co.,51247,6175558555,4900
+11/3/2004 0:00,4111.8,30,USA,Motorcycles,100,5290 North Pendale Street,NYC,NY,Microscale Inc.,10022,2125551957,3000
+11/15/2004 0:00,3542.64,24,USA,Motorcycles,100,897 Long Airport Avenue,NYC,NY,Land of Toys Inc.,10022,2125557818,2400
+1/5/2005 0:00,3877.06,22,USA,Motorcycles,100,9408 Furth Circle,Burlingame,CA,Technics Stores Inc.,94217,6505556809,2200
+3/3/2005 0:00,5951.44,44,USA,Motorcycles,100,1785 First Street,New Bedford,MA,FunGiftIdeas.com,50553,5085552555,4400
+6/3/2003 0:00,7366.44,46,USA,Classic Cars,100,4092 Furth Circle,NYC,NY,Muscle Machine Inc,10022,2125557413,4600
+8/8/2003 0:00,4985.64,33,USA,Classic Cars,100,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,3300
+11/14/2003 0:00,4038.21,33,USA,Classic Cars,100,4575 Hillside Dr.,New Bedford,MA,Mini Creations Ltd.,50553,5085559555,3300
+11/26/2003 0:00,3807.12,24,USA,Classic Cars,100,567 North Pendale Street,New Haven,CT,Super Scale Inc.,97823,2035559545,2400
+7/20/2004 0:00,4283.01,27,USA,Classic Cars,100,7586 Pompton St.,Allentown,PA,Diecast Classics Inc.,70267,2155551555,2700
+8/20/2004 0:00,4364.82,27,USA,Classic Cars,100,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,2700
+11/5/2004 0:00,1466.91,27,USA,Classic Cars,54.33,2678 Kingston Rd.,NYC,NY,Vitachrome Inc.,10022,2125551500,1466.9099999999999
+1/26/2005 0:00,5862,40,Japan,Classic Cars,100,2-2-8 Roppongi,Minato-ku,Tokyo,"Tokyo Collectables, Ltd",106-0032,+81 3 3584 0555,4000
+2/17/2005 0:00,4071.85,37,USA,Classic Cars,100,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,3700
+5/5/2005 0:00,8236.75,47,USA,Classic Cars,100,25593 South Bay Ln.,Bridgewater,CT,Gift Depot Inc.,97562,2035552570,4700
+7/2/2003 0:00,6031.68,48,USA,Classic Cars,100,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,4800
+9/5/2003 0:00,3494.94,31,USA,Classic Cars,100,7825 Douglas Av.,Brickhaven,MA,Collectables For Less Inc.,58339,6175558555,3100
+8/2/2004 0:00,5464.69,47,USA,Classic Cars,100,7635 Spinnaker Dr.,Brickhaven,MA,Online Mini Collectables,58339,6175557555,4700
+11/15/2004 0:00,3846.98,46,USA,Classic Cars,83.63,897 Long Airport Avenue,NYC,NY,Land of Toys Inc.,10022,2125557818,3846.9799999999996
+2/8/2005 0:00,3987.2,35,USA,Classic Cars,100,4097 Douglas Av.,Glendale,CA,Boards & Toys Co.,92561,3105552373,3500
+6/3/2003 0:00,8138.76,42,USA,Classic Cars,100,4092 Furth Circle,NYC,NY,Muscle Machine Inc,10022,2125557413,4200
+8/8/2003 0:00,9470.94,46,USA,Classic Cars,100,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,4600
+11/14/2003 0:00,7886.2,43,USA,Classic Cars,100,4575 Hillside Dr.,New Bedford,MA,Mini Creations Ltd.,50553,5085559555,4300
+11/26/2003 0:00,7232.16,38,USA,Classic Cars,100,567 North Pendale Street,New Haven,CT,Super Scale Inc.,97823,2035559545,3800
+7/20/2004 0:00,7962.24,39,USA,Classic Cars,100,7586 Pompton St.,Allentown,PA,Diecast Classics Inc.,70267,2155551555,3900
+8/20/2004 0:00,3778.8,24,USA,Classic Cars,100,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,2400
+12/1/2004 0:00,4408.56,26,USA,Classic Cars,100,4092 Furth Circle,NYC,NY,Muscle Machine Inc,10022,2125557413,2600
+1/26/2005 0:00,5941.5,34,Japan,Classic Cars,100,2-2-8 Roppongi,Minato-ku,Tokyo,"Tokyo Collectables, Ltd",106-0032,+81 3 3584 0555,3400
+2/17/2005 0:00,3241.9,34,USA,Classic Cars,95.35,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,3241.8999999999996
+3/23/2005 0:00,6109.29,33,USA,Classic Cars,100,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,3300
+5/5/2005 0:00,3387.78,22,USA,Classic Cars,100,25593 South Bay Ln.,Bridgewater,CT,Gift Depot Inc.,97562,2035552570,2200
+7/2/2003 0:00,1800.24,24,USA,Classic Cars,75.01,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,1800.2400000000002
+9/5/2003 0:00,1340.64,21,USA,Classic Cars,63.84,7825 Douglas Av.,Brickhaven,MA,Collectables For Less Inc.,58339,6175558555,1340.64
+11/4/2003 0:00,2298.24,36,Australia,Classic Cars,63.84,201 Miller Street,North Sydney,NSW,"Anna's Decorations, Ltd",2060,02 9936 8555,2298.2400000000002
+8/2/2004 0:00,3184.02,38,USA,Classic Cars,83.79,7635 Spinnaker Dr.,Brickhaven,MA,Online Mini Collectables,58339,6175557555,3184.0200000000004
+11/15/2004 0:00,3607.56,33,USA,Classic Cars,100,897 Long Airport Avenue,NYC,NY,Land of Toys Inc.,10022,2125557818,3300
+4/4/2003 0:00,5723.78,46,USA,Trucks and Buses,100,5905 Pompton St.,NYC,NY,Classic Legends Inc.,10022,2125558493,4600
+6/3/2003 0:00,2559.6,24,USA,Trucks and Buses,100,4092 Furth Circle,NYC,NY,Muscle Machine Inc,10022,2125557413,2400
+11/25/2003 0:00,6445.46,49,USA,Trucks and Buses,100,3758 North Pendale Street,White Plains,NY,Mini Classics,24067,9145554562,4900
+12/9/2003 0:00,3384.36,34,USA,Trucks and Buses,99.54,6251 Ingle Ln.,Boston,MA,Diecast Collectables,51003,6175552555,3384.36
+2/10/2004 0:00,4891.68,48,USA,Trucks and Buses,100,2793 Furth Circle,Brisbane,CA,Signal Collectibles Ltd.,94217,4155554312,4800
+3/11/2004 0:00,4521.96,36,USA,Trucks and Buses,100,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,3600
+7/20/2004 0:00,3012.27,31,USA,Trucks and Buses,97.17,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,3012.27
+8/19/2004 0:00,5247.18,41,USA,Trucks and Buses,100,7586 Pompton St.,Allentown,PA,Diecast Classics Inc.,70267,2155551555,4100
+9/8/2004 0:00,2214.87,21,USA,Trucks and Buses,100,897 Long Airport Avenue,NYC,NY,Land of Toys Inc.,10022,2125557818,2100
+10/13/2004 0:00,4773.18,38,USA,Trucks and Buses,100,39323 Spinnaker Dr.,Cambridge,MA,Marta's Replicas Co.,51247,6175558555,3800
+11/5/2004 0:00,1517.88,26,USA,Trucks and Buses,58.38,2678 Kingston Rd.,NYC,NY,Vitachrome Inc.,10022,2125551500,1517.88
+12/1/2004 0:00,5232.96,48,USA,Trucks and Buses,100,4092 Furth Circle,NYC,NY,Muscle Machine Inc,10022,2125557413,4800
+1/23/2005 0:00,1749.79,49,USA,Trucks and Buses,35.71,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,1749.79
+2/17/2005 0:00,2130.56,32,USA,Trucks and Buses,66.58,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,2130.56
+7/2/2003 0:00,2838.81,29,USA,Classic Cars,97.89,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,2838.81
+9/5/2003 0:00,3230.37,33,USA,Classic Cars,97.89,7825 Douglas Av.,Brickhaven,MA,Collectables For Less Inc.,58339,6175558555,3230.37
+11/20/2003 0:00,3544.56,27,USA,Classic Cars,100,2304 Long Airport Avenue,Nashua,NH,Online Diecast Creations Co.,62005,6035558647,2700
+11/4/2004 0:00,2984.88,24,USA,Classic Cars,100,1785 First Street,New Bedford,MA,FunGiftIdeas.com,50553,5085552555,2400
+11/15/2004 0:00,2524.86,39,USA,Classic Cars,64.74,897 Long Airport Avenue,NYC,NY,Land of Toys Inc.,10022,2125557818,2524.8599999999997
+3/26/2003 0:00,4916.66,49,USA,Trucks and Buses,100,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,4900
+7/24/2003 0:00,4181.44,32,USA,Trucks and Buses,100,9408 Furth Circle,Burlingame,CA,Technics Stores Inc.,94217,6505556809,3200
+11/6/2003 0:00,4480.32,48,Australia,Trucks and Buses,93.34,31 Duncan St. West End,South Brisbane,Queensland,"Australian Gift Network, Co",4101,61-7-3844-6555,4480.32
+11/13/2003 0:00,2033.64,21,USA,Trucks and Buses,96.84,782 First Street,Philadelphia,PA,"Classic Gift Ideas, Inc",71270,2155554695,2033.64
+12/5/2003 0:00,3966.78,34,Canada,Trucks and Buses,100,1900 Oak St.,Vancouver,BC,Canadian Gift Exchange Network,V3F 2K1,(604) 555-3392,3400
+1/29/2004 0:00,5152,46,USA,Trucks and Buses,100,3675 Furth Circle,Burbank,CA,West Coast Collectables Co.,94019,3105553722,4600
+3/10/2004 0:00,3360,32,USA,Trucks and Buses,100,4658 Baden Av.,Cambridge,MA,Cambridge Collectables Co.,51247,6175555555,3200
+5/4/2004 0:00,3451,29,USA,Trucks and Buses,100,567 North Pendale Street,New Haven,CT,Super Scale Inc.,97823,2035559545,2900
+6/15/2004 0:00,5453,41,Japan,Trucks and Buses,100,2-2-8 Roppongi,Minato-ku,Tokyo,"Tokyo Collectables, Ltd",106-0032,+81 3 3584 0555,4100
+7/19/2004 0:00,4164.12,43,Australia,Trucks and Buses,96.84,"Monitor Money Building, 815 Pacific Hwy",Chatswood,NSW,Souveniers And Things Co.,2067,+61 2 9495 8555,4164.12
+10/21/2004 0:00,4181.44,32,USA,Trucks and Buses,100,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,3200
+11/4/2004 0:00,2251.04,22,USA,Trucks and Buses,100,2304 Long Airport Avenue,Nashua,NH,Online Diecast Creations Co.,62005,6035558647,2200
+11/29/2004 0:00,2083.2,42,Australia,Trucks and Buses,49.6,636 St Kilda Road,Melbourne,Victoria,"Australian Collectors, Co.",3004,03 9520 4555,2083.2000000000003
+12/10/2004 0:00,3822,39,USA,Trucks and Buses,98,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,3822
+1/20/2005 0:00,3911.49,27,Australia,Trucks and Buses,100,201 Miller Street,North Sydney,NSW,"Anna's Decorations, Ltd",2060,02 9936 8555,2700
+3/9/2005 0:00,2467.9,29,Australia,Trucks and Buses,85.1,201 Miller Street,North Sydney,NSW,"Anna's Decorations, Ltd",2060,02 9936 8555,2467.8999999999996
+5/1/2005 0:00,3213,27,Canada,Trucks and Buses,100,43 rue St. Laurent,Montreal,Quebec,Quebec Home Shopping Network,H1J 1C3,(514) 555-8054,2700
+3/10/2003 0:00,4379.18,26,USA,Classic Cars,100,11328 Douglas Av.,Philadelphia,PA,Motor Mint Distributors Inc.,71270,2155559857,2600
+9/11/2003 0:00,2702.04,23,Australia,Classic Cars,100,201 Miller Street,North Sydney,NSW,"Anna's Decorations, Ltd",2060,02 9936 8555,2300
+11/5/2003 0:00,4508,35,Canada,Classic Cars,100,43 rue St. Laurent,Montreal,Quebec,Quebec Home Shopping Network,H1J 1C3,(514) 555-8054,3500
+11/20/2003 0:00,3300.66,22,USA,Classic Cars,100,2304 Long Airport Avenue,Nashua,NH,Online Diecast Creations Co.,62005,6035558647,2200
+12/2/2003 0:00,6182.4,42,USA,Classic Cars,100,4092 Furth Circle,NYC,NY,Muscle Machine Inc,10022,2125557413,4200
+4/13/2004 0:00,5628.89,41,Japan,Classic Cars,100,"Dojima Avanza 4F, 1-6-20 Dojima, Kita-ku",Osaka,Osaka,Osaka Souveniers Co.,530-0003,+81 06 6342 5555,4100
+8/6/2004 0:00,4667.86,34,USA,Classic Cars,100,8489 Strong St.,Las Vegas,NV,Signal Gift Stores,83030,7025551838,3400
+11/4/2004 0:00,5803.14,41,USA,Classic Cars,100,1785 First Street,New Bedford,MA,FunGiftIdeas.com,50553,5085552555,4100
+11/17/2004 0:00,6434.02,46,USA,Classic Cars,100,11328 Douglas Av.,Philadelphia,PA,Motor Mint Distributors Inc.,71270,2155559857,4600
+11/24/2004 0:00,6454.4,40,Australia,Classic Cars,100,636 St Kilda Road,Melbourne,Victoria,"Australian Collectors, Co.",3004,03 9520 4555,4000
+1/7/2005 0:00,2611.8,30,USA,Classic Cars,87.06,4575 Hillside Dr.,New Bedford,MA,Mini Creations Ltd.,50553,5085559555,2611.8
+3/4/2005 0:00,3375.72,36,USA,Classic Cars,93.77,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,3375.72
+1/10/2003 0:00,4808.31,39,USA,Vintage Cars,100,2678 Kingston Rd.,NYC,NY,Vitachrome Inc.,10022,2125551500,3900
+5/21/2003 0:00,3254.72,32,Australia,Vintage Cars,100,636 St Kilda Road,Melbourne,Victoria,"Australian Collectors, Co.",3004,03 9520 4555,3200
+7/16/2003 0:00,3184.94,31,Australia,Vintage Cars,100,"Monitor Money Building, 815 Pacific Hwy",Chatswood,NSW,Souveniers And Things Co.,2067,+61 2 9495 8555,3100
+9/12/2003 0:00,5907.5,50,USA,Vintage Cars,100,2793 Furth Circle,Brisbane,CA,Signal Collectibles Ltd.,94217,4155554312,5000
+11/12/2003 0:00,2183.25,25,USA,Vintage Cars,87.33,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,2183.25
+11/21/2003 0:00,3106.88,28,Australia,Vintage Cars,100,7 Allen Street,Glen Waverly,Victoria,"Australian Collectables, Ltd",3150,61-9-3844-6555,2800
+1/29/2004 0:00,2413.26,27,USA,Vintage Cars,89.38,3675 Furth Circle,Burbank,CA,West Coast Collectables Co.,94019,3105553722,2413.2599999999998
+10/21/2004 0:00,3843.34,43,USA,Vintage Cars,89.38,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,3843.3399999999997
+11/4/2004 0:00,3710.9,43,USA,Vintage Cars,86.3,2304 Long Airport Avenue,Nashua,NH,Online Diecast Creations Co.,62005,6035558647,3710.9
+11/29/2004 0:00,1516.62,42,USA,Vintage Cars,36.11,8489 Strong St.,Las Vegas,NV,Signal Gift Stores,83030,7025551838,1516.62
+1/20/2005 0:00,9240.44,44,USA,Vintage Cars,100,7825 Douglas Av.,Brickhaven,MA,Collectables For Less Inc.,58339,6175558555,4400
+3/9/2005 0:00,5548.9,35,Australia,Vintage Cars,100,201 Miller Street,North Sydney,NSW,"Anna's Decorations, Ltd",2060,02 9936 8555,3500
+5/30/2005 0:00,4873.05,51,USA,Vintage Cars,95.55,7586 Pompton St.,Allentown,PA,Diecast Classics Inc.,70267,2155551555,4873.05
+1/10/2003 0:00,2055.74,41,USA,Vintage Cars,50.14,2678 Kingston Rd.,NYC,NY,Vitachrome Inc.,10022,2125551500,2055.7400000000002
+7/16/2003 0:00,2113.37,49,Australia,Vintage Cars,43.13,"Monitor Money Building, 815 Pacific Hwy",Chatswood,NSW,Souveniers And Things Co.,2067,+61 2 9495 8555,2113.3700000000003
+9/12/2003 0:00,1746.6,30,USA,Vintage Cars,58.22,2793 Furth Circle,Brisbane,CA,Signal Collectibles Ltd.,94217,4155554312,1746.6
+11/12/2003 0:00,1742.4,32,USA,Vintage Cars,54.45,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,1742.4
+11/21/2003 0:00,2455.02,46,Australia,Vintage Cars,53.37,7 Allen Street,Glen Waverly,Victoria,"Australian Collectables, Ltd",3150,61-9-3844-6555,2455.02
+1/29/2004 0:00,1423.29,33,USA,Vintage Cars,43.13,3675 Furth Circle,Burbank,CA,West Coast Collectables Co.,94019,3105553722,1423.2900000000002
+10/21/2004 0:00,1105.25,25,USA,Vintage Cars,44.21,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,1105.25
+11/4/2004 0:00,2364.88,41,USA,Vintage Cars,57.68,2304 Long Airport Avenue,Nashua,NH,Online Diecast Creations Co.,62005,6035558647,2364.88
+11/29/2004 0:00,1237.95,21,Australia,Vintage Cars,58.95,636 St Kilda Road,Melbourne,Victoria,"Australian Collectors, Co.",3004,03 9520 4555,1237.95
+1/20/2005 0:00,3156.16,32,USA,Vintage Cars,98.63,7825 Douglas Av.,Brickhaven,MA,Collectables For Less Inc.,58339,6175558555,3156.16
+3/9/2005 0:00,4998,42,Australia,Vintage Cars,100,201 Miller Street,North Sydney,NSW,"Anna's Decorations, Ltd",2060,02 9936 8555,4200
+5/30/2005 0:00,1293.75,25,USA,Vintage Cars,51.75,7586 Pompton St.,Allentown,PA,Diecast Classics Inc.,70267,2155551555,1293.75
+9/11/2003 0:00,5848.68,47,Australia,Classic Cars,100,201 Miller Street,North Sydney,NSW,"Anna's Decorations, Ltd",2060,02 9936 8555,4700
+11/5/2003 0:00,4965.24,42,USA,Classic Cars,100,25593 South Bay Ln.,Bridgewater,CT,Gift Depot Inc.,97562,2035552570,4200
+11/20/2003 0:00,4258.36,29,USA,Classic Cars,100,2304 Long Airport Avenue,Nashua,NH,Online Diecast Creations Co.,62005,6035558647,2900
+12/2/2003 0:00,4032,40,USA,Classic Cars,100,4092 Furth Circle,NYC,NY,Muscle Machine Inc,10022,2125557413,4000
+2/26/2004 0:00,4161.38,38,USA,Classic Cars,100,361 Furth Circle,San Diego,CA,Collectable Mini Designs Co.,91217,7605558146,3800
+8/6/2004 0:00,2604.52,23,USA,Classic Cars,100,8489 Strong St.,Las Vegas,NV,Signal Gift Stores,83030,7025551838,2300
+11/4/2004 0:00,4489.76,44,USA,Classic Cars,100,1785 First Street,New Bedford,MA,FunGiftIdeas.com,50553,5085552555,4400
+11/17/2004 0:00,4849.24,44,USA,Classic Cars,100,11328 Douglas Av.,Philadelphia,PA,Motor Mint Distributors Inc.,71270,2155559857,4400
+1/12/2005 0:00,2758.7,49,USA,Classic Cars,56.3,78934 Hillside Dr.,Pasadena,CA,Toys4GrownUps.com,90003,6265557265,2758.7
+4/22/2005 0:00,7048.14,59,USA,Classic Cars,100,3086 Ingle Ln.,San Jose,CA,The Sharp Gifts Warehouse,94217,4085553659,5900
+6/16/2003 0:00,2781.66,21,USA,Planes,100,2440 Pompton St.,Glendale,CT,Gift Ideas Corp.,97561,2035554407,2100
+8/10/2003 0:00,5248,32,USA,Planes,100,4575 Hillside Dr.,New Bedford,MA,Mini Creations Ltd.,50553,5085559555,3200
+1/12/2004 0:00,5719.5,31,Japan,Planes,100,"Dojima Avanza 4F, 1-6-20 Dojima, Kita-ku",Osaka,Osaka,Osaka Souveniers Co.,530-0003,+81 06 6342 5555,3100
+2/19/2004 0:00,6954.08,49,USA,Planes,100,361 Furth Circle,San Diego,CA,Collectable Mini Designs Co.,91217,7605558146,4900
+5/11/2004 0:00,8160.3,45,USA,Planes,100,3086 Ingle Ln.,San Jose,CA,The Sharp Gifts Warehouse,94217,4085553659,4500
+7/21/2004 0:00,6724,41,USA,Planes,100,7825 Douglas Av.,Brickhaven,MA,Collectables For Less Inc.,58339,6175558555,4100
+10/14/2004 0:00,7379.97,39,USA,Planes,100,782 First Street,Philadelphia,PA,"Classic Gift Ideas, Inc",71270,2155554695,3900
+11/1/2004 0:00,3704.13,27,UK,Planes,100,Garden House Crowther Way,Cowes,Isle of Wight,giftsbymail.co.uk,PO31 7PJ,(198) 555-8888,2700
+4/1/2005 0:00,6433.82,34,USA,Planes,100,3086 Ingle Ln.,San Jose,CA,The Sharp Gifts Warehouse,94217,4085553659,3400
+1/6/2003 0:00,5151,30,USA,Vintage Cars,100,2304 Long Airport Avenue,Nashua,NH,Online Diecast Creations Co.,62005,6035558647,3000
+5/21/2003 0:00,2856,21,USA,Vintage Cars,100,8489 Strong St.,Las Vegas,NV,Signal Gift Stores,83030,7025551838,2100
+9/12/2003 0:00,5375.4,34,USA,Vintage Cars,100,2793 Furth Circle,Brisbane,CA,Signal Collectibles Ltd.,94217,4155554312,3400
+11/12/2003 0:00,7554.8,44,USA,Vintage Cars,100,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,4400
+11/21/2003 0:00,3141.6,21,Australia,Vintage Cars,100,7 Allen Street,Glen Waverly,Victoria,"Australian Collectables, Ltd",3150,61-9-3844-6555,2100
+12/2/2003 0:00,5890.5,33,USA,Vintage Cars,100,4092 Furth Circle,NYC,NY,Muscle Machine Inc,10022,2125557413,3300
+10/21/2004 0:00,8078.4,48,USA,Vintage Cars,100,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,4800
+11/17/2004 0:00,3257.76,44,USA,Vintage Cars,74.04,11328 Douglas Av.,Philadelphia,PA,Motor Mint Distributors Inc.,71270,2155559857,3257.76
+1/12/2005 0:00,4703.81,37,USA,Vintage Cars,100,78934 Hillside Dr.,Pasadena,CA,Toys4GrownUps.com,90003,6265557265,3700
+4/22/2005 0:00,14082.8,76,USA,Vintage Cars,100,3086 Ingle Ln.,San Jose,CA,The Sharp Gifts Warehouse,94217,4085553659,7600
+5/29/2005 0:00,5283.6,37,Australia,Vintage Cars,100,"Monitor Money Building, 815 Pacific Hwy",Chatswood,NSW,Souveniers And Things Co.,2067,+61 2 9495 8555,3700
+7/2/2003 0:00,3806.88,48,USA,Classic Cars,79.31,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,3806.88
+9/5/2003 0:00,2142.14,26,USA,Classic Cars,82.39,7825 Douglas Av.,Brickhaven,MA,Collectables For Less Inc.,58339,6175558555,2142.14
+11/20/2003 0:00,4088.7,45,USA,Classic Cars,90.86,2304 Long Airport Avenue,Nashua,NH,Online Diecast Creations Co.,62005,6035558647,4088.7
+8/6/2004 0:00,2634.94,29,USA,Classic Cars,90.86,8489 Strong St.,Las Vegas,NV,Signal Gift Stores,83030,7025551838,2634.94
+11/4/2004 0:00,2905.98,37,USA,Classic Cars,78.54,1785 First Street,New Bedford,MA,FunGiftIdeas.com,50553,5085552555,2905.98
+11/15/2004 0:00,2954.81,29,USA,Classic Cars,100,897 Long Airport Avenue,NYC,NY,Land of Toys Inc.,10022,2125557818,2900
+11/24/2004 0:00,3599.75,55,Australia,Classic Cars,65.45,636 St Kilda Road,Melbourne,Victoria,"Australian Collectors, Co.",3004,03 9520 4555,3599.75
+3/10/2003 0:00,4432.7,38,USA,Classic Cars,100,11328 Douglas Av.,Philadelphia,PA,Motor Mint Distributors Inc.,71270,2155559857,3800
+9/11/2003 0:00,4232,25,Australia,Classic Cars,100,201 Miller Street,North Sydney,NSW,"Anna's Decorations, Ltd",2060,02 9936 8555,2500
+11/5/2003 0:00,4680.2,35,Canada,Classic Cars,100,43 rue St. Laurent,Montreal,Quebec,Quebec Home Shopping Network,H1J 1C3,(514) 555-8054,3500
+11/20/2003 0:00,7421.3,47,USA,Classic Cars,100,2304 Long Airport Avenue,Nashua,NH,Online Diecast Creations Co.,62005,6035558647,4700
+12/2/2003 0:00,6432.64,38,USA,Classic Cars,100,4092 Furth Circle,NYC,NY,Muscle Machine Inc,10022,2125557413,3800
+2/26/2004 0:00,3892.08,24,USA,Classic Cars,100,361 Furth Circle,San Diego,CA,Collectable Mini Designs Co.,91217,7605558146,2400
+4/13/2004 0:00,5526.32,37,Japan,Classic Cars,100,"Dojima Avanza 4F, 1-6-20 Dojima, Kita-ku",Osaka,Osaka,Osaka Souveniers Co.,530-0003,+81 06 6342 5555,3700
+8/6/2004 0:00,3754.05,29,USA,Classic Cars,100,8489 Strong St.,Las Vegas,NV,Signal Gift Stores,83030,7025551838,2900
+11/4/2004 0:00,3734,25,USA,Classic Cars,100,1785 First Street,New Bedford,MA,FunGiftIdeas.com,50553,5085552555,2500
+11/17/2004 0:00,974.1,30,USA,Classic Cars,32.47,11328 Douglas Av.,Philadelphia,PA,Motor Mint Distributors Inc.,71270,2155559857,974.0999999999999
+11/24/2004 0:00,3160.74,22,Australia,Classic Cars,100,636 St Kilda Road,Melbourne,Victoria,"Australian Collectors, Co.",3004,03 9520 4555,2200
+3/4/2005 0:00,1463.7,34,USA,Classic Cars,43.05,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,1463.6999999999998
+4/4/2003 0:00,7381.16,46,USA,Classic Cars,100,5905 Pompton St.,NYC,NY,Classic Legends Inc.,10022,2125558493,4600
+6/3/2003 0:00,7146.9,45,USA,Classic Cars,100,4092 Furth Circle,NYC,NY,Muscle Machine Inc,10022,2125557413,4500
+11/25/2003 0:00,5128.11,27,USA,Classic Cars,100,3758 North Pendale Street,White Plains,NY,Mini Classics,24067,9145554562,2700
+12/9/2003 0:00,7060.24,44,USA,Classic Cars,100,6251 Ingle Ln.,Boston,MA,Diecast Collectables,51003,6175552555,4400
+2/10/2004 0:00,8448.64,43,USA,Classic Cars,100,2793 Furth Circle,Brisbane,CA,Signal Collectibles Ltd.,94217,4155554312,4300
+7/20/2004 0:00,9169,50,USA,Classic Cars,100,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,5000
+8/20/2004 0:00,3238.63,23,USA,Classic Cars,100,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,2300
+9/8/2004 0:00,4554.94,26,USA,Classic Cars,100,897 Long Airport Avenue,NYC,NY,Land of Toys Inc.,10022,2125557818,2600
+10/13/2004 0:00,3934.44,27,USA,Classic Cars,100,39323 Spinnaker Dr.,Cambridge,MA,Marta's Replicas Co.,51247,6175558555,2700
+11/5/2004 0:00,7207.45,47,USA,Classic Cars,100,2678 Kingston Rd.,NYC,NY,Vitachrome Inc.,10022,2125551500,4700
+12/1/2004 0:00,6719.54,38,USA,Classic Cars,100,4092 Furth Circle,NYC,NY,Muscle Machine Inc,10022,2125557413,3800
+1/23/2005 0:00,2602.25,25,USA,Classic Cars,100,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,2500
+2/17/2005 0:00,2200,25,USA,Classic Cars,88,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,2200
+1/6/2003 0:00,3390,50,USA,Vintage Cars,67.8,2304 Long Airport Avenue,Nashua,NH,Online Diecast Creations Co.,62005,6035558647,3390
+5/21/2003 0:00,2262.96,42,USA,Vintage Cars,53.88,8489 Strong St.,Las Vegas,NV,Signal Gift Stores,83030,7025551838,2262.96
+9/12/2003 0:00,1496.64,24,USA,Vintage Cars,62.36,2793 Furth Circle,Brisbane,CA,Signal Collectibles Ltd.,94217,4155554312,1496.6399999999999
+11/12/2003 0:00,2323.7,38,USA,Vintage Cars,61.15,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,2323.7
+11/21/2003 0:00,2491.86,42,Australia,Vintage Cars,59.33,7 Allen Street,Glen Waverly,Victoria,"Australian Collectables, Ltd",3150,61-9-3844-6555,2491.86
+12/2/2003 0:00,1643.12,23,USA,Vintage Cars,71.44,4092 Furth Circle,NYC,NY,Muscle Machine Inc,10022,2125557413,1643.12
+10/21/2004 0:00,1834.5,30,USA,Vintage Cars,61.15,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,1834.5
+1/12/2005 0:00,8884.8,45,USA,Vintage Cars,100,78934 Hillside Dr.,Pasadena,CA,Toys4GrownUps.com,90003,6265557265,4500
+4/22/2005 0:00,3051.3,42,USA,Vintage Cars,72.65,3086 Ingle Ln.,San Jose,CA,The Sharp Gifts Warehouse,94217,4085553659,3051.3
+5/29/2005 0:00,2288.52,36,Australia,Vintage Cars,63.57,"Monitor Money Building, 815 Pacific Hwy",Chatswood,NSW,Souveniers And Things Co.,2067,+61 2 9495 8555,2288.52
+6/3/2003 0:00,6295.95,45,USA,Trucks and Buses,100,4092 Furth Circle,NYC,NY,Muscle Machine Inc,10022,2125557413,4500
+11/25/2003 0:00,3608.15,35,USA,Trucks and Buses,100,3758 North Pendale Street,White Plains,NY,Mini Classics,24067,9145554562,3500
+12/9/2003 0:00,5752.54,43,USA,Trucks and Buses,100,6251 Ingle Ln.,Boston,MA,Diecast Collectables,51003,6175552555,4300
+3/11/2004 0:00,3765.32,26,USA,Trucks and Buses,100,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,2600
+7/20/2004 0:00,5093.5,50,USA,Trucks and Buses,100,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,5000
+8/19/2004 0:00,5773.44,48,USA,Trucks and Buses,100,7586 Pompton St.,Allentown,PA,Diecast Classics Inc.,70267,2155551555,4800
+9/8/2004 0:00,4528.86,41,USA,Trucks and Buses,100,897 Long Airport Avenue,NYC,NY,Land of Toys Inc.,10022,2125557818,4100
+10/13/2004 0:00,4816.08,36,USA,Trucks and Buses,100,39323 Spinnaker Dr.,Cambridge,MA,Marta's Replicas Co.,51247,6175558555,3600
+10/22/2004 0:00,3416.78,29,Canada,Trucks and Buses,100,1900 Oak St.,Vancouver,BC,Canadian Gift Exchange Network,V3F 2K1,(604) 555-3392,2900
+11/5/2004 0:00,1236.84,33,USA,Trucks and Buses,37.48,2678 Kingston Rd.,NYC,NY,Vitachrome Inc.,10022,2125551500,1236.84
+12/1/2004 0:00,5223.48,38,USA,Trucks and Buses,100,4092 Furth Circle,NYC,NY,Muscle Machine Inc,10022,2125557413,3800
+1/20/2005 0:00,3949,22,Australia,Trucks and Buses,100,201 Miller Street,North Sydney,NSW,"Anna's Decorations, Ltd",2060,02 9936 8555,2200
+5/21/2003 0:00,4431.84,42,USA,Vintage Cars,100,8489 Strong St.,Las Vegas,NV,Signal Gift Stores,83030,7025551838,4200
+9/12/2003 0:00,4950.33,33,USA,Vintage Cars,100,2793 Furth Circle,Brisbane,CA,Signal Collectibles Ltd.,94217,4155554312,3300
+11/12/2003 0:00,2212,20,USA,Vintage Cars,100,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,2000
+11/21/2003 0:00,4642.88,44,Australia,Vintage Cars,100,7 Allen Street,Glen Waverly,Victoria,"Australian Collectables, Ltd",3150,61-9-3844-6555,4400
+12/2/2003 0:00,3206.32,26,USA,Vintage Cars,100,4092 Furth Circle,NYC,NY,Muscle Machine Inc,10022,2125557413,2600
+4/26/2004 0:00,6154.18,47,USA,Vintage Cars,100,6251 Ingle Ln.,Boston,MA,Diecast Collectables,51003,6175552555,4700
+10/21/2004 0:00,4729.36,31,USA,Vintage Cars,100,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,3100
+11/4/2004 0:00,12536.5,50,USA,Vintage Cars,100,2304 Long Airport Avenue,Nashua,NH,Online Diecast Creations Co.,62005,6035558647,5000
+1/12/2005 0:00,4196.07,27,USA,Vintage Cars,100,78934 Hillside Dr.,Pasadena,CA,Toys4GrownUps.com,90003,6265557265,2700
+3/4/2005 0:00,3068.69,31,USA,Vintage Cars,98.99,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,3068.69
+5/29/2005 0:00,4977,45,Australia,Vintage Cars,100,"Monitor Money Building, 815 Pacific Hwy",Chatswood,NSW,Souveniers And Things Co.,2067,+61 2 9495 8555,4500
+7/24/2003 0:00,2851.54,46,USA,Trucks and Buses,61.99,9408 Furth Circle,Burlingame,CA,Technics Stores Inc.,94217,6505556809,2851.54
+12/9/2003 0:00,2585.93,37,USA,Trucks and Buses,69.89,6251 Ingle Ln.,Boston,MA,Diecast Collectables,51003,6175552555,2585.93
+3/11/2004 0:00,1667.4,28,USA,Trucks and Buses,59.55,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,1667.3999999999999
+7/20/2004 0:00,1732,25,USA,Trucks and Buses,69.28,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,1732
+8/19/2004 0:00,1674.17,29,USA,Trucks and Buses,57.73,7586 Pompton St.,Allentown,PA,Diecast Classics Inc.,70267,2155551555,1674.1699999999998
+10/13/2004 0:00,2192.68,41,USA,Trucks and Buses,53.48,39323 Spinnaker Dr.,Cambridge,MA,Marta's Replicas Co.,51247,6175558555,2192.68
+10/22/2004 0:00,1797.58,34,Canada,Trucks and Buses,52.87,1900 Oak St.,Vancouver,BC,Canadian Gift Exchange Network,V3F 2K1,(604) 555-3392,1797.58
+11/4/2004 0:00,2142.35,35,USA,Trucks and Buses,61.21,2304 Long Airport Avenue,Nashua,NH,Online Diecast Creations Co.,62005,6035558647,2142.35
+11/29/2004 0:00,6834.5,50,Australia,Trucks and Buses,100,636 St Kilda Road,Melbourne,Victoria,"Australian Collectors, Co.",3004,03 9520 4555,5000
+12/10/2004 0:00,2541.59,41,USA,Trucks and Buses,61.99,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,2541.59
+1/20/2005 0:00,2130.92,22,Australia,Trucks and Buses,96.86,201 Miller Street,North Sydney,NSW,"Anna's Decorations, Ltd",2060,02 9936 8555,2130.92
+3/9/2005 0:00,1694,44,Australia,Trucks and Buses,38.5,201 Miller Street,North Sydney,NSW,"Anna's Decorations, Ltd",2060,02 9936 8555,1694
+4/29/2003 0:00,2082.49,29,Australia,Planes,71.81,636 St Kilda Road,Melbourne,Victoria,"Australian Collectors, Co.",3004,03 9520 4555,2082.4900000000002
+8/25/2003 0:00,2559.6,30,USA,Planes,85.32,78934 Hillside Dr.,Pasadena,CA,Toys4GrownUps.com,90003,6265557265,2559.6
+10/28/2003 0:00,1490.16,21,USA,Planes,70.96,9408 Furth Circle,Burlingame,CA,Technics Stores Inc.,94217,6505556809,1490.1599999999999
+1/12/2004 0:00,3844,50,Japan,Planes,76.88,"Dojima Avanza 4F, 1-6-20 Dojima, Kita-ku",Osaka,Osaka,Osaka Souveniers Co.,530-0003,+81 06 6342 5555,3844
+2/20/2004 0:00,4724.91,47,Australia,Planes,100,636 St Kilda Road,Melbourne,Victoria,"Australian Collectors, Co.",3004,03 9520 4555,4700
+4/2/2004 0:00,1824.72,24,Canada,Planes,76.03,23 Tsawassen Blvd.,Tsawassen,BC,"Royal Canadian Collectables, Ltd.",T2F 8M4,(604) 555-4555,1824.72
+5/11/2004 0:00,2668.68,27,USA,Planes,98.84,3086 Ingle Ln.,San Jose,CA,The Sharp Gifts Warehouse,94217,4085553659,2668.6800000000003
+6/28/2004 0:00,2843.61,33,USA,Planes,86.17,25593 South Bay Ln.,Bridgewater,CT,Gift Depot Inc.,97562,2035552570,2843.61
+10/15/2004 0:00,2235.33,27,USA,Planes,82.79,3758 North Pendale Street,White Plains,NY,Mini Classics,24067,9145554562,2235.3300000000004
+11/2/2004 0:00,3116.43,31,USA,Planes,100,7586 Pompton St.,Allentown,PA,Diecast Classics Inc.,70267,2155551555,3100
+11/23/2004 0:00,2810.7,27,Japan,Planes,100,2-2-8 Roppongi,Minato-ku,Tokyo,"Tokyo Collectables, Ltd",106-0032,+81 3 3584 0555,2700
+12/4/2004 0:00,3515.67,27,USA,Planes,100,2440 Pompton St.,Glendale,CT,Gift Ideas Corp.,97561,2035554407,2700
+2/2/2005 0:00,2909.34,42,Australia,Planes,69.27,31 Duncan St. West End,South Brisbane,Queensland,"Australian Gift Network, Co",4101,61-7-3844-6555,2909.3399999999997
+4/3/2005 0:00,3193.26,42,USA,Planes,76.03,7476 Moss Rd.,Newark,NJ,Tekni Collectables Inc.,94019,2015559350,3193.26
+2/24/2003 0:00,2055.23,29,USA,Motorcycles,70.87,897 Long Airport Avenue,NYC,NY,Land of Toys Inc.,10022,2125557818,2055.23
+4/29/2003 0:00,2674.9,46,Australia,Motorcycles,58.15,636 St Kilda Road,Melbourne,Victoria,"Australian Collectors, Co.",3004,03 9520 4555,2674.9
+8/25/2003 0:00,1490.1,30,USA,Motorcycles,49.67,78934 Hillside Dr.,Pasadena,CA,Toys4GrownUps.com,90003,6265557265,1490.1000000000001
+10/28/2003 0:00,2814.28,46,USA,Motorcycles,61.18,9408 Furth Circle,Burlingame,CA,Technics Stores Inc.,94217,6505556809,2814.28
+1/12/2004 0:00,1986.8,40,Japan,Motorcycles,49.67,"Dojima Avanza 4F, 1-6-20 Dojima, Kita-ku",Osaka,Osaka,Osaka Souveniers Co.,530-0003,+81 06 6342 5555,1986.8000000000002
+2/20/2004 0:00,1695.96,28,Australia,Motorcycles,60.57,636 St Kilda Road,Melbourne,Victoria,"Australian Collectors, Co.",3004,03 9520 4555,1695.96
+4/3/2004 0:00,1281.56,23,USA,Motorcycles,55.72,11328 Douglas Av.,Philadelphia,PA,Motor Mint Distributors Inc.,71270,2155559857,1281.56
+5/18/2004 0:00,1774.22,29,USA,Motorcycles,61.18,7476 Moss Rd.,Newark,NJ,Tekni Collectables Inc.,94019,2015559350,1774.22
+6/28/2004 0:00,1997.5,34,USA,Motorcycles,58.75,25593 South Bay Ln.,Bridgewater,CT,Gift Depot Inc.,97562,2035552570,1997.5
+8/27/2004 0:00,981.2,20,USA,Motorcycles,49.06,39323 Spinnaker Dr.,Cambridge,MA,Marta's Replicas Co.,51247,6175558555,981.2
+10/15/2004 0:00,1771.06,34,USA,Motorcycles,52.09,3758 North Pendale Street,White Plains,NY,Mini Classics,24067,9145554562,1771.0600000000002
+11/2/2004 0:00,2213.4,42,USA,Motorcycles,52.7,7586 Pompton St.,Allentown,PA,Diecast Classics Inc.,70267,2155551555,2213.4
+11/15/2004 0:00,5266.04,38,USA,Motorcycles,100,897 Long Airport Avenue,NYC,NY,Land of Toys Inc.,10022,2125557818,3800
+11/23/2004 0:00,1864.8,30,Japan,Motorcycles,62.16,2-2-8 Roppongi,Minato-ku,Tokyo,"Tokyo Collectables, Ltd",106-0032,+81 3 3584 0555,1864.8
+1/5/2005 0:00,1142.41,23,USA,Motorcycles,49.67,9408 Furth Circle,Burlingame,CA,Technics Stores Inc.,94217,6505556809,1142.41
+2/2/2005 0:00,1172.6,22,Australia,Motorcycles,53.3,31 Duncan St. West End,South Brisbane,Queensland,"Australian Gift Network, Co",4101,61-7-3844-6555,1172.6
+5/21/2003 0:00,6483.46,34,Australia,Vintage Cars,100,636 St Kilda Road,Melbourne,Victoria,"Australian Collectors, Co.",3004,03 9520 4555,3400
+7/16/2003 0:00,7956.46,41,Australia,Vintage Cars,100,"Monitor Money Building, 815 Pacific Hwy",Chatswood,NSW,Souveniers And Things Co.,2067,+61 2 9495 8555,4100
+9/12/2003 0:00,4230.62,23,USA,Vintage Cars,100,2793 Furth Circle,Brisbane,CA,Signal Collectibles Ltd.,94217,4155554312,2300
+11/12/2003 0:00,3047.73,21,USA,Vintage Cars,100,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,2100
+11/21/2003 0:00,3675.32,22,Australia,Vintage Cars,100,7 Allen Street,Glen Waverly,Victoria,"Australian Collectables, Ltd",3150,61-9-3844-6555,2200
+10/21/2004 0:00,3881.25,25,USA,Vintage Cars,100,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,2500
+11/4/2004 0:00,5797.44,36,USA,Vintage Cars,100,2304 Long Airport Avenue,Nashua,NH,Online Diecast Creations Co.,62005,6035558647,3600
+11/29/2004 0:00,4815.3,21,Australia,Vintage Cars,100,636 St Kilda Road,Melbourne,Victoria,"Australian Collectors, Co.",3004,03 9520 4555,2100
+1/12/2005 0:00,3033.28,32,USA,Vintage Cars,94.79,78934 Hillside Dr.,Pasadena,CA,Toys4GrownUps.com,90003,6265557265,3033.28
+3/4/2005 0:00,2030.86,26,USA,Vintage Cars,78.11,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,2030.86
+5/29/2005 0:00,5433.75,35,USA,Vintage Cars,100,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,3500
+3/10/2003 0:00,3157.44,26,USA,Classic Cars,100,11328 Douglas Av.,Philadelphia,PA,Motor Mint Distributors Inc.,71270,2155559857,2600
+9/11/2003 0:00,3528.36,27,Australia,Classic Cars,100,201 Miller Street,North Sydney,NSW,"Anna's Decorations, Ltd",2060,02 9936 8555,2700
+11/5/2003 0:00,6023.16,39,USA,Classic Cars,100,25593 South Bay Ln.,Bridgewater,CT,Gift Depot Inc.,97562,2035552570,3900
+11/20/2003 0:00,4965.84,38,USA,Classic Cars,100,2304 Long Airport Avenue,Nashua,NH,Online Diecast Creations Co.,62005,6035558647,3800
+12/2/2003 0:00,4169.88,27,USA,Classic Cars,100,4092 Furth Circle,NYC,NY,Muscle Machine Inc,10022,2125557413,2700
+2/26/2004 0:00,3231.36,24,USA,Classic Cars,100,361 Furth Circle,San Diego,CA,Collectable Mini Designs Co.,91217,7605558146,2400
+8/6/2004 0:00,4324.32,39,USA,Classic Cars,100,8489 Strong St.,Las Vegas,NV,Signal Gift Stores,83030,7025551838,3900
+11/4/2004 0:00,2851.2,27,USA,Classic Cars,100,1785 First Street,New Bedford,MA,FunGiftIdeas.com,50553,5085552555,2700
+11/17/2004 0:00,1687.4,26,USA,Classic Cars,64.9,11328 Douglas Av.,Philadelphia,PA,Motor Mint Distributors Inc.,71270,2155559857,1687.4
+4/22/2005 0:00,6386.16,41,USA,Classic Cars,100,3086 Ingle Ln.,San Jose,CA,The Sharp Gifts Warehouse,94217,4085553659,4100
+7/16/2003 0:00,5545.76,46,Australia,Vintage Cars,100,"Monitor Money Building, 815 Pacific Hwy",Chatswood,NSW,Souveniers And Things Co.,2067,+61 2 9495 8555,4600
+10/20/2003 0:00,3329.09,31,USA,Vintage Cars,100,5905 Pompton St.,NYC,NY,Classic Legends Inc.,10022,2125558493,3100
+11/6/2003 0:00,5592.22,46,Australia,Vintage Cars,100,31 Duncan St. West End,South Brisbane,Queensland,"Australian Gift Network, Co",4101,61-7-3844-6555,4600
+11/13/2003 0:00,3298.55,37,USA,Vintage Cars,89.15,782 First Street,Philadelphia,PA,"Classic Gift Ideas, Inc",71270,2155554695,3298.55
+11/21/2003 0:00,2609.88,28,Australia,Vintage Cars,93.21,7 Allen Street,Glen Waverly,Victoria,"Australian Collectables, Ltd",3150,61-9-3844-6555,2609.8799999999997
+12/5/2003 0:00,3336.29,37,Canada,Vintage Cars,90.17,1900 Oak St.,Vancouver,BC,Canadian Gift Exchange Network,V3F 2K1,(604) 555-3392,3336.29
+1/29/2004 0:00,5510.05,49,USA,Vintage Cars,100,3675 Furth Circle,Burbank,CA,West Coast Collectables Co.,94019,3105553722,4900
+3/10/2004 0:00,2504.4,24,USA,Vintage Cars,100,4658 Baden Av.,Cambridge,MA,Cambridge Collectables Co.,51247,6175555555,2400
+6/14/2004 0:00,4407,50,USA,Vintage Cars,88.14,3086 Ingle Ln.,San Jose,CA,The Sharp Gifts Warehouse,94217,4085553659,4407
+7/19/2004 0:00,2983.44,31,Australia,Vintage Cars,96.24,"Monitor Money Building, 815 Pacific Hwy",Chatswood,NSW,Souveniers And Things Co.,2067,+61 2 9495 8555,2983.44
+10/21/2004 0:00,3711.1,37,USA,Vintage Cars,100,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,3700
+11/4/2004 0:00,3524.73,33,USA,Vintage Cars,100,2304 Long Airport Avenue,Nashua,NH,Online Diecast Creations Co.,62005,6035558647,3300
+11/29/2004 0:00,4814.4,48,Australia,Vintage Cars,100,636 St Kilda Road,Melbourne,Victoria,"Australian Collectors, Co.",3004,03 9520 4555,4800
+12/10/2004 0:00,3572.33,41,USA,Vintage Cars,87.13,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,3572.33
+1/20/2005 0:00,4581.36,42,USA,Vintage Cars,100,7825 Douglas Av.,Brickhaven,MA,Collectables For Less Inc.,58339,6175558555,4200
+3/9/2005 0:00,1448,32,Australia,Vintage Cars,45.25,201 Miller Street,North Sydney,NSW,"Anna's Decorations, Ltd",2060,02 9936 8555,1448
+7/16/2003 0:00,1424,20,Australia,Vintage Cars,71.2,"Monitor Money Building, 815 Pacific Hwy",Chatswood,NSW,Souveniers And Things Co.,2067,+61 2 9495 8555,1424
+10/20/2003 0:00,3358.08,48,USA,Vintage Cars,69.96,5905 Pompton St.,NYC,NY,Classic Legends Inc.,10022,2125558493,3358.08
+11/13/2003 0:00,2655.12,39,USA,Vintage Cars,68.08,782 First Street,Philadelphia,PA,"Classic Gift Ideas, Inc",71270,2155554695,2655.12
+11/21/2003 0:00,1244.16,24,Australia,Vintage Cars,51.84,7 Allen Street,Glen Waverly,Victoria,"Australian Collectables, Ltd",3150,61-9-3844-6555,1244.16
+12/5/2003 0:00,1888.88,28,Canada,Vintage Cars,67.46,1900 Oak St.,Vancouver,BC,Canadian Gift Exchange Network,V3F 2K1,(604) 555-3392,1888.8799999999999
+1/29/2004 0:00,1820.01,31,USA,Vintage Cars,58.71,3675 Furth Circle,Burbank,CA,West Coast Collectables Co.,94019,3105553722,1820.01
+3/10/2004 0:00,2866.95,45,USA,Vintage Cars,63.71,4658 Baden Av.,Cambridge,MA,Cambridge Collectables Co.,51247,6175555555,2866.95
+6/14/2004 0:00,2632.28,49,USA,Vintage Cars,53.72,3086 Ingle Ln.,San Jose,CA,The Sharp Gifts Warehouse,94217,4085553659,2632.2799999999997
+10/21/2004 0:00,1880.2,35,USA,Vintage Cars,53.72,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,1880.2
+11/4/2004 0:00,1224.67,41,USA,Vintage Cars,29.87,2304 Long Airport Avenue,Nashua,NH,Online Diecast Creations Co.,62005,6035558647,1224.67
+11/29/2004 0:00,2208.64,34,Australia,Vintage Cars,64.96,636 St Kilda Road,Melbourne,Victoria,"Australian Collectors, Co.",3004,03 9520 4555,2208.64
+12/10/2004 0:00,3458.42,49,USA,Vintage Cars,70.58,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,3458.42
+1/20/2005 0:00,1237.88,28,USA,Vintage Cars,44.21,7825 Douglas Av.,Brickhaven,MA,Collectables For Less Inc.,58339,6175558555,1237.88
+6/16/2003 0:00,3853.6,40,USA,Ships,96.34,16780 Pompton St.,Brickhaven,MA,Auto-Moto Classics Inc.,58339,6175558428,3853.6000000000004
+8/10/2003 0:00,3442.64,46,USA,Ships,74.84,4575 Hillside Dr.,New Bedford,MA,Mini Creations Ltd.,50553,5085559555,3442.6400000000003
+2/19/2004 0:00,4636.38,49,USA,Ships,94.62,361 Furth Circle,San Diego,CA,Collectable Mini Designs Co.,91217,7605558146,4636.38
+5/7/2004 0:00,1553.58,21,USA,Ships,73.98,897 Long Airport Avenue,NYC,NY,Land of Toys Inc.,10022,2125557818,1553.5800000000002
+8/20/2004 0:00,2059.26,21,Canada,Ships,98.06,23 Tsawassen Blvd.,Tsawassen,BC,"Royal Canadian Collectables, Ltd.",T2F 8M4,(604) 555-4555,2059.26
+10/14/2004 0:00,2586.64,31,USA,Ships,83.44,782 First Street,Philadelphia,PA,"Classic Gift Ideas, Inc",71270,2155554695,2586.64
+11/1/2004 0:00,1987.02,21,UK,Ships,94.62,Garden House Crowther Way,Cowes,Isle of Wight,giftsbymail.co.uk,PO31 7PJ,(198) 555-8888,1987.02
+4/1/2005 0:00,2245.2,30,USA,Ships,74.84,3086 Ingle Ln.,San Jose,CA,The Sharp Gifts Warehouse,94217,4085553659,2245.2000000000003
+5/6/2005 0:00,3255.12,44,USA,Ships,73.98,8616 Spinnaker Dr.,Boston,MA,Gifts4AllAges.com,51003,6175559555,3255.1200000000003
+7/16/2003 0:00,1801.2,20,Australia,Vintage Cars,90.06,"Monitor Money Building, 815 Pacific Hwy",Chatswood,NSW,Souveniers And Things Co.,2067,+61 2 9495 8555,1801.2
+10/20/2003 0:00,4900.8,40,USA,Vintage Cars,100,5905 Pompton St.,NYC,NY,Classic Legends Inc.,10022,2125558493,4000
+11/13/2003 0:00,2488.2,22,USA,Vintage Cars,100,782 First Street,Philadelphia,PA,"Classic Gift Ideas, Inc",71270,2155554695,2200
+11/21/2003 0:00,2769.89,23,Australia,Vintage Cars,100,7 Allen Street,Glen Waverly,Victoria,"Australian Collectables, Ltd",3150,61-9-3844-6555,2300
+12/5/2003 0:00,3581.4,30,Canada,Vintage Cars,100,1900 Oak St.,Vancouver,BC,Canadian Gift Exchange Network,V3F 2K1,(604) 555-3392,3000
+1/29/2004 0:00,5285.14,49,USA,Vintage Cars,100,3675 Furth Circle,Burbank,CA,West Coast Collectables Co.,94019,3105553722,4900
+3/10/2004 0:00,3181.53,31,USA,Vintage Cars,100,4658 Baden Av.,Cambridge,MA,Cambridge Collectables Co.,51247,6175555555,3100
+6/14/2004 0:00,3138.34,37,USA,Vintage Cars,84.82,3086 Ingle Ln.,San Jose,CA,The Sharp Gifts Warehouse,94217,4085553659,3138.3399999999997
+7/19/2004 0:00,4775.08,38,Australia,Vintage Cars,100,"Monitor Money Building, 815 Pacific Hwy",Chatswood,NSW,Souveniers And Things Co.,2067,+61 2 9495 8555,3800
+10/21/2004 0:00,4457.02,38,USA,Vintage Cars,100,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,3800
+11/4/2004 0:00,2257.92,48,USA,Vintage Cars,47.04,2304 Long Airport Avenue,Nashua,NH,Online Diecast Creations Co.,62005,6035558647,2257.92
+11/29/2004 0:00,4948.2,45,Australia,Vintage Cars,100,636 St Kilda Road,Melbourne,Victoria,"Australian Collectors, Co.",3004,03 9520 4555,4500
+12/10/2004 0:00,5160.76,44,USA,Vintage Cars,100,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,4400
+1/20/2005 0:00,1978.62,21,USA,Vintage Cars,94.22,7825 Douglas Av.,Brickhaven,MA,Collectables For Less Inc.,58339,6175558555,1978.62
+8/8/2003 0:00,6034.33,47,USA,Vintage Cars,100,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,4700
+10/21/2003 0:00,6930.74,43,USA,Vintage Cars,100,1785 First Street,New Bedford,MA,FunGiftIdeas.com,50553,5085552555,4300
+11/14/2003 0:00,3442.04,28,USA,Vintage Cars,100,4575 Hillside Dr.,New Bedford,MA,Mini Creations Ltd.,50553,5085559555,2800
+11/26/2003 0:00,6893.81,49,USA,Vintage Cars,100,567 North Pendale Street,New Haven,CT,Super Scale Inc.,97823,2035559545,4900
+3/20/2004 0:00,3606.02,22,UK,Vintage Cars,100,Garden House Crowther Way,Cowes,Isle of Wight,giftsbymail.co.uk,PO31 7PJ,(198) 555-8888,2200
+5/7/2004 0:00,3802.56,32,USA,Vintage Cars,100,897 Long Airport Avenue,NYC,NY,Land of Toys Inc.,10022,2125557818,3200
+8/20/2004 0:00,6695.53,43,USA,Vintage Cars,100,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,4300
+1/26/2005 0:00,3862.88,28,Japan,Vintage Cars,100,2-2-8 Roppongi,Minato-ku,Tokyo,"Tokyo Collectables, Ltd",106-0032,+81 3 3584 0555,2800
+3/23/2005 0:00,5273.73,33,USA,Vintage Cars,100,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,3300
+5/6/2005 0:00,4872.03,41,USA,Vintage Cars,100,8616 Spinnaker Dr.,Boston,MA,Gifts4AllAges.com,51003,6175559555,4100
+3/10/2003 0:00,8257,46,USA,Classic Cars,100,11328 Douglas Av.,Philadelphia,PA,Motor Mint Distributors Inc.,71270,2155559857,4600
+6/3/2003 0:00,3837.24,22,USA,Classic Cars,100,4092 Furth Circle,NYC,NY,Muscle Machine Inc,10022,2125557413,2200
+9/11/2003 0:00,5418.88,32,Australia,Classic Cars,100,201 Miller Street,North Sydney,NSW,"Anna's Decorations, Ltd",2060,02 9936 8555,3200
+11/5/2003 0:00,5481.45,39,Canada,Classic Cars,100,43 rue St. Laurent,Montreal,Quebec,Quebec Home Shopping Network,H1J 1C3,(514) 555-8054,3900
+11/20/2003 0:00,3918.46,26,USA,Classic Cars,100,2304 Long Airport Avenue,Nashua,NH,Online Diecast Creations Co.,62005,6035558647,2600
+11/25/2003 0:00,7620.5,50,USA,Classic Cars,100,3758 North Pendale Street,White Plains,NY,Mini Classics,24067,9145554562,5000
+12/9/2003 0:00,3937.25,25,USA,Classic Cars,100,6251 Ingle Ln.,Boston,MA,Diecast Collectables,51003,6175552555,2500
+3/11/2004 0:00,4172.52,22,USA,Classic Cars,100,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,2200
+7/20/2004 0:00,3928.6,20,USA,Classic Cars,100,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,2000
+8/6/2004 0:00,6401.22,42,USA,Classic Cars,100,8489 Strong St.,Las Vegas,NV,Signal Gift Stores,83030,7025551838,4200
+8/19/2004 0:00,4191.25,25,USA,Classic Cars,100,7586 Pompton St.,Allentown,PA,Diecast Classics Inc.,70267,2155551555,2500
+9/8/2004 0:00,2844.87,21,USA,Classic Cars,100,897 Long Airport Avenue,NYC,NY,Land of Toys Inc.,10022,2125557818,2100
+10/13/2004 0:00,7455.87,37,USA,Classic Cars,100,39323 Spinnaker Dr.,Cambridge,MA,Marta's Replicas Co.,51247,6175558555,3700
+10/22/2004 0:00,4572.25,25,Canada,Classic Cars,100,1900 Oak St.,Vancouver,BC,Canadian Gift Exchange Network,V3F 2K1,(604) 555-3392,2500
+11/4/2004 0:00,5700.09,33,USA,Classic Cars,100,1785 First Street,New Bedford,MA,FunGiftIdeas.com,50553,5085552555,3300
+11/5/2004 0:00,3155.49,27,USA,Classic Cars,100,2678 Kingston Rd.,NYC,NY,Vitachrome Inc.,10022,2125551500,2700
+11/17/2004 0:00,4170.69,27,USA,Classic Cars,100,11328 Douglas Av.,Philadelphia,PA,Motor Mint Distributors Inc.,71270,2155559857,2700
+11/24/2004 0:00,5029.5,30,Australia,Classic Cars,100,636 St Kilda Road,Melbourne,Victoria,"Australian Collectors, Co.",3004,03 9520 4555,3000
+12/1/2004 0:00,7396.8,48,USA,Classic Cars,100,4092 Furth Circle,NYC,NY,Muscle Machine Inc,10022,2125557413,4800
+1/20/2005 0:00,1534.95,27,Australia,Classic Cars,56.85,201 Miller Street,North Sydney,NSW,"Anna's Decorations, Ltd",2060,02 9936 8555,1534.95
+8/8/2003 0:00,2151.82,22,USA,Trains,97.81,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,2151.82
+11/14/2003 0:00,3952.83,49,USA,Trains,80.67,4575 Hillside Dr.,New Bedford,MA,Mini Creations Ltd.,50553,5085559555,3952.83
+11/26/2003 0:00,3564.75,35,USA,Trains,100,567 North Pendale Street,New Haven,CT,Super Scale Inc.,97823,2035559545,3500
+3/20/2004 0:00,4598.4,48,UK,Trains,95.8,Garden House Crowther Way,Cowes,Isle of Wight,giftsbymail.co.uk,PO31 7PJ,(198) 555-8888,4598.4
+5/7/2004 0:00,5082.42,42,USA,Trains,100,897 Long Airport Avenue,NYC,NY,Land of Toys Inc.,10022,2125557818,4200
+8/20/2004 0:00,4174.92,36,USA,Trains,100,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,3600
+1/26/2005 0:00,2117.75,25,Japan,Trains,84.71,2-2-8 Roppongi,Minato-ku,Tokyo,"Tokyo Collectables, Ltd",106-0032,+81 3 3584 0555,2117.75
+3/23/2005 0:00,2154,24,USA,Trains,89.75,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,2154
+5/6/2005 0:00,5808.48,48,USA,Trains,100,8616 Spinnaker Dr.,Boston,MA,Gifts4AllAges.com,51003,6175559555,4800
+7/2/2003 0:00,3510,45,USA,Classic Cars,78,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,3510
+9/5/2003 0:00,3097.44,36,USA,Classic Cars,86.04,7825 Douglas Av.,Brickhaven,MA,Collectables For Less Inc.,58339,6175558555,3097.44
+11/4/2003 0:00,2264.32,32,Australia,Classic Cars,70.76,201 Miller Street,North Sydney,NSW,"Anna's Decorations, Ltd",2060,02 9936 8555,2264.32
+7/2/2004 0:00,3907.8,45,Australia,Classic Cars,86.84,7 Allen Street,Glen Waverly,Victoria,"Australian Collectables, Ltd",3150,61-9-3844-6555,3907.8
+8/2/2004 0:00,2658.48,38,USA,Classic Cars,69.96,7635 Spinnaker Dr.,Brickhaven,MA,Online Mini Collectables,58339,6175557555,2658.4799999999996
+11/3/2004 0:00,3403.08,46,USA,Classic Cars,73.98,5290 North Pendale Street,NYC,NY,Microscale Inc.,10022,2125551957,3403.0800000000004
+11/15/2004 0:00,2245.8,38,USA,Classic Cars,59.1,897 Long Airport Avenue,NYC,NY,Land of Toys Inc.,10022,2125557818,2245.8
+11/24/2004 0:00,1668.5,25,Australia,Classic Cars,66.74,636 St Kilda Road,Melbourne,Victoria,"Australian Collectors, Co.",3004,03 9520 4555,1668.4999999999998
+3/4/2005 0:00,5491.6,40,USA,Classic Cars,100,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,4000
+7/16/2003 0:00,3095.4,30,Australia,Vintage Cars,100,"Monitor Money Building, 815 Pacific Hwy",Chatswood,NSW,Souveniers And Things Co.,2067,+61 2 9495 8555,3000
+9/12/2003 0:00,3958.5,42,USA,Vintage Cars,94.25,2793 Furth Circle,Brisbane,CA,Signal Collectibles Ltd.,94217,4155554312,3958.5
+10/20/2003 0:00,4991.44,43,USA,Vintage Cars,100,5905 Pompton St.,NYC,NY,Classic Legends Inc.,10022,2125558493,4300
+11/12/2003 0:00,2848.23,33,USA,Vintage Cars,86.31,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,2848.23
+11/21/2003 0:00,2539.84,32,Australia,Vintage Cars,79.37,7 Allen Street,Glen Waverly,Victoria,"Australian Collectables, Ltd",3150,61-9-3844-6555,2539.84
+12/5/2003 0:00,2444.4,28,Canada,Vintage Cars,87.3,1900 Oak St.,Vancouver,BC,Canadian Gift Exchange Network,V3F 2K1,(604) 555-3392,2444.4
+1/29/2004 0:00,4555.92,41,USA,Vintage Cars,100,3675 Furth Circle,Burbank,CA,West Coast Collectables Co.,94019,3105553722,4100
+6/14/2004 0:00,2321.54,26,USA,Vintage Cars,89.29,3086 Ingle Ln.,San Jose,CA,The Sharp Gifts Warehouse,94217,4085553659,2321.54
+9/7/2004 0:00,2501.98,26,USA,Vintage Cars,96.23,16780 Pompton St.,Brickhaven,MA,Auto-Moto Classics Inc.,58339,6175558428,2501.98
+10/21/2004 0:00,3535.95,33,USA,Vintage Cars,100,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,3300
+11/29/2004 0:00,2656.94,26,Australia,Vintage Cars,100,636 St Kilda Road,Melbourne,Victoria,"Australian Collectors, Co.",3004,03 9520 4555,2600
+12/10/2004 0:00,2604.25,25,USA,Vintage Cars,100,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,2500
+1/20/2005 0:00,3288.6,45,USA,Vintage Cars,73.08,7825 Douglas Av.,Brickhaven,MA,Collectables For Less Inc.,58339,6175558555,3288.6
+2/17/2005 0:00,8935.5,50,USA,Vintage Cars,100,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,5000
+7/2/2003 0:00,5432.7,42,USA,Classic Cars,100,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,4200
+9/5/2003 0:00,4405.22,37,USA,Classic Cars,100,7825 Douglas Av.,Brickhaven,MA,Collectables For Less Inc.,58339,6175558555,3700
+11/4/2003 0:00,4444.92,36,Australia,Classic Cars,100,201 Miller Street,North Sydney,NSW,"Anna's Decorations, Ltd",2060,02 9936 8555,3600
+7/2/2004 0:00,8427.02,49,Australia,Classic Cars,100,7 Allen Street,Glen Waverly,Victoria,"Australian Collectables, Ltd",3150,61-9-3844-6555,4900
+8/2/2004 0:00,3924.6,30,USA,Classic Cars,100,7635 Spinnaker Dr.,Brickhaven,MA,Online Mini Collectables,58339,6175557555,3000
+11/24/2004 0:00,6548.3,55,Australia,Classic Cars,100,636 St Kilda Road,Melbourne,Victoria,"Australian Collectors, Co.",3004,03 9520 4555,5500
+3/4/2005 0:00,7397,50,USA,Classic Cars,100,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,5000
+3/10/2003 0:00,6241.6,47,USA,Classic Cars,100,11328 Douglas Av.,Philadelphia,PA,Motor Mint Distributors Inc.,71270,2155559857,4700
+9/11/2003 0:00,3639.44,28,Australia,Classic Cars,100,201 Miller Street,North Sydney,NSW,"Anna's Decorations, Ltd",2060,02 9936 8555,2800
+11/5/2003 0:00,5493.12,48,USA,Classic Cars,100,25593 South Bay Ln.,Bridgewater,CT,Gift Depot Inc.,97562,2035552570,4800
+11/20/2003 0:00,5340.6,45,USA,Classic Cars,100,2304 Long Airport Avenue,Nashua,NH,Online Diecast Creations Co.,62005,6035558647,4500
+12/2/2003 0:00,5735.8,35,USA,Classic Cars,100,4092 Furth Circle,NYC,NY,Muscle Machine Inc,10022,2125557413,3500
+2/26/2004 0:00,7343.9,46,USA,Classic Cars,100,361 Furth Circle,San Diego,CA,Collectable Mini Designs Co.,91217,7605558146,4600
+4/13/2004 0:00,5959.22,37,Japan,Classic Cars,100,"Dojima Avanza 4F, 1-6-20 Dojima, Kita-ku",Osaka,Osaka,Osaka Souveniers Co.,530-0003,+81 06 6342 5555,3700
+8/6/2004 0:00,4116.8,31,USA,Classic Cars,100,8489 Strong St.,Las Vegas,NV,Signal Gift Stores,83030,7025551838,3100
+11/4/2004 0:00,4232.76,28,USA,Classic Cars,100,1785 First Street,New Bedford,MA,FunGiftIdeas.com,50553,5085552555,2800
+11/17/2004 0:00,1765.66,26,USA,Classic Cars,67.91,11328 Douglas Av.,Philadelphia,PA,Motor Mint Distributors Inc.,71270,2155559857,1765.6599999999999
+1/12/2005 0:00,4808.38,46,USA,Classic Cars,100,78934 Hillside Dr.,Pasadena,CA,Toys4GrownUps.com,90003,6265557265,4600
+7/2/2003 0:00,2266.2,45,USA,Motorcycles,50.36,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,2266.2
+9/3/2003 0:00,3155.58,47,USA,Motorcycles,67.14,2440 Pompton St.,Glendale,CT,Gift Ideas Corp.,97561,2035554407,3155.58
+11/4/2003 0:00,2598.82,38,Australia,Motorcycles,68.39,201 Miller Street,North Sydney,NSW,"Anna's Decorations, Ltd",2060,02 9936 8555,2598.82
+4/5/2004 0:00,1357.72,26,USA,Motorcycles,52.22,2678 Kingston Rd.,NYC,NY,Vitachrome Inc.,10022,2125551500,1357.72
+6/30/2004 0:00,2626.08,48,USA,Motorcycles,54.71,8616 Spinnaker Dr.,Boston,MA,Gifts4AllAges.com,51003,6175559555,2626.08
+8/2/2004 0:00,1661.88,33,USA,Motorcycles,50.36,7635 Spinnaker Dr.,Brickhaven,MA,Online Mini Collectables,58339,6175557555,1661.8799999999999
+11/3/2004 0:00,2598.64,44,USA,Motorcycles,59.06,5290 North Pendale Street,NYC,NY,Microscale Inc.,10022,2125551957,2598.6400000000003
+11/24/2004 0:00,1454.7,26,Australia,Motorcycles,55.95,636 St Kilda Road,Melbourne,Victoria,"Australian Collectors, Co.",3004,03 9520 4555,1454.7
+3/4/2005 0:00,5079.96,36,USA,Motorcycles,100,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,3600
+6/16/2003 0:00,3423.75,33,USA,Vintage Cars,100,16780 Pompton St.,Brickhaven,MA,Auto-Moto Classics Inc.,58339,6175558428,3300
+8/10/2003 0:00,3455.76,34,USA,Vintage Cars,100,4575 Hillside Dr.,New Bedford,MA,Mini Creations Ltd.,50553,5085559555,3400
+2/19/2004 0:00,3858.75,45,USA,Vintage Cars,85.75,361 Furth Circle,San Diego,CA,Collectable Mini Designs Co.,91217,7605558146,3858.75
+5/8/2004 0:00,5600.5,46,USA,Vintage Cars,100,4658 Baden Av.,Cambridge,MA,Cambridge Collectables Co.,51247,6175555555,4600
+8/20/2004 0:00,5795.54,46,Canada,Vintage Cars,100,23 Tsawassen Blvd.,Tsawassen,BC,"Royal Canadian Collectables, Ltd.",T2F 8M4,(604) 555-4555,4600
+10/14/2004 0:00,4166.88,48,USA,Vintage Cars,86.81,782 First Street,Philadelphia,PA,"Classic Gift Ideas, Inc",71270,2155554695,4166.88
+11/1/2004 0:00,4080.07,47,UK,Vintage Cars,86.81,Garden House Crowther Way,Cowes,Isle of Wight,giftsbymail.co.uk,PO31 7PJ,(198) 555-8888,4080.07
+4/1/2005 0:00,7307.42,58,USA,Vintage Cars,100,3086 Ingle Ln.,San Jose,CA,The Sharp Gifts Warehouse,94217,4085553659,5800
+5/9/2005 0:00,6209.25,51,Australia,Vintage Cars,100,7 Allen Street,Glen Waverly,Victoria,"Australian Collectables, Ltd",3150,61-9-3844-6555,5100
+6/3/2003 0:00,3447,25,USA,Classic Cars,100,4092 Furth Circle,NYC,NY,Muscle Machine Inc,10022,2125557413,2500
+8/8/2003 0:00,3791.52,24,USA,Classic Cars,100,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,2400
+9/25/2003 0:00,4524.1,35,Australia,Classic Cars,100,31 Duncan St. West End,South Brisbane,Queensland,"Australian Gift Network, Co",4101,61-7-3844-6555,3500
+11/14/2003 0:00,5096.91,39,USA,Classic Cars,100,4575 Hillside Dr.,New Bedford,MA,Mini Creations Ltd.,50553,5085559555,3900
+11/26/2003 0:00,4537.08,27,USA,Classic Cars,100,567 North Pendale Street,New Haven,CT,Super Scale Inc.,97823,2035559545,2700
+12/9/2003 0:00,6146.8,40,USA,Classic Cars,100,6251 Ingle Ln.,Boston,MA,Diecast Collectables,51003,6175552555,4000
+7/20/2004 0:00,3734,25,USA,Classic Cars,100,7586 Pompton St.,Allentown,PA,Diecast Classics Inc.,70267,2155551555,2500
+8/20/2004 0:00,4674.8,31,USA,Classic Cars,100,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,3100
+9/8/2004 0:00,7140.76,44,USA,Classic Cars,100,897 Long Airport Avenue,NYC,NY,Land of Toys Inc.,10022,2125557818,4400
+11/5/2004 0:00,5379.71,49,USA,Classic Cars,100,2678 Kingston Rd.,NYC,NY,Vitachrome Inc.,10022,2125551500,4900
+11/21/2004 0:00,5679.36,36,USA,Classic Cars,100,5905 Pompton St.,NYC,NY,Classic Legends Inc.,10022,2125558493,3600
+12/1/2004 0:00,4394.84,34,USA,Classic Cars,100,4092 Furth Circle,NYC,NY,Muscle Machine Inc,10022,2125557413,3400
+1/26/2005 0:00,7031.52,48,Japan,Classic Cars,100,2-2-8 Roppongi,Minato-ku,Tokyo,"Tokyo Collectables, Ltd",106-0032,+81 3 3584 0555,4800
+5/5/2005 0:00,6896.75,49,USA,Classic Cars,100,25593 South Bay Ln.,Bridgewater,CT,Gift Depot Inc.,97562,2035552570,4900
+1/6/2003 0:00,1903.22,22,USA,Vintage Cars,86.51,2304 Long Airport Avenue,Nashua,NH,Online Diecast Creations Co.,62005,6035558647,1903.22
+5/21/2003 0:00,3081.24,36,USA,Vintage Cars,85.59,8489 Strong St.,Las Vegas,NV,Signal Gift Stores,83030,7025551838,3081.2400000000002
+9/11/2003 0:00,3598.22,34,Australia,Vintage Cars,100,201 Miller Street,North Sydney,NSW,"Anna's Decorations, Ltd",2060,02 9936 8555,3400
+11/12/2003 0:00,3942.72,36,USA,Vintage Cars,100,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,3600
+11/21/2003 0:00,2341.2,24,Australia,Vintage Cars,97.55,7 Allen Street,Glen Waverly,Victoria,"Australian Collectables, Ltd",3150,61-9-3844-6555,2341.2
+12/2/2003 0:00,2482.11,29,USA,Vintage Cars,85.59,4092 Furth Circle,NYC,NY,Muscle Machine Inc,10022,2125557413,2482.11
+1/12/2005 0:00,2696.96,43,USA,Vintage Cars,62.72,78934 Hillside Dr.,Pasadena,CA,Toys4GrownUps.com,90003,6265557265,2696.96
+4/22/2005 0:00,541.14,6,USA,Vintage Cars,90.19,3086 Ingle Ln.,San Jose,CA,The Sharp Gifts Warehouse,94217,4085553659,541.14
+5/29/2005 0:00,6134.7,66,Australia,Vintage Cars,92.95,"Monitor Money Building, 815 Pacific Hwy",Chatswood,NSW,Souveniers And Things Co.,2067,+61 2 9495 8555,6134.7
+8/8/2003 0:00,1685.28,24,USA,Vintage Cars,70.22,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,1685.28
+10/21/2003 0:00,1916.98,26,USA,Vintage Cars,73.73,1785 First Street,New Bedford,MA,FunGiftIdeas.com,50553,5085552555,1916.98
+11/14/2003 0:00,3630.28,47,USA,Vintage Cars,77.24,4575 Hillside Dr.,New Bedford,MA,Mini Creations Ltd.,50553,5085559555,3630.2799999999997
+3/20/2004 0:00,2059.19,23,UK,Vintage Cars,89.53,Garden House Crowther Way,Cowes,Isle of Wight,giftsbymail.co.uk,PO31 7PJ,(198) 555-8888,2059.19
+5/7/2004 0:00,3170.16,42,USA,Vintage Cars,75.48,897 Long Airport Avenue,NYC,NY,Land of Toys Inc.,10022,2125557818,3170.1600000000003
+6/17/2004 0:00,1790.6,20,Canada,Vintage Cars,89.53,43 rue St. Laurent,Montreal,Quebec,Quebec Home Shopping Network,H1J 1C3,(514) 555-8054,1790.6
+8/20/2004 0:00,3580.88,34,Canada,Vintage Cars,100,23 Tsawassen Blvd.,Tsawassen,BC,"Royal Canadian Collectables, Ltd.",T2F 8M4,(604) 555-4555,3400
+11/21/2004 0:00,4498.19,29,USA,Vintage Cars,100,5905 Pompton St.,NYC,NY,Classic Legends Inc.,10022,2125558493,2900
+1/26/2005 0:00,3562.49,41,Japan,Vintage Cars,86.89,2-2-8 Roppongi,Minato-ku,Tokyo,"Tokyo Collectables, Ltd",106-0032,+81 3 3584 0555,3562.4900000000002
+3/23/2005 0:00,4739.4,45,USA,Vintage Cars,100,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,4500
+5/6/2005 0:00,1207.68,16,USA,Vintage Cars,75.48,8616 Spinnaker Dr.,Boston,MA,Gifts4AllAges.com,51003,6175559555,1207.68
+7/24/2003 0:00,4601.2,40,USA,Trucks and Buses,100,9408 Furth Circle,Burlingame,CA,Technics Stores Inc.,94217,6505556809,4000
+11/13/2003 0:00,2441.04,21,USA,Trucks and Buses,100,782 First Street,Philadelphia,PA,"Classic Gift Ideas, Inc",71270,2155554695,2100
+12/9/2003 0:00,6658.02,47,USA,Trucks and Buses,100,6251 Ingle Ln.,Boston,MA,Diecast Collectables,51003,6175552555,4700
+3/11/2004 0:00,4716.23,41,USA,Trucks and Buses,100,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,4100
+5/4/2004 0:00,2390.22,21,USA,Trucks and Buses,100,567 North Pendale Street,New Haven,CT,Super Scale Inc.,97823,2035559545,2100
+7/19/2004 0:00,5383.08,38,Australia,Trucks and Buses,100,"Monitor Money Building, 815 Pacific Hwy",Chatswood,NSW,Souveniers And Things Co.,2067,+61 2 9495 8555,3800
+8/19/2004 0:00,2482.25,25,USA,Trucks and Buses,99.29,7586 Pompton St.,Allentown,PA,Diecast Classics Inc.,70267,2155551555,2482.25
+10/13/2004 0:00,2184.38,22,USA,Trucks and Buses,99.29,39323 Spinnaker Dr.,Cambridge,MA,Marta's Replicas Co.,51247,6175558555,2184.38
+10/22/2004 0:00,2881.76,28,Canada,Trucks and Buses,100,1900 Oak St.,Vancouver,BC,Canadian Gift Exchange Network,V3F 2K1,(604) 555-3392,2800
+11/29/2004 0:00,5884.65,45,Australia,Trucks and Buses,100,636 St Kilda Road,Melbourne,Victoria,"Australian Collectors, Co.",3004,03 9520 4555,4500
+12/10/2004 0:00,3559.64,28,USA,Trucks and Buses,100,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,2800
+1/20/2005 0:00,1668.37,29,Australia,Trucks and Buses,57.53,201 Miller Street,North Sydney,NSW,"Anna's Decorations, Ltd",2060,02 9936 8555,1668.3700000000001
+2/17/2005 0:00,4890.6,39,USA,Trucks and Buses,100,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,3900
+5/1/2005 0:00,5235.72,46,Canada,Trucks and Buses,100,43 rue St. Laurent,Montreal,Quebec,Quebec Home Shopping Network,H1J 1C3,(514) 555-8054,4600
+3/26/2003 0:00,2490.5,50,USA,Vintage Cars,49.81,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,2490.5
+7/24/2003 0:00,1254.83,29,USA,Vintage Cars,43.27,9408 Furth Circle,Burlingame,CA,Technics Stores Inc.,94217,6505556809,1254.8300000000002
+11/6/2003 0:00,2194.22,49,Australia,Vintage Cars,44.78,31 Duncan St. West End,South Brisbane,Queensland,"Australian Gift Network, Co",4101,61-7-3844-6555,2194.2200000000003
+11/13/2003 0:00,1972,40,USA,Vintage Cars,49.3,782 First Street,Philadelphia,PA,"Classic Gift Ideas, Inc",71270,2155554695,1972
+12/5/2003 0:00,1119.93,21,Canada,Vintage Cars,53.33,1900 Oak St.,Vancouver,BC,Canadian Gift Exchange Network,V3F 2K1,(604) 555-3392,1119.93
+1/29/2004 0:00,2082.88,46,USA,Vintage Cars,45.28,3675 Furth Circle,Burbank,CA,West Coast Collectables Co.,94019,3105553722,2082.88
+3/11/2004 0:00,1569.75,39,USA,Vintage Cars,40.25,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,1569.75
+5/4/2004 0:00,2694.15,45,USA,Vintage Cars,59.87,567 North Pendale Street,New Haven,CT,Super Scale Inc.,97823,2035559545,2694.15
+6/15/2004 0:00,1257.27,21,Japan,Vintage Cars,59.87,2-2-8 Roppongi,Minato-ku,Tokyo,"Tokyo Collectables, Ltd",106-0032,+81 3 3584 0555,1257.27
+7/19/2004 0:00,2567.84,44,Australia,Vintage Cars,58.36,"Monitor Money Building, 815 Pacific Hwy",Chatswood,NSW,Souveniers And Things Co.,2067,+61 2 9495 8555,2567.84
+8/19/2004 0:00,2634.28,44,USA,Vintage Cars,59.87,7586 Pompton St.,Allentown,PA,Diecast Classics Inc.,70267,2155551555,2634.2799999999997
+10/21/2004 0:00,2217.15,39,USA,Vintage Cars,56.85,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,2217.15
+11/5/2004 0:00,6832.02,38,USA,Vintage Cars,100,2678 Kingston Rd.,NYC,NY,Vitachrome Inc.,10022,2125551500,3800
+1/20/2005 0:00,2730,20,Australia,Vintage Cars,100,201 Miller Street,North Sydney,NSW,"Anna's Decorations, Ltd",2060,02 9936 8555,2000
+2/17/2005 0:00,7827.3,39,USA,Vintage Cars,100,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,3900
+5/1/2005 0:00,2095.45,35,Canada,Vintage Cars,59.87,43 rue St. Laurent,Montreal,Quebec,Quebec Home Shopping Network,H1J 1C3,(514) 555-8054,2095.45
+7/2/2003 0:00,4705.18,31,USA,Classic Cars,100,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,3100
+9/3/2003 0:00,4444.54,29,USA,Classic Cars,100,2440 Pompton St.,Glendale,CT,Gift Ideas Corp.,97561,2035554407,2900
+11/4/2003 0:00,4910.4,33,Australia,Classic Cars,100,201 Miller Street,North Sydney,NSW,"Anna's Decorations, Ltd",2060,02 9936 8555,3300
+6/30/2004 0:00,2410.6,20,USA,Classic Cars,100,8616 Spinnaker Dr.,Boston,MA,Gifts4AllAges.com,51003,6175559555,2000
+8/2/2004 0:00,5713.92,48,USA,Classic Cars,100,7635 Spinnaker Dr.,Brickhaven,MA,Online Mini Collectables,58339,6175557555,4800
+11/3/2004 0:00,7901.1,45,USA,Classic Cars,100,5290 North Pendale Street,NYC,NY,Microscale Inc.,10022,2125551957,4500
+11/24/2004 0:00,6276.46,38,Australia,Classic Cars,100,636 St Kilda Road,Melbourne,Victoria,"Australian Collectors, Co.",3004,03 9520 4555,3800
+3/4/2005 0:00,6862.94,49,USA,Classic Cars,100,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,4900
+5/21/2003 0:00,1327.79,23,USA,Classic Cars,57.73,8489 Strong St.,Las Vegas,NV,Signal Gift Stores,83030,7025551838,1327.79
+9/11/2003 0:00,2356.25,29,Australia,Classic Cars,81.25,201 Miller Street,North Sydney,NSW,"Anna's Decorations, Ltd",2060,02 9936 8555,2356.25
+11/12/2003 0:00,3072.96,44,USA,Classic Cars,69.84,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,3072.96
+11/21/2003 0:00,1906.5,25,Australia,Classic Cars,76.26,7 Allen Street,Glen Waverly,Victoria,"Australian Collectables, Ltd",3150,61-9-3844-6555,1906.5000000000002
+12/2/2003 0:00,3431.7,45,USA,Classic Cars,76.26,4092 Furth Circle,NYC,NY,Muscle Machine Inc,10022,2125557413,3431.7000000000003
+7/7/2004 0:00,2719.8,36,USA,Classic Cars,75.55,4092 Furth Circle,NYC,NY,Muscle Machine Inc,10022,2125557413,2719.7999999999997
+1/12/2005 0:00,3751,44,USA,Classic Cars,85.25,78934 Hillside Dr.,Pasadena,CA,Toys4GrownUps.com,90003,6265557265,3751
+4/22/2005 0:00,4421.34,66,USA,Classic Cars,66.99,3086 Ingle Ln.,San Jose,CA,The Sharp Gifts Warehouse,94217,4085553659,4421.339999999999
+5/29/2005 0:00,2078.28,36,Australia,Classic Cars,57.73,"Monitor Money Building, 815 Pacific Hwy",Chatswood,NSW,Souveniers And Things Co.,2067,+61 2 9495 8555,2078.2799999999997
+5/21/2003 0:00,1713.8,22,USA,Classic Cars,77.9,8489 Strong St.,Las Vegas,NV,Signal Gift Stores,83030,7025551838,1713.8000000000002
+9/11/2003 0:00,1506.5,25,Australia,Classic Cars,60.26,201 Miller Street,North Sydney,NSW,"Anna's Decorations, Ltd",2060,02 9936 8555,1506.5
+11/5/2003 0:00,2422.08,32,USA,Classic Cars,75.69,25593 South Bay Ln.,Bridgewater,CT,Gift Depot Inc.,97562,2035552570,2422.08
+11/12/2003 0:00,3488.34,47,USA,Classic Cars,74.22,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,3488.34
+11/20/2003 0:00,2583.34,37,USA,Classic Cars,69.82,2304 Long Airport Avenue,Nashua,NH,Online Diecast Creations Co.,62005,6035558647,2583.3399999999997
+12/2/2003 0:00,1249.4,20,USA,Classic Cars,62.47,4092 Furth Circle,NYC,NY,Muscle Machine Inc,10022,2125557413,1249.4
+2/26/2004 0:00,1265.46,21,USA,Classic Cars,60.26,361 Furth Circle,San Diego,CA,Collectable Mini Designs Co.,91217,7605558146,1265.46
+7/7/2004 0:00,3204,40,USA,Classic Cars,80.1,4092 Furth Circle,NYC,NY,Muscle Machine Inc,10022,2125557413,3204
+11/4/2004 0:00,2116.5,30,USA,Classic Cars,70.55,1785 First Street,New Bedford,MA,FunGiftIdeas.com,50553,5085552555,2116.5
+1/12/2005 0:00,1267.77,21,USA,Classic Cars,60.37,78934 Hillside Dr.,Pasadena,CA,Toys4GrownUps.com,90003,6265557265,1267.77
+4/22/2005 0:00,1987.18,26,USA,Classic Cars,76.43,3086 Ingle Ln.,San Jose,CA,The Sharp Gifts Warehouse,94217,4085553659,1987.1800000000003
+5/29/2005 0:00,3880.2,60,Australia,Classic Cars,64.67,"Monitor Money Building, 815 Pacific Hwy",Chatswood,NSW,Souveniers And Things Co.,2067,+61 2 9495 8555,3880.2000000000003
+4/4/2003 0:00,3259.92,47,USA,Classic Cars,69.36,5905 Pompton St.,NYC,NY,Classic Legends Inc.,10022,2125558493,3259.92
+6/3/2003 0:00,1213.8,20,USA,Classic Cars,60.69,4092 Furth Circle,NYC,NY,Muscle Machine Inc,10022,2125557413,1213.8
+9/25/2003 0:00,1632.75,25,Australia,Classic Cars,65.31,31 Duncan St. West End,South Brisbane,Queensland,"Australian Gift Network, Co",4101,61-7-3844-6555,1632.75
+11/25/2003 0:00,2924.68,44,USA,Classic Cars,66.47,3758 North Pendale Street,White Plains,NY,Mini Classics,24067,9145554562,2924.68
+12/9/2003 0:00,2294.18,49,USA,Classic Cars,46.82,6251 Ingle Ln.,Boston,MA,Diecast Collectables,51003,6175552555,2294.18
+7/20/2004 0:00,2913.3,45,USA,Classic Cars,64.74,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,2913.2999999999997
+8/20/2004 0:00,1357.78,29,USA,Classic Cars,46.82,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,1357.78
+9/8/2004 0:00,2150,40,USA,Classic Cars,53.75,897 Long Airport Avenue,NYC,NY,Land of Toys Inc.,10022,2125557818,2150
+10/13/2004 0:00,2783.25,45,USA,Classic Cars,61.85,39323 Spinnaker Dr.,Cambridge,MA,Marta's Replicas Co.,51247,6175558555,2783.25
+11/5/2004 0:00,1729,25,USA,Classic Cars,69.16,2678 Kingston Rd.,NYC,NY,Vitachrome Inc.,10022,2125551500,1729
+12/1/2004 0:00,2275.2,48,USA,Classic Cars,47.4,4092 Furth Circle,NYC,NY,Muscle Machine Inc,10022,2125557413,2275.2
+1/23/2005 0:00,2431.75,25,USA,Classic Cars,97.27,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,2431.75
+2/24/2003 0:00,2845.75,25,USA,Motorcycles,100,897 Long Airport Avenue,NYC,NY,Land of Toys Inc.,10022,2125557818,2500
+4/29/2003 0:00,3431.75,35,Australia,Motorcycles,98.05,636 St Kilda Road,Melbourne,Victoria,"Australian Collectors, Co.",3004,03 9520 4555,3431.75
+8/25/2003 0:00,4119.4,43,USA,Motorcycles,95.8,78934 Hillside Dr.,Pasadena,CA,Toys4GrownUps.com,90003,6265557265,4119.4
+10/28/2003 0:00,5747.5,50,USA,Motorcycles,100,9408 Furth Circle,Burlingame,CA,Technics Stores Inc.,94217,6505556809,5000
+2/20/2004 0:00,2921.28,32,Australia,Motorcycles,91.29,636 St Kilda Road,Melbourne,Victoria,"Australian Collectors, Co.",3004,03 9520 4555,2921.28
+4/5/2004 0:00,2299,20,USA,Motorcycles,100,2678 Kingston Rd.,NYC,NY,Vitachrome Inc.,10022,2125551500,2000
+5/18/2004 0:00,2637.18,26,USA,Motorcycles,100,7476 Moss Rd.,Newark,NJ,Tekni Collectables Inc.,94019,2015559350,2600
+6/28/2004 0:00,4307.52,42,USA,Motorcycles,100,25593 South Bay Ln.,Bridgewater,CT,Gift Depot Inc.,97562,2035552570,4200
+8/27/2004 0:00,3716.88,34,USA,Motorcycles,100,39323 Spinnaker Dr.,Cambridge,MA,Marta's Replicas Co.,51247,6175558555,3400
+11/2/2004 0:00,6437.28,48,USA,Motorcycles,100,7586 Pompton St.,Allentown,PA,Diecast Classics Inc.,70267,2155551555,4800
+11/15/2004 0:00,2633.4,30,USA,Motorcycles,87.78,897 Long Airport Avenue,NYC,NY,Land of Toys Inc.,10022,2125557818,2633.4
+11/23/2004 0:00,2278.53,27,Japan,Motorcycles,84.39,2-2-8 Roppongi,Minato-ku,Tokyo,"Tokyo Collectables, Ltd",106-0032,+81 3 3584 0555,2278.53
+1/5/2005 0:00,4846,50,USA,Motorcycles,96.92,9408 Furth Circle,Burlingame,CA,Technics Stores Inc.,94217,6505556809,4846
+2/2/2005 0:00,4197.1,38,Australia,Motorcycles,100,31 Duncan St. West End,South Brisbane,Queensland,"Australian Gift Network, Co",4101,61-7-3844-6555,3800
+9/11/2003 0:00,2671.95,47,Australia,Classic Cars,56.85,201 Miller Street,North Sydney,NSW,"Anna's Decorations, Ltd",2060,02 9936 8555,2671.9500000000003
+11/5/2003 0:00,1453.84,34,USA,Classic Cars,42.76,25593 South Bay Ln.,Bridgewater,CT,Gift Depot Inc.,97562,2035552570,1453.84
+11/20/2003 0:00,2530.01,47,USA,Classic Cars,53.83,2304 Long Airport Avenue,Nashua,NH,Online Diecast Creations Co.,62005,6035558647,2530.0099999999998
+12/2/2003 0:00,2241.45,45,USA,Classic Cars,49.81,4092 Furth Circle,NYC,NY,Muscle Machine Inc,10022,2125557413,2241.4500000000003
+2/26/2004 0:00,1557.72,36,USA,Classic Cars,43.27,361 Furth Circle,San Diego,CA,Collectable Mini Designs Co.,91217,7605558146,1557.72
+8/6/2004 0:00,1584.8,35,USA,Classic Cars,45.28,8489 Strong St.,Las Vegas,NV,Signal Gift Stores,83030,7025551838,1584.8
+11/4/2004 0:00,2028.48,48,USA,Classic Cars,42.26,1785 First Street,New Bedford,MA,FunGiftIdeas.com,50553,5085552555,2028.48
+1/12/2005 0:00,1463,38,USA,Classic Cars,38.5,78934 Hillside Dr.,Pasadena,CA,Toys4GrownUps.com,90003,6265557265,1463
+4/22/2005 0:00,2576,64,USA,Classic Cars,40.25,3086 Ingle Ln.,San Jose,CA,The Sharp Gifts Warehouse,94217,4085553659,2576
+5/29/2005 0:00,2233.69,37,Australia,Classic Cars,60.37,"Monitor Money Building, 815 Pacific Hwy",Chatswood,NSW,Souveniers And Things Co.,2067,+61 2 9495 8555,2233.69
+4/29/2003 0:00,4651.53,39,Australia,Planes,100,636 St Kilda Road,Melbourne,Victoria,"Australian Collectors, Co.",3004,03 9520 4555,3900
+8/25/2003 0:00,3501.6,40,USA,Planes,87.54,78934 Hillside Dr.,Pasadena,CA,Toys4GrownUps.com,90003,6265557265,3501.6000000000004
+10/28/2003 0:00,6433.7,49,USA,Planes,100,9408 Furth Circle,Burlingame,CA,Technics Stores Inc.,94217,6505556809,4900
+1/12/2004 0:00,2658.96,27,Japan,Planes,98.48,"Dojima Avanza 4F, 1-6-20 Dojima, Kita-ku",Osaka,Osaka,Osaka Souveniers Co.,530-0003,+81 06 6342 5555,2658.96
+2/20/2004 0:00,3608.76,34,Australia,Planes,100,636 St Kilda Road,Melbourne,Victoria,"Australian Collectors, Co.",3004,03 9520 4555,3400
+4/2/2004 0:00,2214.67,23,Canada,Planes,96.29,23 Tsawassen Blvd.,Tsawassen,BC,"Royal Canadian Collectables, Ltd.",T2F 8M4,(604) 555-4555,2214.67
+5/11/2004 0:00,2747.53,31,USA,Planes,88.63,3086 Ingle Ln.,San Jose,CA,The Sharp Gifts Warehouse,94217,4085553659,2747.5299999999997
+10/15/2004 0:00,3493.7,31,USA,Planes,100,3758 North Pendale Street,White Plains,NY,Mini Classics,24067,9145554562,3100
+11/1/2004 0:00,2872.25,25,UK,Planes,100,Garden House Crowther Way,Cowes,Isle of Wight,giftsbymail.co.uk,PO31 7PJ,(198) 555-8888,2500
+11/23/2004 0:00,1063.65,21,Japan,Planes,50.65,2-2-8 Roppongi,Minato-ku,Tokyo,"Tokyo Collectables, Ltd",106-0032,+81 3 3584 0555,1063.6499999999999
+12/4/2004 0:00,2008.44,28,USA,Planes,71.73,2440 Pompton St.,Glendale,CT,Gift Ideas Corp.,97561,2035554407,2008.44
+2/2/2005 0:00,4328.6,46,Australia,Planes,94.1,31 Duncan St. West End,South Brisbane,Queensland,"Australian Gift Network, Co",4101,61-7-3844-6555,4328.5999999999995
+4/3/2005 0:00,3659.02,38,USA,Planes,96.29,7476 Moss Rd.,Newark,NJ,Tekni Collectables Inc.,94019,2015559350,3659.0200000000004
+5/21/2003 0:00,1702.8,45,USA,Vintage Cars,37.84,8489 Strong St.,Las Vegas,NV,Signal Gift Stores,83030,7025551838,1702.8000000000002
+9/12/2003 0:00,1194.84,36,USA,Vintage Cars,33.19,2793 Furth Circle,Brisbane,CA,Signal Collectibles Ltd.,94217,4155554312,1194.84
+11/12/2003 0:00,1436.76,39,USA,Vintage Cars,36.84,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,1436.7600000000002
+11/21/2003 0:00,759.46,26,Australia,Vintage Cars,29.21,7 Allen Street,Glen Waverly,Victoria,"Australian Collectables, Ltd",3150,61-9-3844-6555,759.46
+4/26/2004 0:00,974.82,33,USA,Vintage Cars,29.54,6251 Ingle Ln.,Boston,MA,Diecast Collectables,51003,6175552555,974.8199999999999
+10/21/2004 0:00,1152.06,39,USA,Vintage Cars,29.54,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,1152.06
+11/4/2004 0:00,2624,20,USA,Vintage Cars,100,2304 Long Airport Avenue,Nashua,NH,Online Diecast Creations Co.,62005,6035558647,2000
+1/12/2005 0:00,834.67,23,USA,Vintage Cars,36.29,78934 Hillside Dr.,Pasadena,CA,Toys4GrownUps.com,90003,6265557265,834.67
+3/9/2005 0:00,8344.71,33,Australia,Vintage Cars,100,201 Miller Street,North Sydney,NSW,"Anna's Decorations, Ltd",2060,02 9936 8555,3300
+5/29/2005 0:00,1209.6,45,Australia,Vintage Cars,26.88,"Monitor Money Building, 815 Pacific Hwy",Chatswood,NSW,Souveniers And Things Co.,2067,+61 2 9495 8555,1209.6
+2/24/2003 0:00,3155.14,38,USA,Motorcycles,83.03,897 Long Airport Avenue,NYC,NY,Land of Toys Inc.,10022,2125557818,3155.14
+4/29/2003 0:00,2848.86,34,Australia,Motorcycles,83.79,636 St Kilda Road,Melbourne,Victoria,"Australian Collectors, Co.",3004,03 9520 4555,2848.86
+8/25/2003 0:00,3902.41,47,USA,Motorcycles,83.03,78934 Hillside Dr.,Pasadena,CA,Toys4GrownUps.com,90003,6265557265,3902.41
+10/28/2003 0:00,2186.89,29,USA,Motorcycles,75.41,9408 Furth Circle,Burlingame,CA,Technics Stores Inc.,94217,6505556809,2186.89
+1/12/2004 0:00,1851,30,Japan,Motorcycles,61.7,"Dojima Avanza 4F, 1-6-20 Dojima, Kita-ku",Osaka,Osaka,Osaka Souveniers Co.,530-0003,+81 06 6342 5555,1851
+2/20/2004 0:00,2633.78,38,Australia,Motorcycles,69.31,636 St Kilda Road,Melbourne,Victoria,"Australian Collectors, Co.",3004,03 9520 4555,2633.78
+4/3/2004 0:00,3153.6,36,USA,Motorcycles,87.6,11328 Douglas Av.,Philadelphia,PA,Motor Mint Distributors Inc.,71270,2155559857,3153.6
+5/11/2004 0:00,2803.2,32,USA,Motorcycles,87.6,3086 Ingle Ln.,San Jose,CA,The Sharp Gifts Warehouse,94217,4085553659,2803.2
+6/28/2004 0:00,2311.02,37,USA,Motorcycles,62.46,25593 South Bay Ln.,Bridgewater,CT,Gift Depot Inc.,97562,2035552570,2311.02
+8/27/2004 0:00,2733.12,39,USA,Motorcycles,70.08,39323 Spinnaker Dr.,Cambridge,MA,Marta's Replicas Co.,51247,6175558555,2733.12
+10/15/2004 0:00,2971.34,47,USA,Motorcycles,63.22,3758 North Pendale Street,White Plains,NY,Mini Classics,24067,9145554562,2971.34
+11/2/2004 0:00,2257.58,26,USA,Motorcycles,86.83,7586 Pompton St.,Allentown,PA,Diecast Classics Inc.,70267,2155551555,2257.58
+11/15/2004 0:00,3493.91,37,USA,Motorcycles,94.43,897 Long Airport Avenue,NYC,NY,Land of Toys Inc.,10022,2125557818,3493.9100000000003
+8/8/2003 0:00,3366,33,USA,Ships,100,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,3300
+11/14/2003 0:00,3170.7,30,USA,Ships,100,4575 Hillside Dr.,New Bedford,MA,Mini Creations Ltd.,50553,5085559555,3000
+3/20/2004 0:00,5652.94,46,UK,Ships,100,Garden House Crowther Way,Cowes,Isle of Wight,giftsbymail.co.uk,PO31 7PJ,(198) 555-8888,4600
+5/7/2004 0:00,6960.48,48,USA,Ships,100,897 Long Airport Avenue,NYC,NY,Land of Toys Inc.,10022,2125557818,4800
+6/17/2004 0:00,4512.6,36,Canada,Ships,100,43 rue St. Laurent,Montreal,Quebec,Quebec Home Shopping Network,H1J 1C3,(514) 555-8054,3600
+8/20/2004 0:00,5316.36,42,Canada,Ships,100,23 Tsawassen Blvd.,Tsawassen,BC,"Royal Canadian Collectables, Ltd.",T2F 8M4,(604) 555-4555,4200
+11/21/2004 0:00,2087.13,29,USA,Ships,71.97,5905 Pompton St.,NYC,NY,Classic Legends Inc.,10022,2125558493,2087.13
+1/26/2005 0:00,3910.53,37,Japan,Ships,100,2-2-8 Roppongi,Minato-ku,Tokyo,"Tokyo Collectables, Ltd",106-0032,+81 3 3584 0555,3700
+3/23/2005 0:00,5720.75,49,USA,Ships,100,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,4900
+5/6/2005 0:00,3335.23,23,USA,Ships,100,8616 Spinnaker Dr.,Boston,MA,Gifts4AllAges.com,51003,6175559555,2300
+5/21/2003 0:00,995.5,22,USA,Vintage Cars,45.25,8489 Strong St.,Las Vegas,NV,Signal Gift Stores,83030,7025551838,995.5
+9/12/2003 0:00,2414.72,49,USA,Vintage Cars,49.28,2793 Furth Circle,Brisbane,CA,Signal Collectibles Ltd.,94217,4155554312,2414.7200000000003
+11/12/2003 0:00,1138.94,31,USA,Vintage Cars,36.74,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,1138.94
+11/21/2003 0:00,1012.4,20,Australia,Vintage Cars,50.62,7 Allen Street,Glen Waverly,Victoria,"Australian Collectables, Ltd",3150,61-9-3844-6555,1012.4
+10/21/2004 0:00,865.49,23,USA,Vintage Cars,37.63,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,865.49
+11/4/2004 0:00,3500.1,30,USA,Vintage Cars,100,2304 Long Airport Avenue,Nashua,NH,Online Diecast Creations Co.,62005,6035558647,3000
+1/12/2005 0:00,856.52,28,USA,Vintage Cars,30.59,78934 Hillside Dr.,Pasadena,CA,Toys4GrownUps.com,90003,6265557265,856.52
+3/9/2005 0:00,4042.08,24,Australia,Vintage Cars,100,201 Miller Street,North Sydney,NSW,"Anna's Decorations, Ltd",2060,02 9936 8555,2400
+5/29/2005 0:00,1828,40,USA,Vintage Cars,45.7,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,1828
+7/24/2003 0:00,5105.14,47,USA,Trucks and Buses,100,9408 Furth Circle,Burlingame,CA,Technics Stores Inc.,94217,6505556809,4700
+12/9/2003 0:00,6819.04,46,USA,Trucks and Buses,100,6251 Ingle Ln.,Boston,MA,Diecast Collectables,51003,6175552555,4600
+3/11/2004 0:00,5704.32,48,USA,Trucks and Buses,100,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,4800
+7/20/2004 0:00,5605.05,43,USA,Trucks and Buses,100,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,4300
+8/19/2004 0:00,2779.5,25,USA,Trucks and Buses,100,7586 Pompton St.,Allentown,PA,Diecast Classics Inc.,70267,2155551555,2500
+10/13/2004 0:00,3189.6,24,USA,Trucks and Buses,100,39323 Spinnaker Dr.,Cambridge,MA,Marta's Replicas Co.,51247,6175558555,2400
+10/22/2004 0:00,5581.8,42,Canada,Trucks and Buses,100,1900 Oak St.,Vancouver,BC,Canadian Gift Exchange Network,V3F 2K1,(604) 555-3392,4200
+11/5/2004 0:00,3820.44,31,USA,Trucks and Buses,100,2678 Kingston Rd.,NYC,NY,Vitachrome Inc.,10022,2125551500,3100
+1/23/2005 0:00,3449.4,20,USA,Trucks and Buses,100,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,2000
+2/17/2005 0:00,2654.4,20,USA,Trucks and Buses,100,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,2000
+7/2/2003 0:00,1787.56,29,USA,Motorcycles,61.64,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,1787.56
+8/25/2003 0:00,1645.65,27,USA,Motorcycles,60.95,78934 Hillside Dr.,Pasadena,CA,Toys4GrownUps.com,90003,6265557265,1645.65
+11/4/2003 0:00,2816.18,38,Australia,Motorcycles,74.11,201 Miller Street,North Sydney,NSW,"Anna's Decorations, Ltd",2060,02 9936 8555,2816.18
+4/5/2004 0:00,2070.9,26,USA,Motorcycles,79.65,2678 Kingston Rd.,NYC,NY,Vitachrome Inc.,10022,2125551500,2070.9
+6/30/2004 0:00,2408.7,37,USA,Motorcycles,65.1,8616 Spinnaker Dr.,Boston,MA,Gifts4AllAges.com,51003,6175559555,2408.7
+8/2/2004 0:00,3472.54,46,USA,Motorcycles,75.49,7635 Spinnaker Dr.,Brickhaven,MA,Online Mini Collectables,58339,6175557555,3472.54
+8/27/2004 0:00,2263.28,38,USA,Motorcycles,59.56,39323 Spinnaker Dr.,Cambridge,MA,Marta's Replicas Co.,51247,6175558555,2263.28
+11/3/2004 0:00,2533.63,31,USA,Motorcycles,81.73,5290 North Pendale Street,NYC,NY,Microscale Inc.,10022,2125551957,2533.63
+3/4/2005 0:00,2279.55,35,USA,Motorcycles,65.13,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,2279.5499999999997
+5/21/2003 0:00,2326.4,32,USA,Classic Cars,72.7,8489 Strong St.,Las Vegas,NV,Signal Gift Stores,83030,7025551838,2326.4
+9/11/2003 0:00,1545.6,21,Australia,Classic Cars,73.6,201 Miller Street,North Sydney,NSW,"Anna's Decorations, Ltd",2060,02 9936 8555,1545.6
+11/5/2003 0:00,1639.22,22,USA,Classic Cars,74.51,25593 South Bay Ln.,Bridgewater,CT,Gift Depot Inc.,97562,2035552570,1639.22
+11/12/2003 0:00,2649.6,36,USA,Classic Cars,73.6,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,2649.6
+11/20/2003 0:00,3845.6,46,USA,Classic Cars,83.6,2304 Long Airport Avenue,Nashua,NH,Online Diecast Creations Co.,62005,6035558647,3845.6
+12/2/2003 0:00,4527.04,47,USA,Classic Cars,96.32,4092 Furth Circle,NYC,NY,Muscle Machine Inc,10022,2125557413,4527.04
+7/7/2004 0:00,3315.12,38,USA,Classic Cars,87.24,4092 Furth Circle,NYC,NY,Muscle Machine Inc,10022,2125557413,3315.12
+11/4/2004 0:00,2181,30,USA,Classic Cars,72.7,1785 First Street,New Bedford,MA,FunGiftIdeas.com,50553,5085552555,2181
+11/29/2004 0:00,2876.75,25,USA,Classic Cars,100,8489 Strong St.,Las Vegas,NV,Signal Gift Stores,83030,7025551838,2500
+1/19/2005 0:00,4107.2,40,USA,Classic Cars,100,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,4000
+4/22/2005 0:00,7182,76,USA,Classic Cars,94.5,3086 Ingle Ln.,San Jose,CA,The Sharp Gifts Warehouse,94217,4085553659,7182
+5/29/2005 0:00,3933.93,39,Australia,Classic Cars,100,"Monitor Money Building, 815 Pacific Hwy",Chatswood,NSW,Souveniers And Things Co.,2067,+61 2 9495 8555,3900
+6/3/2003 0:00,1489.41,39,USA,Classic Cars,38.19,4092 Furth Circle,NYC,NY,Muscle Machine Inc,10022,2125557413,1489.4099999999999
+11/25/2003 0:00,905.28,32,USA,Classic Cars,28.29,3758 North Pendale Street,White Plains,NY,Mini Classics,24067,9145554562,905.28
+12/9/2003 0:00,1247.4,42,USA,Classic Cars,29.7,6251 Ingle Ln.,Boston,MA,Diecast Collectables,51003,6175552555,1247.3999999999999
+2/10/2004 0:00,846.51,21,USA,Classic Cars,40.31,2793 Furth Circle,Brisbane,CA,Signal Collectibles Ltd.,94217,4155554312,846.51
+3/11/2004 0:00,1085.04,33,USA,Classic Cars,32.88,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,1085.0400000000002
+7/20/2004 0:00,1585.36,38,USA,Classic Cars,41.72,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,1585.36
+8/19/2004 0:00,813.2,20,USA,Classic Cars,40.66,7586 Pompton St.,Allentown,PA,Diecast Classics Inc.,70267,2155551555,813.1999999999999
+9/8/2004 0:00,1172.34,39,USA,Classic Cars,30.06,897 Long Airport Avenue,NYC,NY,Land of Toys Inc.,10022,2125557818,1172.34
+10/13/2004 0:00,1510.56,48,USA,Classic Cars,31.47,39323 Spinnaker Dr.,Cambridge,MA,Marta's Replicas Co.,51247,6175558555,1510.56
+11/5/2004 0:00,3338.1,30,USA,Classic Cars,100,2678 Kingston Rd.,NYC,NY,Vitachrome Inc.,10022,2125551500,3000
+11/19/2004 0:00,1225.29,33,USA,Classic Cars,37.13,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,1225.2900000000002
+12/1/2004 0:00,1336.68,36,USA,Classic Cars,37.13,4092 Furth Circle,NYC,NY,Muscle Machine Inc,10022,2125557413,1336.68
+1/23/2005 0:00,5545.8,45,USA,Classic Cars,100,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,4500
+6/16/2003 0:00,2349.9,35,USA,Planes,67.14,2440 Pompton St.,Glendale,CT,Gift Ideas Corp.,97561,2035554407,2349.9
+8/10/2003 0:00,1646.19,27,USA,Planes,60.97,4575 Hillside Dr.,New Bedford,MA,Mini Creations Ltd.,50553,5085559555,1646.19
+2/19/2004 0:00,2608.96,32,USA,Planes,81.53,361 Furth Circle,San Diego,CA,Collectable Mini Designs Co.,91217,7605558146,2608.96
+5/8/2004 0:00,1356.4,20,USA,Planes,67.82,4658 Baden Av.,Cambridge,MA,Cambridge Collectables Co.,51247,6175555555,1356.3999999999999
+7/21/2004 0:00,2603.2,40,USA,Planes,65.08,7825 Douglas Av.,Brickhaven,MA,Collectables For Less Inc.,58339,6175558555,2603.2
+10/14/2004 0:00,1884,25,USA,Planes,75.36,782 First Street,Philadelphia,PA,"Classic Gift Ideas, Inc",71270,2155554695,1884
+11/1/2004 0:00,2166.14,34,UK,Planes,63.71,Garden House Crowther Way,Cowes,Isle of Wight,giftsbymail.co.uk,PO31 7PJ,(198) 555-8888,2166.14
+11/23/2004 0:00,6214.45,55,Japan,Planes,100,2-2-8 Roppongi,Minato-ku,Tokyo,"Tokyo Collectables, Ltd",106-0032,+81 3 3584 0555,5500
+4/1/2005 0:00,1479.84,24,USA,Planes,61.66,3086 Ingle Ln.,San Jose,CA,The Sharp Gifts Warehouse,94217,4085553659,1479.84
+5/9/2005 0:00,1424.22,21,Australia,Planes,67.82,7 Allen Street,Glen Waverly,Victoria,"Australian Collectables, Ltd",3150,61-9-3844-6555,1424.2199999999998
+5/21/2003 0:00,2348.75,25,USA,Classic Cars,93.95,8489 Strong St.,Las Vegas,NV,Signal Gift Stores,83030,7025551838,2348.75
+9/11/2003 0:00,4392.12,34,Australia,Classic Cars,100,201 Miller Street,North Sydney,NSW,"Anna's Decorations, Ltd",2060,02 9936 8555,3400
+11/12/2003 0:00,2395.8,20,USA,Classic Cars,100,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,2000
+11/20/2003 0:00,3052.33,23,USA,Classic Cars,100,2304 Long Airport Avenue,Nashua,NH,Online Diecast Creations Co.,62005,6035558647,2300
+12/2/2003 0:00,4242,42,USA,Classic Cars,100,4092 Furth Circle,NYC,NY,Muscle Machine Inc,10022,2125557413,4200
+7/7/2004 0:00,4645.72,43,USA,Classic Cars,100,4092 Furth Circle,NYC,NY,Muscle Machine Inc,10022,2125557413,4300
+11/29/2004 0:00,2093.76,24,USA,Classic Cars,87.24,8489 Strong St.,Las Vegas,NV,Signal Gift Stores,83030,7025551838,2093.7599999999998
+1/19/2005 0:00,4223.13,31,USA,Classic Cars,100,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,3100
+4/22/2005 0:00,5820.35,59,USA,Classic Cars,98.65,3086 Ingle Ln.,San Jose,CA,The Sharp Gifts Warehouse,94217,4085553659,5820.35
+5/29/2005 0:00,5296.5,55,Australia,Classic Cars,96.3,"Monitor Money Building, 815 Pacific Hwy",Chatswood,NSW,Souveniers And Things Co.,2067,+61 2 9495 8555,5296.5
+3/10/2003 0:00,930.9,29,USA,Classic Cars,32.1,11328 Douglas Av.,Philadelphia,PA,Motor Mint Distributors Inc.,71270,2155559857,930.9000000000001
+7/2/2003 0:00,717.4,20,USA,Classic Cars,35.87,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,717.4
+9/5/2003 0:00,1066.75,25,USA,Classic Cars,42.67,7825 Douglas Av.,Brickhaven,MA,Collectables For Less Inc.,58339,6175558555,1066.75
+11/5/2003 0:00,1277.64,36,Canada,Classic Cars,35.49,43 rue St. Laurent,Montreal,Quebec,Quebec Home Shopping Network,H1J 1C3,(514) 555-8054,1277.64
+11/20/2003 0:00,917.7,30,USA,Classic Cars,30.59,2304 Long Airport Avenue,Nashua,NH,Online Diecast Creations Co.,62005,6035558647,917.7
+8/6/2004 0:00,1205.59,31,USA,Classic Cars,38.89,8489 Strong St.,Las Vegas,NV,Signal Gift Stores,83030,7025551838,1205.59
+11/4/2004 0:00,1229.51,37,USA,Classic Cars,33.23,1785 First Street,New Bedford,MA,FunGiftIdeas.com,50553,5085552555,1229.51
+11/17/2004 0:00,1140.48,27,USA,Classic Cars,42.24,11328 Douglas Av.,Philadelphia,PA,Motor Mint Distributors Inc.,71270,2155559857,1140.48
+11/24/2004 0:00,1575.6,39,Australia,Classic Cars,40.4,636 St Kilda Road,Melbourne,Victoria,"Australian Collectors, Co.",3004,03 9520 4555,1575.6
+1/12/2005 0:00,5018.4,36,USA,Classic Cars,100,78934 Hillside Dr.,Pasadena,CA,Toys4GrownUps.com,90003,6265557265,3600
+3/4/2005 0:00,4894.73,37,USA,Classic Cars,100,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,3700
+8/8/2003 0:00,4814.25,49,USA,Vintage Cars,98.25,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,4814.25
+10/2/2003 0:00,2826.27,31,USA,Vintage Cars,91.17,4097 Douglas Av.,Glendale,CA,Boards & Toys Co.,92561,3105552373,2826.27
+11/14/2003 0:00,2453.55,33,USA,Vintage Cars,74.35,4575 Hillside Dr.,New Bedford,MA,Mini Creations Ltd.,50553,5085559555,2453.5499999999997
+2/19/2004 0:00,3328.07,47,USA,Vintage Cars,70.81,361 Furth Circle,San Diego,CA,Collectable Mini Designs Co.,91217,7605558146,3328.07
+3/29/2004 0:00,3788.4,40,USA,Vintage Cars,94.71,7476 Moss Rd.,Newark,NJ,Tekni Collectables Inc.,94019,2015559350,3788.3999999999996
+5/7/2004 0:00,3053.7,30,USA,Vintage Cars,100,897 Long Airport Avenue,NYC,NY,Land of Toys Inc.,10022,2125557818,3000
+6/17/2004 0:00,2005.74,22,Canada,Vintage Cars,91.17,43 rue St. Laurent,Montreal,Quebec,Quebec Home Shopping Network,H1J 1C3,(514) 555-8054,2005.74
+8/20/2004 0:00,3159.96,34,Canada,Vintage Cars,92.94,23 Tsawassen Blvd.,Tsawassen,BC,"Royal Canadian Collectables, Ltd.",T2F 8M4,(604) 555-4555,3159.96
+9/10/2004 0:00,3908.62,46,USA,Vintage Cars,84.97,8616 Spinnaker Dr.,Boston,MA,Gifts4AllAges.com,51003,6175559555,3908.62
+11/23/2004 0:00,10758,55,Japan,Vintage Cars,100,2-2-8 Roppongi,Minato-ku,Tokyo,"Tokyo Collectables, Ltd",106-0032,+81 3 3584 0555,5500
+3/23/2005 0:00,2246.4,27,USA,Vintage Cars,83.2,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,2246.4
+5/6/2005 0:00,6107.4,60,USA,Vintage Cars,100,8616 Spinnaker Dr.,Boston,MA,Gifts4AllAges.com,51003,6175559555,6000
+5/21/2003 0:00,4068.96,49,USA,Classic Cars,83.04,8489 Strong St.,Las Vegas,NV,Signal Gift Stores,83030,7025551838,4068.9600000000005
+9/11/2003 0:00,2282.22,31,Australia,Classic Cars,73.62,201 Miller Street,North Sydney,NSW,"Anna's Decorations, Ltd",2060,02 9936 8555,2282.2200000000003
+11/5/2003 0:00,1951.92,24,USA,Classic Cars,81.33,25593 South Bay Ln.,Bridgewater,CT,Gift Depot Inc.,97562,2035552570,1951.92
+11/12/2003 0:00,3107.61,33,USA,Classic Cars,94.17,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,3107.61
+11/20/2003 0:00,2328.64,32,USA,Classic Cars,72.77,2304 Long Airport Avenue,Nashua,NH,Online Diecast Creations Co.,62005,6035558647,2328.64
+12/2/2003 0:00,3184.8,40,USA,Classic Cars,79.62,4092 Furth Circle,NYC,NY,Muscle Machine Inc,10022,2125557413,3184.8
+7/7/2004 0:00,4256.56,44,USA,Classic Cars,96.74,4092 Furth Circle,NYC,NY,Muscle Machine Inc,10022,2125557413,4256.5599999999995
+11/4/2004 0:00,3305.25,39,USA,Classic Cars,84.75,1785 First Street,New Bedford,MA,FunGiftIdeas.com,50553,5085552555,3305.25
+11/29/2004 0:00,3325.92,24,USA,Classic Cars,100,8489 Strong St.,Las Vegas,NV,Signal Gift Stores,83030,7025551838,2400
+1/19/2005 0:00,3662.52,46,USA,Classic Cars,79.62,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,3662.5200000000004
+4/22/2005 0:00,1057.29,13,USA,Classic Cars,81.33,3086 Ingle Ln.,San Jose,CA,The Sharp Gifts Warehouse,94217,4085553659,1057.29
+5/29/2005 0:00,3385.9,35,Australia,Classic Cars,96.74,"Monitor Money Building, 815 Pacific Hwy",Chatswood,NSW,Souveniers And Things Co.,2067,+61 2 9495 8555,3385.8999999999996
+7/2/2003 0:00,1785.51,27,USA,Classic Cars,66.13,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,1785.5099999999998
+9/5/2003 0:00,2057.4,30,USA,Classic Cars,68.58,7825 Douglas Av.,Brickhaven,MA,Collectables For Less Inc.,58339,6175558555,2057.4
+11/4/2003 0:00,1707.14,34,Australia,Classic Cars,50.21,201 Miller Street,North Sydney,NSW,"Anna's Decorations, Ltd",2060,02 9936 8555,1707.14
+8/2/2004 0:00,1224.6,20,USA,Classic Cars,61.23,7635 Spinnaker Dr.,Brickhaven,MA,Online Mini Collectables,58339,6175557555,1224.6
+11/17/2004 0:00,3078.5,25,USA,Classic Cars,100,11328 Douglas Av.,Philadelphia,PA,Motor Mint Distributors Inc.,71270,2155559857,2500
+11/24/2004 0:00,2997.6,48,Australia,Classic Cars,62.45,636 St Kilda Road,Melbourne,Victoria,"Australian Collectors, Co.",3004,03 9520 4555,2997.6000000000004
+3/4/2005 0:00,2430.64,46,USA,Classic Cars,52.84,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,2430.6400000000003
+6/16/2003 0:00,1716.22,29,USA,Vintage Cars,59.18,2440 Pompton St.,Glendale,CT,Gift Ideas Corp.,97561,2035554407,1716.22
+8/10/2003 0:00,2560.47,33,USA,Vintage Cars,77.59,4575 Hillside Dr.,New Bedford,MA,Mini Creations Ltd.,50553,5085559555,2560.4700000000003
+2/19/2004 0:00,3025.05,43,USA,Vintage Cars,70.35,361 Furth Circle,San Diego,CA,Collectable Mini Designs Co.,91217,7605558146,3025.0499999999997
+5/8/2004 0:00,1742.5,25,USA,Vintage Cars,69.7,4658 Baden Av.,Cambridge,MA,Cambridge Collectables Co.,51247,6175555555,1742.5
+7/21/2004 0:00,1735.92,24,USA,Vintage Cars,72.33,7825 Douglas Av.,Brickhaven,MA,Collectables For Less Inc.,58339,6175558555,1735.92
+10/14/2004 0:00,1576.74,22,USA,Vintage Cars,71.67,782 First Street,Philadelphia,PA,"Classic Gift Ideas, Inc",71270,2155554695,1576.74
+11/1/2004 0:00,3615.71,47,UK,Vintage Cars,76.93,Garden House Crowther Way,Cowes,Isle of Wight,giftsbymail.co.uk,PO31 7PJ,(198) 555-8888,3615.7100000000005
+11/23/2004 0:00,2891.01,29,Japan,Vintage Cars,99.69,2-2-8 Roppongi,Minato-ku,Tokyo,"Tokyo Collectables, Ltd",106-0032,+81 3 3584 0555,2891.0099999999998
+12/17/2004 0:00,3871.92,34,Australia,Vintage Cars,100,"Monitor Money Building, 815 Pacific Hwy",Chatswood,NSW,Souveniers And Things Co.,2067,+61 2 9495 8555,3400
+4/1/2005 0:00,2173.6,38,USA,Vintage Cars,57.2,3086 Ingle Ln.,San Jose,CA,The Sharp Gifts Warehouse,94217,4085553659,2173.6
+5/9/2005 0:00,1254.6,18,Australia,Vintage Cars,69.7,7 Allen Street,Glen Waverly,Victoria,"Australian Collectables, Ltd",3150,61-9-3844-6555,1254.6000000000001
+5/21/2003 0:00,5203,43,USA,Classic Cars,100,8489 Strong St.,Las Vegas,NV,Signal Gift Stores,83030,7025551838,4300
+9/11/2003 0:00,3469.5,27,Australia,Classic Cars,100,201 Miller Street,North Sydney,NSW,"Anna's Decorations, Ltd",2060,02 9936 8555,2700
+11/5/2003 0:00,2167.22,22,USA,Classic Cars,98.51,25593 South Bay Ln.,Bridgewater,CT,Gift Depot Inc.,97562,2035552570,2167.2200000000003
+11/12/2003 0:00,6244.07,49,USA,Classic Cars,100,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,4900
+11/20/2003 0:00,5566,46,USA,Classic Cars,100,2304 Long Airport Avenue,Nashua,NH,Online Diecast Creations Co.,62005,6035558647,4600
+12/2/2003 0:00,4368.96,48,USA,Classic Cars,91.02,4092 Furth Circle,NYC,NY,Muscle Machine Inc,10022,2125557413,4368.96
+2/26/2004 0:00,4420.32,48,USA,Classic Cars,92.09,361 Furth Circle,San Diego,CA,Collectable Mini Designs Co.,91217,7605558146,4420.32
+7/7/2004 0:00,5110.98,43,USA,Classic Cars,100,4092 Furth Circle,NYC,NY,Muscle Machine Inc,10022,2125557413,4300
+11/4/2004 0:00,1888.95,21,USA,Classic Cars,89.95,1785 First Street,New Bedford,MA,FunGiftIdeas.com,50553,5085552555,1888.95
+11/29/2004 0:00,2492.88,26,USA,Classic Cars,95.88,8489 Strong St.,Las Vegas,NV,Signal Gift Stores,83030,7025551838,2492.88
+1/19/2005 0:00,1991.6,20,USA,Classic Cars,99.58,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,1991.6
+4/22/2005 0:00,3729.39,43,USA,Classic Cars,86.73,3086 Ingle Ln.,San Jose,CA,The Sharp Gifts Warehouse,94217,4085553659,3729.3900000000003
+5/29/2005 0:00,2617.16,26,Australia,Classic Cars,100,"Monitor Money Building, 815 Pacific Hwy",Chatswood,NSW,Souveniers And Things Co.,2067,+61 2 9495 8555,2600
+8/10/2003 0:00,1851.73,23,USA,Vintage Cars,80.51,4575 Hillside Dr.,New Bedford,MA,Mini Creations Ltd.,50553,5085559555,1851.73
+2/19/2004 0:00,3703.46,46,USA,Vintage Cars,80.51,361 Furth Circle,San Diego,CA,Collectable Mini Designs Co.,91217,7605558146,3703.46
+5/7/2004 0:00,1755.13,23,USA,Vintage Cars,76.31,897 Long Airport Avenue,NYC,NY,Land of Toys Inc.,10022,2125557818,1755.13
+8/20/2004 0:00,2407.68,33,Canada,Vintage Cars,72.96,23 Tsawassen Blvd.,Tsawassen,BC,"Royal Canadian Collectables, Ltd.",T2F 8M4,(604) 555-4555,2407.68
+10/14/2004 0:00,2011.02,22,USA,Vintage Cars,91.41,782 First Street,Philadelphia,PA,"Classic Gift Ideas, Inc",71270,2155554695,2011.02
+11/1/2004 0:00,2306.25,25,UK,Vintage Cars,92.25,Garden House Crowther Way,Cowes,Isle of Wight,giftsbymail.co.uk,PO31 7PJ,(198) 555-8888,2306.25
+11/23/2004 0:00,2493.12,42,Japan,Vintage Cars,59.36,2-2-8 Roppongi,Minato-ku,Tokyo,"Tokyo Collectables, Ltd",106-0032,+81 3 3584 0555,2493.12
+2/28/2005 0:00,3164.98,37,USA,Vintage Cars,85.54,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,3164.98
+3/23/2005 0:00,3351.09,37,USA,Vintage Cars,90.57,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,3351.0899999999997
+4/1/2005 0:00,3064.32,42,USA,Vintage Cars,72.96,3086 Ingle Ln.,San Jose,CA,The Sharp Gifts Warehouse,94217,4085553659,3064.3199999999997
+5/6/2005 0:00,3891.81,51,USA,Vintage Cars,76.31,8616 Spinnaker Dr.,Boston,MA,Gifts4AllAges.com,51003,6175559555,3891.81
+7/2/2003 0:00,6336.07,47,USA,Classic Cars,100,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,4700
+9/5/2003 0:00,2906.97,23,USA,Classic Cars,100,7825 Douglas Av.,Brickhaven,MA,Collectables For Less Inc.,58339,6175558555,2300
+11/20/2003 0:00,6319.35,45,USA,Classic Cars,100,2304 Long Airport Avenue,Nashua,NH,Online Diecast Creations Co.,62005,6035558647,4500
+8/6/2004 0:00,3159.75,25,USA,Classic Cars,100,8489 Strong St.,Las Vegas,NV,Signal Gift Stores,83030,7025551838,2500
+11/4/2004 0:00,4052.88,26,USA,Classic Cars,100,1785 First Street,New Bedford,MA,FunGiftIdeas.com,50553,5085552555,2600
+11/17/2004 0:00,3135.93,21,USA,Classic Cars,100,11328 Douglas Av.,Philadelphia,PA,Motor Mint Distributors Inc.,71270,2155559857,2100
+11/24/2004 0:00,5013.54,42,Australia,Classic Cars,100,636 St Kilda Road,Melbourne,Victoria,"Australian Collectors, Co.",3004,03 9520 4555,4200
+3/4/2005 0:00,6763.05,45,USA,Classic Cars,100,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,4500
+6/16/2003 0:00,4094.5,50,USA,Planes,81.89,2440 Pompton St.,Glendale,CT,Gift Ideas Corp.,97561,2035554407,4094.5
+8/10/2003 0:00,1853.32,28,USA,Planes,66.19,4575 Hillside Dr.,New Bedford,MA,Mini Creations Ltd.,50553,5085559555,1853.32
+10/28/2003 0:00,1971.54,27,USA,Planes,73.02,9408 Furth Circle,Burlingame,CA,Technics Stores Inc.,94217,6505556809,1971.54
+1/12/2004 0:00,2018.4,29,Japan,Planes,69.6,"Dojima Avanza 4F, 1-6-20 Dojima, Kita-ku",Osaka,Osaka,Osaka Souveniers Co.,530-0003,+81 06 6342 5555,2018.3999999999999
+2/19/2004 0:00,2718.72,48,USA,Planes,56.64,361 Furth Circle,San Diego,CA,Collectable Mini Designs Co.,91217,7605558146,2718.7200000000003
+4/2/2004 0:00,1981.65,33,Canada,Planes,60.05,23 Tsawassen Blvd.,Tsawassen,BC,"Royal Canadian Collectables, Ltd.",T2F 8M4,(604) 555-4555,1981.6499999999999
+5/11/2004 0:00,3002.4,40,USA,Planes,75.06,3086 Ingle Ln.,San Jose,CA,The Sharp Gifts Warehouse,94217,4085553659,3002.4
+10/15/2004 0:00,3286.49,43,USA,Planes,76.43,3758 North Pendale Street,White Plains,NY,Mini Classics,24067,9145554562,3286.4900000000002
+11/1/2004 0:00,2333.7,30,UK,Planes,77.79,Garden House Crowther Way,Cowes,Isle of Wight,giftsbymail.co.uk,PO31 7PJ,(198) 555-8888,2333.7000000000003
+11/23/2004 0:00,4361.4,45,Japan,Planes,96.92,2-2-8 Roppongi,Minato-ku,Tokyo,"Tokyo Collectables, Ltd",106-0032,+81 3 3584 0555,4361.4
+12/17/2004 0:00,3710.98,26,Australia,Planes,100,"Monitor Money Building, 815 Pacific Hwy",Chatswood,NSW,Souveniers And Things Co.,2067,+61 2 9495 8555,2600
+4/3/2005 0:00,3843.2,64,USA,Planes,60.05,7476 Moss Rd.,Newark,NJ,Tekni Collectables Inc.,94019,2015559350,3843.2
+1/6/2003 0:00,1689.03,49,USA,Vintage Cars,34.47,2304 Long Airport Avenue,Nashua,NH,Online Diecast Creations Co.,62005,6035558647,1689.03
+5/21/2003 0:00,1528.58,46,USA,Vintage Cars,33.23,8489 Strong St.,Las Vegas,NV,Signal Gift Stores,83030,7025551838,1528.58
+9/12/2003 0:00,1013.48,26,USA,Vintage Cars,38.98,2793 Furth Circle,Brisbane,CA,Signal Collectibles Ltd.,94217,4155554312,1013.4799999999999
+11/12/2003 0:00,971.98,23,USA,Vintage Cars,42.26,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,971.9799999999999
+11/21/2003 0:00,902.66,22,Australia,Vintage Cars,41.03,7 Allen Street,Glen Waverly,Victoria,"Australian Collectables, Ltd",3150,61-9-3844-6555,902.6600000000001
+12/2/2003 0:00,1295.97,39,USA,Vintage Cars,33.23,4092 Furth Circle,NYC,NY,Muscle Machine Inc,10022,2125557413,1295.9699999999998
+4/20/2004 0:00,1698.78,46,USA,Vintage Cars,36.93,5290 North Pendale Street,NYC,NY,Microscale Inc.,10022,2125551957,1698.78
+10/21/2004 0:00,1093.99,31,USA,Vintage Cars,35.29,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,1093.99
+11/29/2004 0:00,2143.68,22,USA,Vintage Cars,97.44,8489 Strong St.,Las Vegas,NV,Signal Gift Stores,83030,7025551838,2143.68
+1/19/2005 0:00,1717.64,46,USA,Vintage Cars,37.34,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,1717.64
+4/22/2005 0:00,553.95,15,Japan,Vintage Cars,36.93,2-2-8 Roppongi,Minato-ku,Tokyo,"Tokyo Collectables, Ltd",106-0032,+81 3 3584 0555,553.95
+5/29/2005 0:00,652.35,15,Australia,Vintage Cars,43.49,"Monitor Money Building, 815 Pacific Hwy",Chatswood,NSW,Souveniers And Things Co.,2067,+61 2 9495 8555,652.35
+4/4/2003 0:00,5568.64,44,USA,Classic Cars,100,5905 Pompton St.,NYC,NY,Classic Legends Inc.,10022,2125558493,4400
+6/3/2003 0:00,1939.8,20,USA,Classic Cars,96.99,4092 Furth Circle,NYC,NY,Muscle Machine Inc,10022,2125557413,1939.8
+9/25/2003 0:00,2802.09,23,Australia,Classic Cars,100,31 Duncan St. West End,South Brisbane,Queensland,"Australian Gift Network, Co",4101,61-7-3844-6555,2300
+11/25/2003 0:00,3699.88,34,USA,Classic Cars,100,3758 North Pendale Street,White Plains,NY,Mini Classics,24067,9145554562,3400
+12/9/2003 0:00,2980.6,28,USA,Classic Cars,100,6251 Ingle Ln.,Boston,MA,Diecast Collectables,51003,6175552555,2800
+7/20/2004 0:00,3070.54,22,USA,Classic Cars,100,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,2200
+8/20/2004 0:00,4797.39,39,USA,Classic Cars,100,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,3900
+9/8/2004 0:00,3832.38,27,USA,Classic Cars,100,897 Long Airport Avenue,NYC,NY,Land of Toys Inc.,10022,2125557818,2700
+10/13/2004 0:00,4641.48,36,USA,Classic Cars,100,39323 Spinnaker Dr.,Cambridge,MA,Marta's Replicas Co.,51247,6175558555,3600
+12/1/2004 0:00,3182.97,23,USA,Classic Cars,100,4092 Furth Circle,NYC,NY,Muscle Machine Inc,10022,2125557413,2300
+1/23/2005 0:00,1408.96,28,USA,Classic Cars,50.32,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,1408.96
+7/16/2003 0:00,3276.13,29,Australia,Vintage Cars,100,"Monitor Money Building, 815 Pacific Hwy",Chatswood,NSW,Souveniers And Things Co.,2067,+61 2 9495 8555,2900
+9/12/2003 0:00,1811.4,20,USA,Vintage Cars,90.57,2793 Furth Circle,Brisbane,CA,Signal Collectibles Ltd.,94217,4155554312,1811.3999999999999
+10/20/2003 0:00,3845.1,42,USA,Vintage Cars,91.55,5905 Pompton St.,NYC,NY,Classic Legends Inc.,10022,2125558493,3845.1
+11/13/2003 0:00,5035.11,47,USA,Vintage Cars,100,782 First Street,Philadelphia,PA,"Classic Gift Ideas, Inc",71270,2155554695,4700
+11/21/2003 0:00,2279,20,Australia,Vintage Cars,100,7 Allen Street,Glen Waverly,Victoria,"Australian Collectables, Ltd",3150,61-9-3844-6555,2000
+12/5/2003 0:00,3213.87,33,Canada,Vintage Cars,97.39,1900 Oak St.,Vancouver,BC,Canadian Gift Exchange Network,V3F 2K1,(604) 555-3392,3213.87
+1/29/2004 0:00,3532.23,39,USA,Vintage Cars,90.57,3675 Furth Circle,Burbank,CA,West Coast Collectables Co.,94019,3105553722,3532.2299999999996
+3/10/2004 0:00,3406.59,33,USA,Vintage Cars,100,4658 Baden Av.,Cambridge,MA,Cambridge Collectables Co.,51247,6175555555,3300
+6/14/2004 0:00,3628.94,46,USA,Vintage Cars,78.89,3086 Ingle Ln.,San Jose,CA,The Sharp Gifts Warehouse,94217,4085553659,3628.94
+9/7/2004 0:00,5171.4,45,USA,Vintage Cars,100,16780 Pompton St.,Brickhaven,MA,Auto-Moto Classics Inc.,58339,6175558428,4500
+10/21/2004 0:00,4884.88,44,USA,Vintage Cars,100,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,4400
+11/5/2004 0:00,6267.69,33,USA,Vintage Cars,100,2678 Kingston Rd.,NYC,NY,Vitachrome Inc.,10022,2125551500,3300
+1/20/2005 0:00,3476.8,40,USA,Vintage Cars,86.92,7825 Douglas Av.,Brickhaven,MA,Collectables For Less Inc.,58339,6175558555,3476.8
+2/17/2005 0:00,4592.61,33,USA,Vintage Cars,100,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,3300
+4/29/2003 0:00,2479.21,29,Australia,Planes,85.49,636 St Kilda Road,Melbourne,Victoria,"Australian Collectors, Co.",3004,03 9520 4555,2479.21
+8/25/2003 0:00,2797.41,33,USA,Planes,84.77,78934 Hillside Dr.,Pasadena,CA,Toys4GrownUps.com,90003,6265557265,2797.41
+10/28/2003 0:00,3756,48,USA,Planes,78.25,9408 Furth Circle,Burlingame,CA,Technics Stores Inc.,94217,6505556809,3756
+1/12/2004 0:00,2840,40,Japan,Planes,71,"Dojima Avanza 4F, 1-6-20 Dojima, Kita-ku",Osaka,Osaka,Osaka Souveniers Co.,530-0003,+81 06 6342 5555,2840
+2/20/2004 0:00,1716.26,23,Australia,Planes,74.62,636 St Kilda Road,Melbourne,Victoria,"Australian Collectors, Co.",3004,03 9520 4555,1716.2600000000002
+4/2/2004 0:00,3245.6,40,Canada,Planes,81.14,23 Tsawassen Blvd.,Tsawassen,BC,"Royal Canadian Collectables, Ltd.",T2F 8M4,(604) 555-4555,3245.6
+5/11/2004 0:00,2760.94,37,USA,Planes,74.62,3086 Ingle Ln.,San Jose,CA,The Sharp Gifts Warehouse,94217,4085553659,2760.94
+6/28/2004 0:00,1808.4,24,USA,Planes,75.35,25593 South Bay Ln.,Bridgewater,CT,Gift Depot Inc.,97562,2035552570,1808.3999999999999
+10/15/2004 0:00,3666.08,44,USA,Planes,83.32,3758 North Pendale Street,White Plains,NY,Mini Classics,24067,9145554562,3666.08
+11/2/2004 0:00,2916.2,35,USA,Planes,83.32,9408 Furth Circle,Burlingame,CA,Technics Stores Inc.,94217,6505556809,2916.2
+12/4/2004 0:00,3146.5,35,USA,Planes,89.9,2440 Pompton St.,Glendale,CT,Gift Ideas Corp.,97561,2035554407,3146.5
+12/17/2004 0:00,1561.5,25,Australia,Planes,62.46,"Monitor Money Building, 815 Pacific Hwy",Chatswood,NSW,Souveniers And Things Co.,2067,+61 2 9495 8555,1561.5
+4/3/2005 0:00,4219.28,52,USA,Planes,81.14,7476 Moss Rd.,Newark,NJ,Tekni Collectables Inc.,94019,2015559350,4219.28
+7/2/2003 0:00,2008.13,23,USA,Classic Cars,87.31,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,2008.13
+9/5/2003 0:00,2004.77,31,USA,Classic Cars,64.67,7825 Douglas Av.,Brickhaven,MA,Collectables For Less Inc.,58339,6175558555,2004.77
+11/4/2003 0:00,2269.92,24,Australia,Classic Cars,94.58,201 Miller Street,North Sydney,NSW,"Anna's Decorations, Ltd",2060,02 9936 8555,2269.92
+6/30/2004 0:00,3913.69,47,USA,Classic Cars,83.27,8616 Spinnaker Dr.,Boston,MA,Gifts4AllAges.com,51003,6175559555,3913.6899999999996
+8/2/2004 0:00,3608.64,48,USA,Classic Cars,75.18,7635 Spinnaker Dr.,Brickhaven,MA,Online Mini Collectables,58339,6175557555,3608.6400000000003
+11/3/2004 0:00,3684.67,43,USA,Classic Cars,85.69,5290 North Pendale Street,NYC,NY,Microscale Inc.,10022,2125551957,3684.67
+11/17/2004 0:00,5715.4,41,USA,Classic Cars,100,11328 Douglas Av.,Philadelphia,PA,Motor Mint Distributors Inc.,71270,2155559857,4100
+3/4/2005 0:00,2472.6,30,USA,Classic Cars,82.42,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,2472.6
+7/24/2003 0:00,2829.58,26,USA,Trucks and Buses,100,9408 Furth Circle,Burlingame,CA,Technics Stores Inc.,94217,6505556809,2600
+12/9/2003 0:00,3964.1,49,USA,Trucks and Buses,80.9,6251 Ingle Ln.,Boston,MA,Diecast Collectables,51003,6175552555,3964.1000000000004
+3/11/2004 0:00,2793,25,USA,Trucks and Buses,100,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,2500
+5/4/2004 0:00,4133.64,37,USA,Trucks and Buses,100,567 North Pendale Street,New Haven,CT,Super Scale Inc.,97823,2035559545,3700
+7/19/2004 0:00,2743.04,32,Australia,Trucks and Buses,85.72,"Monitor Money Building, 815 Pacific Hwy",Chatswood,NSW,Souveniers And Things Co.,2067,+61 2 9495 8555,2743.04
+8/19/2004 0:00,2402.07,29,USA,Trucks and Buses,82.83,7586 Pompton St.,Allentown,PA,Diecast Classics Inc.,70267,2155551555,2402.07
+10/13/2004 0:00,3155.04,28,USA,Trucks and Buses,100,39323 Spinnaker Dr.,Cambridge,MA,Marta's Replicas Co.,51247,6175558555,2800
+10/22/2004 0:00,2366.28,27,Canada,Trucks and Buses,87.64,1900 Oak St.,Vancouver,BC,Canadian Gift Exchange Network,V3F 2K1,(604) 555-3392,2366.28
+11/5/2004 0:00,1963.6,20,USA,Trucks and Buses,98.18,2678 Kingston Rd.,NYC,NY,Vitachrome Inc.,10022,2125551500,1963.6000000000001
+11/19/2004 0:00,4746.28,44,USA,Trucks and Buses,100,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,4400
+1/23/2005 0:00,4044.04,26,USA,Trucks and Buses,100,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,2600
+2/17/2005 0:00,2708.42,26,USA,Trucks and Buses,100,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,2600
+5/1/2005 0:00,2904.72,26,Canada,Trucks and Buses,100,43 rue St. Laurent,Montreal,Quebec,Quebec Home Shopping Network,H1J 1C3,(514) 555-8054,2600
+2/24/2003 0:00,1858,20,USA,Motorcycles,92.9,897 Long Airport Avenue,NYC,NY,Land of Toys Inc.,10022,2125557818,1858
+4/29/2003 0:00,2461.36,22,Australia,Motorcycles,100,636 St Kilda Road,Melbourne,Victoria,"Australian Collectors, Co.",3004,03 9520 4555,2200
+8/25/2003 0:00,3098.7,33,USA,Motorcycles,93.9,78934 Hillside Dr.,Pasadena,CA,Toys4GrownUps.com,90003,6265557265,3098.7000000000003
+10/28/2003 0:00,3244.36,28,USA,Motorcycles,100,9408 Furth Circle,Burlingame,CA,Technics Stores Inc.,94217,6505556809,2800
+1/12/2004 0:00,3675.86,46,Japan,Motorcycles,79.91,"Dojima Avanza 4F, 1-6-20 Dojima, Kita-ku",Osaka,Osaka,Osaka Souveniers Co.,530-0003,+81 06 6342 5555,3675.8599999999997
+2/20/2004 0:00,2475.27,21,Australia,Motorcycles,100,636 St Kilda Road,Melbourne,Victoria,"Australian Collectors, Co.",3004,03 9520 4555,2100
+4/2/2004 0:00,4177.49,41,Canada,Motorcycles,100,23 Tsawassen Blvd.,Tsawassen,BC,"Royal Canadian Collectables, Ltd.",T2F 8M4,(604) 555-4555,4100
+5/11/2004 0:00,3282.28,31,USA,Motorcycles,100,3086 Ingle Ln.,San Jose,CA,The Sharp Gifts Warehouse,94217,4085553659,3100
+6/28/2004 0:00,2477.21,31,USA,Motorcycles,79.91,25593 South Bay Ln.,Bridgewater,CT,Gift Depot Inc.,97562,2035552570,2477.21
+8/27/2004 0:00,3658.93,37,USA,Motorcycles,98.89,39323 Spinnaker Dr.,Cambridge,MA,Marta's Replicas Co.,51247,6175558555,3658.93
+10/15/2004 0:00,1917.84,24,USA,Motorcycles,79.91,3758 North Pendale Street,White Plains,NY,Mini Classics,24067,9145554562,1917.84
+11/2/2004 0:00,5305.36,47,USA,Motorcycles,100,7586 Pompton St.,Allentown,PA,Diecast Classics Inc.,70267,2155551555,4700
+11/15/2004 0:00,2875.95,45,USA,Motorcycles,63.91,897 Long Airport Avenue,NYC,NY,Land of Toys Inc.,10022,2125557818,2875.95
+12/4/2004 0:00,3733.82,46,USA,Motorcycles,81.17,2440 Pompton St.,Glendale,CT,Gift Ideas Corp.,97561,2035554407,3733.82
+4/3/2005 0:00,4992.61,49,USA,Motorcycles,100,7476 Moss Rd.,Newark,NJ,Tekni Collectables Inc.,94019,2015559350,4900
+7/2/2003 0:00,1327.59,33,USA,Motorcycles,40.23,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,1327.59
+8/25/2003 0:00,1109.8,31,USA,Motorcycles,35.8,78934 Hillside Dr.,Pasadena,CA,Toys4GrownUps.com,90003,6265557265,1109.8
+11/4/2003 0:00,1035.58,26,Australia,Motorcycles,39.83,201 Miller Street,North Sydney,NSW,"Anna's Decorations, Ltd",2060,02 9936 8555,1035.58
+4/5/2004 0:00,1045.98,26,USA,Motorcycles,40.23,2678 Kingston Rd.,NYC,NY,Vitachrome Inc.,10022,2125551500,1045.98
+6/30/2004 0:00,651.8,20,USA,Motorcycles,32.59,8616 Spinnaker Dr.,Boston,MA,Gifts4AllAges.com,51003,6175559555,651.8000000000001
+8/2/2004 0:00,988.47,27,USA,Motorcycles,36.61,7635 Spinnaker Dr.,Brickhaven,MA,Online Mini Collectables,58339,6175557555,988.47
+8/27/2004 0:00,1518.11,37,USA,Motorcycles,41.03,39323 Spinnaker Dr.,Cambridge,MA,Marta's Replicas Co.,51247,6175558555,1518.1100000000001
+11/3/2004 0:00,1108.38,29,USA,Motorcycles,38.22,5290 North Pendale Street,NYC,NY,Microscale Inc.,10022,2125551957,1108.3799999999999
+11/17/2004 0:00,4102.56,28,USA,Motorcycles,100,11328 Douglas Av.,Philadelphia,PA,Motor Mint Distributors Inc.,71270,2155559857,2800
+3/4/2005 0:00,1826.96,41,USA,Motorcycles,44.56,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,1826.96
+6/3/2003 0:00,2337.75,45,USA,Trucks and Buses,51.95,4092 Furth Circle,NYC,NY,Muscle Machine Inc,10022,2125557413,2337.75
+11/25/2003 0:00,1385.28,32,USA,Trucks and Buses,43.29,3758 North Pendale Street,White Plains,NY,Mini Classics,24067,9145554562,1385.28
+12/9/2003 0:00,1621.62,27,USA,Trucks and Buses,60.06,6251 Ingle Ln.,Boston,MA,Diecast Collectables,51003,6175552555,1621.6200000000001
+2/10/2004 0:00,1931.65,35,USA,Trucks and Buses,55.19,2793 Furth Circle,Brisbane,CA,Signal Collectibles Ltd.,94217,4155554312,1931.6499999999999
+3/11/2004 0:00,1244.53,23,USA,Trucks and Buses,54.11,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,1244.53
+7/20/2004 0:00,1666.7,35,USA,Trucks and Buses,47.62,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,1666.6999999999998
+8/19/2004 0:00,1710.89,31,USA,Trucks and Buses,55.19,7586 Pompton St.,Allentown,PA,Diecast Classics Inc.,70267,2155551555,1710.8899999999999
+9/8/2004 0:00,2326.5,50,USA,Trucks and Buses,46.53,897 Long Airport Avenue,NYC,NY,Land of Toys Inc.,10022,2125557818,2326.5
+10/13/2004 0:00,2316,40,USA,Trucks and Buses,57.9,39323 Spinnaker Dr.,Cambridge,MA,Marta's Replicas Co.,51247,6175558555,2316
+10/22/2004 0:00,1727.1,38,Canada,Trucks and Buses,45.45,1900 Oak St.,Vancouver,BC,Canadian Gift Exchange Network,V3F 2K1,(604) 555-3392,1727.1000000000001
+11/19/2004 0:00,2424,40,USA,Trucks and Buses,60.6,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,2424
+12/1/2004 0:00,1535.49,33,USA,Trucks and Buses,46.53,4092 Furth Circle,NYC,NY,Muscle Machine Inc,10022,2125557413,1535.49
+1/23/2005 0:00,1329.4,20,USA,Trucks and Buses,66.47,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,1329.4
+6/3/2003 0:00,2054.36,29,USA,Trains,70.84,4092 Furth Circle,NYC,NY,Muscle Machine Inc,10022,2125557413,2054.36
+8/8/2003 0:00,3131.94,42,USA,Trains,74.57,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,3131.9399999999996
+9/25/2003 0:00,1681.35,33,Australia,Trains,50.95,31 Duncan St. West End,South Brisbane,Queensland,"Australian Gift Network, Co",4101,61-7-3844-6555,1681.3500000000001
+11/25/2003 0:00,1804.44,33,USA,Trains,54.68,3758 North Pendale Street,White Plains,NY,Mini Classics,24067,9145554562,1804.44
+12/9/2003 0:00,2544.75,45,USA,Trains,56.55,6251 Ingle Ln.,Boston,MA,Diecast Collectables,51003,6175552555,2544.75
+7/20/2004 0:00,2908.35,45,USA,Trains,64.63,7586 Pompton St.,Allentown,PA,Diecast Classics Inc.,70267,2155551555,2908.35
+8/20/2004 0:00,2147.4,36,USA,Trains,59.65,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,2147.4
+9/8/2004 0:00,2099.63,31,USA,Trains,67.73,897 Long Airport Avenue,NYC,NY,Land of Toys Inc.,10022,2125557818,2099.63
+1/23/2005 0:00,2986.5,30,USA,Trains,99.55,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,2986.5
+5/5/2005 0:00,1193.04,24,USA,Trains,49.71,25593 South Bay Ln.,Bridgewater,CT,Gift Depot Inc.,97562,2035552570,1193.04
+3/26/2003 0:00,1575.96,23,USA,Trucks and Buses,68.52,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,1575.9599999999998
+7/24/2003 0:00,1701.28,28,USA,Trucks and Buses,60.76,9408 Furth Circle,Burlingame,CA,Technics Stores Inc.,94217,6505556809,1701.28
+11/13/2003 0:00,3167.36,49,USA,Trucks and Buses,64.64,782 First Street,Philadelphia,PA,"Classic Gift Ideas, Inc",71270,2155554695,3167.36
+12/5/2003 0:00,2117.52,36,Canada,Trucks and Buses,58.82,1900 Oak St.,Vancouver,BC,Canadian Gift Exchange Network,V3F 2K1,(604) 555-3392,2117.52
+3/11/2004 0:00,2191.2,30,USA,Trucks and Buses,73.04,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,2191.2000000000003
+5/4/2004 0:00,3043.04,44,USA,Trucks and Buses,69.16,567 North Pendale Street,New Haven,CT,Super Scale Inc.,97823,2035559545,3043.04
+6/15/2004 0:00,1228.2,20,Japan,Trucks and Buses,61.41,2-2-8 Roppongi,Minato-ku,Tokyo,"Tokyo Collectables, Ltd",106-0032,+81 3 3584 0555,1228.1999999999998
+7/19/2004 0:00,1330.35,21,Australia,Trucks and Buses,63.35,"Monitor Money Building, 815 Pacific Hwy",Chatswood,NSW,Souveniers And Things Co.,2067,+61 2 9495 8555,1330.3500000000001
+8/19/2004 0:00,2792.52,36,USA,Trucks and Buses,77.57,7586 Pompton St.,Allentown,PA,Diecast Classics Inc.,70267,2155551555,2792.5199999999995
+10/22/2004 0:00,1912.16,34,Canada,Trucks and Buses,56.24,1900 Oak St.,Vancouver,BC,Canadian Gift Exchange Network,V3F 2K1,(604) 555-3392,1912.16
+11/5/2004 0:00,8209.44,48,USA,Trucks and Buses,100,2678 Kingston Rd.,NYC,NY,Vitachrome Inc.,10022,2125551500,4800
+1/20/2005 0:00,3160.25,25,Australia,Trucks and Buses,100,201 Miller Street,North Sydney,NSW,"Anna's Decorations, Ltd",2060,02 9936 8555,2500
+2/17/2005 0:00,6799.68,48,USA,Trucks and Buses,100,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,4800
+5/1/2005 0:00,1867.32,27,Canada,Trucks and Buses,69.16,43 rue St. Laurent,Montreal,Quebec,Quebec Home Shopping Network,H1J 1C3,(514) 555-8054,1867.32
+4/29/2003 0:00,2094.67,29,Australia,Vintage Cars,72.23,636 St Kilda Road,Melbourne,Victoria,"Australian Collectors, Co.",3004,03 9520 4555,2094.67
+10/28/2003 0:00,2281.91,31,USA,Vintage Cars,73.61,9408 Furth Circle,Burlingame,CA,Technics Stores Inc.,94217,6505556809,2281.91
+1/12/2004 0:00,2307.24,39,Japan,Vintage Cars,59.16,"Dojima Avanza 4F, 1-6-20 Dojima, Kita-ku",Osaka,Osaka,Osaka Souveniers Co.,530-0003,+81 06 6342 5555,2307.24
+2/20/2004 0:00,1320.8,20,Australia,Vintage Cars,66.04,636 St Kilda Road,Melbourne,Victoria,"Australian Collectors, Co.",3004,03 9520 4555,1320.8000000000002
+4/2/2004 0:00,2642.82,34,Canada,Vintage Cars,77.73,23 Tsawassen Blvd.,Tsawassen,BC,"Royal Canadian Collectables, Ltd.",T2F 8M4,(604) 555-4555,2642.82
+5/11/2004 0:00,3061,50,USA,Vintage Cars,61.22,3086 Ingle Ln.,San Jose,CA,The Sharp Gifts Warehouse,94217,4085553659,3061
+10/15/2004 0:00,3037.84,46,USA,Vintage Cars,66.04,3758 North Pendale Street,White Plains,NY,Mini Classics,24067,9145554562,3037.84
+11/1/2004 0:00,1419.84,24,UK,Vintage Cars,59.16,Garden House Crowther Way,Cowes,Isle of Wight,giftsbymail.co.uk,PO31 7PJ,(198) 555-8888,1419.84
+12/4/2004 0:00,1780.4,40,USA,Vintage Cars,44.51,2440 Pompton St.,Glendale,CT,Gift Ideas Corp.,97561,2035554407,1780.3999999999999
+12/17/2004 0:00,3544.17,49,Australia,Vintage Cars,72.33,"Monitor Money Building, 815 Pacific Hwy",Chatswood,NSW,Souveniers And Things Co.,2067,+61 2 9495 8555,3544.17
+3/3/2005 0:00,3918.95,35,USA,Vintage Cars,100,1785 First Street,New Bedford,MA,FunGiftIdeas.com,50553,5085552555,3500
+4/3/2005 0:00,4819.26,62,USA,Vintage Cars,77.73,7476 Moss Rd.,Newark,NJ,Tekni Collectables Inc.,94019,2015559350,4819.26
+7/2/2003 0:00,2694,30,USA,Motorcycles,89.8,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,2694
+8/25/2003 0:00,3251.34,27,USA,Motorcycles,100,78934 Hillside Dr.,Pasadena,CA,Toys4GrownUps.com,90003,6265557265,2700
+11/4/2003 0:00,3920.88,34,Australia,Motorcycles,100,201 Miller Street,North Sydney,NSW,"Anna's Decorations, Ltd",2060,02 9936 8555,3400
+4/5/2004 0:00,3113.64,27,USA,Motorcycles,100,2678 Kingston Rd.,NYC,NY,Vitachrome Inc.,10022,2125551500,2700
+6/30/2004 0:00,3330.98,34,USA,Motorcycles,97.97,8616 Spinnaker Dr.,Boston,MA,Gifts4AllAges.com,51003,6175559555,3330.98
+8/2/2004 0:00,4304.64,38,USA,Motorcycles,100,7635 Spinnaker Dr.,Brickhaven,MA,Online Mini Collectables,58339,6175557555,3800
+8/27/2004 0:00,2600.26,26,USA,Motorcycles,100,39323 Spinnaker Dr.,Cambridge,MA,Marta's Replicas Co.,51247,6175558555,2600
+11/3/2004 0:00,2626.8,22,USA,Motorcycles,100,5290 North Pendale Street,NYC,NY,Microscale Inc.,10022,2125551957,2200
+11/17/2004 0:00,5026.56,32,USA,Motorcycles,100,11328 Douglas Av.,Philadelphia,PA,Motor Mint Distributors Inc.,71270,2155559857,3200
+1/7/2005 0:00,3425.18,22,USA,Motorcycles,100,4575 Hillside Dr.,New Bedford,MA,Mini Creations Ltd.,50553,5085559555,2200
+3/4/2005 0:00,2204.1,45,USA,Motorcycles,48.98,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,2204.1
+4/29/2003 0:00,2480.38,49,Australia,Vintage Cars,50.62,636 St Kilda Road,Melbourne,Victoria,"Australian Collectors, Co.",3004,03 9520 4555,2480.3799999999997
+8/10/2003 0:00,1246.44,34,USA,Vintage Cars,36.66,4575 Hillside Dr.,New Bedford,MA,Mini Creations Ltd.,50553,5085559555,1246.4399999999998
+10/28/2003 0:00,2492.64,48,USA,Vintage Cars,51.93,9408 Furth Circle,Burlingame,CA,Technics Stores Inc.,94217,6505556809,2492.64
+12/1/2003 0:00,1113.6,29,USA,Vintage Cars,38.4,3675 Furth Circle,Burbank,CA,West Coast Collectables Co.,94019,3105553722,1113.6
+1/12/2004 0:00,1763.86,43,Japan,Vintage Cars,41.02,"Dojima Avanza 4F, 1-6-20 Dojima, Kita-ku",Osaka,Osaka,Osaka Souveniers Co.,530-0003,+81 06 6342 5555,1763.8600000000001
+2/20/2004 0:00,1896.66,41,Australia,Vintage Cars,46.26,636 St Kilda Road,Melbourne,Victoria,"Australian Collectors, Co.",3004,03 9520 4555,1896.6599999999999
+4/2/2004 0:00,1449.35,41,Canada,Vintage Cars,35.35,23 Tsawassen Blvd.,Tsawassen,BC,"Royal Canadian Collectables, Ltd.",T2F 8M4,(604) 555-4555,1449.3500000000001
+5/11/2004 0:00,1869.48,36,USA,Vintage Cars,51.93,3086 Ingle Ln.,San Jose,CA,The Sharp Gifts Warehouse,94217,4085553659,1869.48
+10/15/2004 0:00,2051.08,47,USA,Vintage Cars,43.64,3758 North Pendale Street,White Plains,NY,Mini Classics,24067,9145554562,2051.08
+11/1/2004 0:00,1617.38,34,UK,Vintage Cars,47.57,Garden House Crowther Way,Cowes,Isle of Wight,giftsbymail.co.uk,PO31 7PJ,(198) 555-8888,1617.38
+12/4/2004 0:00,3288.4,40,USA,Vintage Cars,82.21,2440 Pompton St.,Glendale,CT,Gift Ideas Corp.,97561,2035554407,3288.3999999999996
+12/17/2004 0:00,2725.47,33,Australia,Vintage Cars,82.59,"Monitor Money Building, 815 Pacific Hwy",Chatswood,NSW,Souveniers And Things Co.,2067,+61 2 9495 8555,2725.4700000000003
+3/3/2005 0:00,3211.38,27,USA,Vintage Cars,100,1785 First Street,New Bedford,MA,FunGiftIdeas.com,50553,5085552555,2700
+4/3/2005 0:00,1979.6,56,USA,Vintage Cars,35.35,7476 Moss Rd.,Newark,NJ,Tekni Collectables Inc.,94019,2015559350,1979.6000000000001
+4/4/2003 0:00,2843.91,27,USA,Trucks and Buses,100,5905 Pompton St.,NYC,NY,Classic Legends Inc.,10022,2125558493,2700
+6/3/2003 0:00,6176.42,46,USA,Trucks and Buses,100,4092 Furth Circle,NYC,NY,Muscle Machine Inc,10022,2125557413,4600
+11/25/2003 0:00,5161.17,49,USA,Trucks and Buses,100,3758 North Pendale Street,White Plains,NY,Mini Classics,24067,9145554562,4900
+12/9/2003 0:00,2657.76,28,USA,Trucks and Buses,94.92,6251 Ingle Ln.,Boston,MA,Diecast Collectables,51003,6175552555,2657.76
+7/20/2004 0:00,3345.26,34,USA,Trucks and Buses,98.39,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,3345.26
+8/20/2004 0:00,4310.72,38,USA,Trucks and Buses,100,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,3800
+9/8/2004 0:00,4983.14,41,USA,Trucks and Buses,100,897 Long Airport Avenue,NYC,NY,Land of Toys Inc.,10022,2125557818,4100
+10/13/2004 0:00,4618.32,42,USA,Trucks and Buses,100,39323 Spinnaker Dr.,Cambridge,MA,Marta's Replicas Co.,51247,6175558555,4200
+1/23/2005 0:00,2714.4,48,USA,Trucks and Buses,56.55,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,2714.3999999999996
+6/3/2003 0:00,3179.52,46,USA,Trains,69.12,4092 Furth Circle,NYC,NY,Muscle Machine Inc,10022,2125557413,3179.5200000000004
+8/8/2003 0:00,2091.18,42,USA,Trains,49.79,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,2091.18
+11/14/2003 0:00,972.4,20,USA,Trains,48.62,4575 Hillside Dr.,New Bedford,MA,Mini Creations Ltd.,50553,5085559555,972.4
+11/26/2003 0:00,2856.14,46,USA,Trains,62.09,567 North Pendale Street,New Haven,CT,Super Scale Inc.,97823,2035559545,2856.1400000000003
+7/20/2004 0:00,2443.26,43,USA,Trains,56.82,7586 Pompton St.,Allentown,PA,Diecast Classics Inc.,70267,2155551555,2443.26
+8/20/2004 0:00,2470.86,37,USA,Trains,66.78,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,2470.86
+9/8/2004 0:00,1927.45,35,USA,Trains,55.07,897 Long Airport Avenue,NYC,NY,Land of Toys Inc.,10022,2125557818,1927.45
+11/21/2004 0:00,2296.77,21,USA,Trains,100,5905 Pompton St.,NYC,NY,Classic Legends Inc.,10022,2125558493,2100
+1/26/2005 0:00,1405.92,24,Japan,Trains,58.58,2-2-8 Roppongi,Minato-ku,Tokyo,"Tokyo Collectables, Ltd",106-0032,+81 3 3584 0555,1405.92
+5/5/2005 0:00,3256.35,51,USA,Trains,63.85,25593 South Bay Ln.,Bridgewater,CT,Gift Depot Inc.,97562,2035552570,3256.35
+7/2/2003 0:00,4224,44,USA,Motorcycles,96,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,4224
+8/25/2003 0:00,3091.68,38,USA,Motorcycles,81.36,78934 Hillside Dr.,Pasadena,CA,Toys4GrownUps.com,90003,6265557265,3091.68
+11/4/2003 0:00,3866.4,48,Australia,Motorcycles,80.55,201 Miller Street,North Sydney,NSW,"Anna's Decorations, Ltd",2060,02 9936 8555,3866.3999999999996
+4/5/2004 0:00,1366.8,20,USA,Motorcycles,68.34,2678 Kingston Rd.,NYC,NY,Vitachrome Inc.,10022,2125551500,1366.8000000000002
+6/30/2004 0:00,4206.5,47,USA,Motorcycles,89.5,8616 Spinnaker Dr.,Boston,MA,Gifts4AllAges.com,51003,6175559555,4206.5
+8/2/2004 0:00,1486.38,21,USA,Motorcycles,70.78,7635 Spinnaker Dr.,Brickhaven,MA,Online Mini Collectables,58339,6175557555,1486.38
+8/27/2004 0:00,3077.88,39,USA,Motorcycles,78.92,39323 Spinnaker Dr.,Cambridge,MA,Marta's Replicas Co.,51247,6175558555,3077.88
+11/3/2004 0:00,3478.05,45,USA,Motorcycles,77.29,5290 North Pendale Street,NYC,NY,Microscale Inc.,10022,2125551957,3478.05
+11/17/2004 0:00,3657.8,20,USA,Motorcycles,100,11328 Douglas Av.,Philadelphia,PA,Motor Mint Distributors Inc.,71270,2155559857,2000
+1/7/2005 0:00,4984.32,44,USA,Motorcycles,100,4575 Hillside Dr.,New Bedford,MA,Mini Creations Ltd.,50553,5085559555,4400
+3/4/2005 0:00,3491.18,22,USA,Motorcycles,100,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,2200
+8/8/2003 0:00,2624,41,USA,Ships,64,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,2624
+11/14/2003 0:00,1134,21,USA,Ships,54,4575 Hillside Dr.,New Bedford,MA,Mini Creations Ltd.,50553,5085559555,1134
+2/19/2004 0:00,1942.77,31,USA,Ships,62.67,361 Furth Circle,San Diego,CA,Collectable Mini Designs Co.,91217,7605558146,1942.77
+3/29/2004 0:00,2544.12,36,USA,Ships,70.67,7476 Moss Rd.,Newark,NJ,Tekni Collectables Inc.,94019,2015559350,2544.12
+5/7/2004 0:00,2568.24,36,USA,Ships,71.34,897 Long Airport Avenue,NYC,NY,Land of Toys Inc.,10022,2125557818,2568.2400000000002
+6/17/2004 0:00,2108,34,Canada,Ships,62,43 rue St. Laurent,Montreal,Quebec,Quebec Home Shopping Network,H1J 1C3,(514) 555-8054,2108
+8/20/2004 0:00,3540.15,45,Canada,Ships,78.67,23 Tsawassen Blvd.,Tsawassen,BC,"Royal Canadian Collectables, Ltd.",T2F 8M4,(604) 555-4555,3540.15
+9/10/2004 0:00,1958.84,26,USA,Ships,75.34,8616 Spinnaker Dr.,Boston,MA,Gifts4AllAges.com,51003,6175559555,1958.8400000000001
+11/23/2004 0:00,2816.44,22,Japan,Ships,100,2-2-8 Roppongi,Minato-ku,Tokyo,"Tokyo Collectables, Ltd",106-0032,+81 3 3584 0555,2200
+2/28/2005 0:00,1933.5,25,USA,Ships,77.34,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,1933.5
+3/23/2005 0:00,2600.13,39,USA,Ships,66.67,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,2600.13
+5/6/2005 0:00,2639.58,37,USA,Ships,71.34,8616 Spinnaker Dr.,Boston,MA,Gifts4AllAges.com,51003,6175559555,2639.58
+4/29/2003 0:00,3863.87,47,Australia,Planes,82.21,636 St Kilda Road,Melbourne,Victoria,"Australian Collectors, Co.",3004,03 9520 4555,3863.87
+8/10/2003 0:00,3945.96,36,USA,Planes,100,4575 Hillside Dr.,New Bedford,MA,Mini Creations Ltd.,50553,5085559555,3600
+10/28/2003 0:00,2762.2,28,USA,Planes,98.65,9408 Furth Circle,Burlingame,CA,Technics Stores Inc.,94217,6505556809,2762.2000000000003
+12/1/2003 0:00,3989.76,48,USA,Planes,83.12,3675 Furth Circle,Burbank,CA,West Coast Collectables Co.,94019,3105553722,3989.76
+1/12/2004 0:00,1649.55,21,Japan,Planes,78.55,"Dojima Avanza 4F, 1-6-20 Dojima, Kita-ku",Osaka,Osaka,Osaka Souveniers Co.,530-0003,+81 06 6342 5555,1649.55
+2/20/2004 0:00,2534.75,25,Australia,Planes,100,636 St Kilda Road,Melbourne,Victoria,"Australian Collectors, Co.",3004,03 9520 4555,2500
+4/2/2004 0:00,2580.25,25,Canada,Planes,100,23 Tsawassen Blvd.,Tsawassen,BC,"Royal Canadian Collectables, Ltd.",T2F 8M4,(604) 555-4555,2500
+5/11/2004 0:00,2831.54,31,USA,Planes,91.34,3086 Ingle Ln.,San Jose,CA,The Sharp Gifts Warehouse,94217,4085553659,2831.54
+10/15/2004 0:00,2224.95,21,USA,Planes,100,3758 North Pendale Street,White Plains,NY,Mini Classics,24067,9145554562,2100
+11/1/2004 0:00,2795.14,34,UK,Planes,82.21,Garden House Crowther Way,Cowes,Isle of Wight,giftsbymail.co.uk,PO31 7PJ,(198) 555-8888,2795.14
+12/4/2004 0:00,5043.87,39,USA,Planes,100,2440 Pompton St.,Glendale,CT,Gift Ideas Corp.,97561,2035554407,3900
+12/17/2004 0:00,1210.8,20,Australia,Planes,60.54,"Monitor Money Building, 815 Pacific Hwy",Chatswood,NSW,Souveniers And Things Co.,2067,+61 2 9495 8555,1210.8
+3/3/2005 0:00,10066.6,46,USA,Planes,100,1785 First Street,New Bedford,MA,FunGiftIdeas.com,50553,5085552555,4600
+4/3/2005 0:00,1135.31,11,USA,Planes,100,7476 Moss Rd.,Newark,NJ,Tekni Collectables Inc.,94019,2015559350,1100
+8/8/2003 0:00,3612.43,43,USA,Ships,84.01,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,3612.4300000000003
+10/21/2003 0:00,3013.97,29,USA,Ships,100,1785 First Street,New Bedford,MA,FunGiftIdeas.com,50553,5085552555,2900
+11/14/2003 0:00,2832,30,USA,Ships,94.4,4575 Hillside Dr.,New Bedford,MA,Mini Creations Ltd.,50553,5085559555,2832
+11/26/2003 0:00,4720,50,USA,Ships,94.4,567 North Pendale Street,New Haven,CT,Super Scale Inc.,97823,2035559545,4720
+3/20/2004 0:00,2296.84,26,UK,Ships,88.34,Garden House Crowther Way,Cowes,Isle of Wight,giftsbymail.co.uk,PO31 7PJ,(198) 555-8888,2296.84
+5/7/2004 0:00,4157.2,40,USA,Ships,100,897 Long Airport Avenue,NYC,NY,Land of Toys Inc.,10022,2125557818,4000
+8/20/2004 0:00,3724.23,43,USA,Ships,86.61,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,3724.23
+11/21/2004 0:00,2530.8,36,USA,Ships,70.3,5905 Pompton St.,NYC,NY,Classic Legends Inc.,10022,2125558493,2530.7999999999997
+1/26/2005 0:00,4496.8,44,Japan,Ships,100,2-2-8 Roppongi,Minato-ku,Tokyo,"Tokyo Collectables, Ltd",106-0032,+81 3 3584 0555,4400
+5/6/2005 0:00,3533.62,34,USA,Ships,100,8616 Spinnaker Dr.,Boston,MA,Gifts4AllAges.com,51003,6175559555,3400
+6/16/2003 0:00,1891.78,22,USA,Ships,85.99,2440 Pompton St.,Glendale,CT,Gift Ideas Corp.,97561,2035554407,1891.78
+8/10/2003 0:00,2612.48,26,USA,Ships,100,4575 Hillside Dr.,New Bedford,MA,Mini Creations Ltd.,50553,5085559555,2600
+2/19/2004 0:00,2659.54,26,USA,Ships,100,361 Furth Circle,San Diego,CA,Collectable Mini Designs Co.,91217,7605558146,2600
+5/8/2004 0:00,3838,40,USA,Ships,95.95,4658 Baden Av.,Cambridge,MA,Cambridge Collectables Co.,51247,6175555555,3838
+7/21/2004 0:00,2172.48,24,USA,Ships,90.52,7825 Douglas Av.,Brickhaven,MA,Collectables For Less Inc.,58339,6175558555,2172.48
+8/20/2004 0:00,1882.8,20,Canada,Ships,94.14,23 Tsawassen Blvd.,Tsawassen,BC,"Royal Canadian Collectables, Ltd.",T2F 8M4,(604) 555-4555,1882.8
+10/14/2004 0:00,3323.84,34,USA,Ships,97.76,782 First Street,Philadelphia,PA,"Classic Gift Ideas, Inc",71270,2155554695,3323.84
+11/1/2004 0:00,4195.8,45,UK,Ships,93.24,Garden House Crowther Way,Cowes,Isle of Wight,giftsbymail.co.uk,PO31 7PJ,(198) 555-8888,4195.8
+11/23/2004 0:00,3918.75,55,Japan,Ships,71.25,2-2-8 Roppongi,Minato-ku,Tokyo,"Tokyo Collectables, Ltd",106-0032,+81 3 3584 0555,3918.75
+12/3/2004 0:00,2352.67,23,USA,Ships,100,16780 Pompton St.,Brickhaven,MA,Auto-Moto Classics Inc.,58339,6175558428,2300
+12/17/2004 0:00,1089.36,24,Australia,Ships,45.39,"Monitor Money Building, 815 Pacific Hwy",Chatswood,NSW,Souveniers And Things Co.,2067,+61 2 9495 8555,1089.3600000000001
+4/1/2005 0:00,4038.8,46,USA,Ships,87.8,3086 Ingle Ln.,San Jose,CA,The Sharp Gifts Warehouse,94217,4085553659,4038.7999999999997
+5/9/2005 0:00,3070.4,32,Australia,Ships,95.95,7 Allen Street,Glen Waverly,Victoria,"Australian Collectables, Ltd",3150,61-9-3844-6555,3070.4
+4/29/2003 0:00,2584.8,24,Australia,Planes,100,636 St Kilda Road,Melbourne,Victoria,"Australian Collectors, Co.",3004,03 9520 4555,2400
+6/16/2003 0:00,4427.6,40,USA,Planes,100,2440 Pompton St.,Glendale,CT,Gift Ideas Corp.,97561,2035554407,4000
+8/10/2003 0:00,2152.02,26,USA,Planes,82.77,4575 Hillside Dr.,New Bedford,MA,Mini Creations Ltd.,50553,5085559555,2152.02
+10/28/2003 0:00,3431.39,31,USA,Planes,100,9408 Furth Circle,Burlingame,CA,Technics Stores Inc.,94217,6505556809,3100
+1/12/2004 0:00,2592.72,26,Japan,Planes,99.72,"Dojima Avanza 4F, 1-6-20 Dojima, Kita-ku",Osaka,Osaka,Osaka Souveniers Co.,530-0003,+81 06 6342 5555,2592.72
+2/19/2004 0:00,3246.75,37,USA,Planes,87.75,361 Furth Circle,San Diego,CA,Collectable Mini Designs Co.,91217,7605558146,3246.75
+4/2/2004 0:00,3372.5,38,Canada,Planes,88.75,23 Tsawassen Blvd.,Tsawassen,BC,"Royal Canadian Collectables, Ltd.",T2F 8M4,(604) 555-4555,3372.5
+5/11/2004 0:00,3909.15,35,USA,Planes,100,3086 Ingle Ln.,San Jose,CA,The Sharp Gifts Warehouse,94217,4085553659,3500
+10/15/2004 0:00,3106.25,35,USA,Planes,88.75,3758 North Pendale Street,White Plains,NY,Mini Classics,24067,9145554562,3106.25
+11/1/2004 0:00,2706.41,23,UK,Planes,100,Garden House Crowther Way,Cowes,Isle of Wight,giftsbymail.co.uk,PO31 7PJ,(198) 555-8888,2300
+12/3/2004 0:00,4935.28,49,USA,Planes,100,16780 Pompton St.,Brickhaven,MA,Auto-Moto Classics Inc.,58339,6175558428,4900
+12/17/2004 0:00,2754.7,26,Australia,Planes,100,"Monitor Money Building, 815 Pacific Hwy",Chatswood,NSW,Souveniers And Things Co.,2067,+61 2 9495 8555,2600
+4/3/2005 0:00,7543.75,85,USA,Planes,88.75,7476 Moss Rd.,Newark,NJ,Tekni Collectables Inc.,94019,2015559350,7543.75
+8/10/2003 0:00,2643.99,31,USA,Ships,85.29,4575 Hillside Dr.,New Bedford,MA,Mini Creations Ltd.,50553,5085559555,2643.9900000000002
+10/2/2003 0:00,2315.88,36,USA,Ships,64.33,4097 Douglas Av.,Glendale,CA,Boards & Toys Co.,92561,3105552373,2315.88
+11/14/2003 0:00,2254.98,39,USA,Ships,57.82,4575 Hillside Dr.,New Bedford,MA,Mini Creations Ltd.,50553,5085559555,2254.98
+2/19/2004 0:00,2914.2,36,USA,Ships,80.95,361 Furth Circle,San Diego,CA,Collectable Mini Designs Co.,91217,7605558146,2914.2000000000003
+3/29/2004 0:00,2389.6,29,USA,Ships,82.4,7476 Moss Rd.,Newark,NJ,Tekni Collectables Inc.,94019,2015559350,2389.6000000000004
+5/7/2004 0:00,2428.48,32,USA,Ships,75.89,897 Long Airport Avenue,NYC,NY,Land of Toys Inc.,10022,2125557818,2428.48
+6/17/2004 0:00,3021.48,44,Canada,Ships,68.67,43 rue St. Laurent,Montreal,Quebec,Quebec Home Shopping Network,H1J 1C3,(514) 555-8054,3021.48
+8/20/2004 0:00,3091.19,47,Canada,Ships,65.77,23 Tsawassen Blvd.,Tsawassen,BC,"Royal Canadian Collectables, Ltd.",T2F 8M4,(604) 555-4555,3091.1899999999996
+9/10/2004 0:00,2576.2,44,USA,Ships,58.55,8616 Spinnaker Dr.,Boston,MA,Gifts4AllAges.com,51003,6175559555,2576.2
+11/1/2004 0:00,3573.6,48,UK,Ships,74.45,Garden House Crowther Way,Cowes,Isle of Wight,giftsbymail.co.uk,PO31 7PJ,(198) 555-8888,3573.6000000000004
+11/23/2004 0:00,3717.5,50,Japan,Ships,74.35,2-2-8 Roppongi,Minato-ku,Tokyo,"Tokyo Collectables, Ltd",106-0032,+81 3 3584 0555,3717.4999999999995
+5/6/2005 0:00,2352.59,31,USA,Ships,75.89,8616 Spinnaker Dr.,Boston,MA,Gifts4AllAges.com,51003,6175559555,2352.59
+7/24/2003 0:00,4114.8,36,USA,Classic Cars,100,9408 Furth Circle,Burlingame,CA,Technics Stores Inc.,94217,6505556809,3600
+11/13/2003 0:00,2000.77,23,USA,Classic Cars,86.99,782 First Street,Philadelphia,PA,"Classic Gift Ideas, Inc",71270,2155554695,2000.77
+12/5/2003 0:00,3871.89,33,Canada,Classic Cars,100,1900 Oak St.,Vancouver,BC,Canadian Gift Exchange Network,V3F 2K1,(604) 555-3392,3300
+3/11/2004 0:00,5614,50,USA,Classic Cars,100,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,5000
+5/4/2004 0:00,4628.8,44,USA,Classic Cars,100,567 North Pendale Street,New Haven,CT,Super Scale Inc.,97823,2035559545,4400
+6/15/2004 0:00,3641.4,45,Japan,Classic Cars,80.92,2-2-8 Roppongi,Minato-ku,Tokyo,"Tokyo Collectables, Ltd",106-0032,+81 3 3584 0555,3641.4
+7/19/2004 0:00,4048,46,Australia,Classic Cars,88,"Monitor Money Building, 815 Pacific Hwy",Chatswood,NSW,Souveniers And Things Co.,2067,+61 2 9495 8555,4048
+8/19/2004 0:00,2321.46,27,USA,Classic Cars,85.98,7586 Pompton St.,Allentown,PA,Diecast Classics Inc.,70267,2155551555,2321.46
+10/22/2004 0:00,2973.9,30,Canada,Classic Cars,99.13,1900 Oak St.,Vancouver,BC,Canadian Gift Exchange Network,V3F 2K1,(604) 555-3392,2973.8999999999996
+11/5/2004 0:00,4248.3,34,USA,Classic Cars,100,2678 Kingston Rd.,NYC,NY,Vitachrome Inc.,10022,2125551500,3400
+1/23/2005 0:00,4301.34,34,USA,Classic Cars,100,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,3400
+2/17/2005 0:00,1864.56,34,USA,Classic Cars,54.84,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,1864.5600000000002
+5/1/2005 0:00,3576.8,34,Canada,Classic Cars,100,43 rue St. Laurent,Montreal,Quebec,Quebec Home Shopping Network,H1J 1C3,(514) 555-8054,3400
+4/29/2003 0:00,3417.12,24,Australia,Planes,100,636 St Kilda Road,Melbourne,Victoria,"Australian Collectors, Co.",3004,03 9520 4555,2400
+8/25/2003 0:00,2752.6,20,USA,Planes,100,78934 Hillside Dr.,Pasadena,CA,Toys4GrownUps.com,90003,6265557265,2000
+10/28/2003 0:00,4527.72,36,USA,Planes,100,9408 Furth Circle,Burlingame,CA,Technics Stores Inc.,94217,6505556809,3600
+1/12/2004 0:00,2818,25,Japan,Planes,100,"Dojima Avanza 4F, 1-6-20 Dojima, Kita-ku",Osaka,Osaka,Osaka Souveniers Co.,530-0003,+81 06 6342 5555,2500
+2/20/2004 0:00,3199.86,29,Australia,Planes,100,636 St Kilda Road,Melbourne,Victoria,"Australian Collectors, Co.",3004,03 9520 4555,2900
+4/2/2004 0:00,2402.75,25,Canada,Planes,96.11,23 Tsawassen Blvd.,Tsawassen,BC,"Royal Canadian Collectables, Ltd.",T2F 8M4,(604) 555-4555,2402.75
+5/11/2004 0:00,6055.72,44,USA,Planes,100,3086 Ingle Ln.,San Jose,CA,The Sharp Gifts Warehouse,94217,4085553659,4400
+6/28/2004 0:00,5465.16,47,USA,Planes,100,25593 South Bay Ln.,Bridgewater,CT,Gift Depot Inc.,97562,2035552570,4700
+8/27/2004 0:00,5392.8,45,USA,Planes,100,39323 Spinnaker Dr.,Cambridge,MA,Marta's Replicas Co.,51247,6175558555,4500
+10/15/2004 0:00,4009.23,31,USA,Planes,100,3758 North Pendale Street,White Plains,NY,Mini Classics,24067,9145554562,3100
+11/2/2004 0:00,7119,50,USA,Planes,100,7586 Pompton St.,Allentown,PA,Diecast Classics Inc.,70267,2155551555,5000
+12/4/2004 0:00,3302.4,48,USA,Planes,68.8,2440 Pompton St.,Glendale,CT,Gift Ideas Corp.,97561,2035554407,3302.3999999999996
+12/17/2004 0:00,3186.48,44,Australia,Planes,72.42,"Monitor Money Building, 815 Pacific Hwy",Chatswood,NSW,Souveniers And Things Co.,2067,+61 2 9495 8555,3186.48
+3/3/2005 0:00,7154.5,50,USA,Planes,100,1785 First Street,New Bedford,MA,FunGiftIdeas.com,50553,5085552555,5000
+4/3/2005 0:00,2018.31,21,USA,Planes,96.11,7476 Moss Rd.,Newark,NJ,Tekni Collectables Inc.,94019,2015559350,2018.31
+4/29/2003 0:00,3268,43,Australia,Planes,76,636 St Kilda Road,Melbourne,Victoria,"Australian Collectors, Co.",3004,03 9520 4555,3268
+8/10/2003 0:00,2688,28,USA,Planes,96,4575 Hillside Dr.,New Bedford,MA,Mini Creations Ltd.,50553,5085559555,2688
+10/28/2003 0:00,4608,48,USA,Planes,96,9408 Furth Circle,Burlingame,CA,Technics Stores Inc.,94217,6505556809,4608
+12/1/2003 0:00,3131.2,38,USA,Planes,82.4,3675 Furth Circle,Burbank,CA,West Coast Collectables Co.,94019,3105553722,3131.2000000000003
+1/12/2004 0:00,2678.4,31,Japan,Planes,86.4,"Dojima Avanza 4F, 1-6-20 Dojima, Kita-ku",Osaka,Osaka,Osaka Souveniers Co.,530-0003,+81 06 6342 5555,2678.4
+2/20/2004 0:00,1747.2,26,Australia,Planes,67.2,636 St Kilda Road,Melbourne,Victoria,"Australian Collectors, Co.",3004,03 9520 4555,1747.2
+4/2/2004 0:00,2944,32,Canada,Planes,92,23 Tsawassen Blvd.,Tsawassen,BC,"Royal Canadian Collectables, Ltd.",T2F 8M4,(604) 555-4555,2944
+5/11/2004 0:00,2956.8,44,USA,Planes,67.2,3086 Ingle Ln.,San Jose,CA,The Sharp Gifts Warehouse,94217,4085553659,2956.8
+10/15/2004 0:00,1831.2,21,USA,Planes,87.2,3758 North Pendale Street,White Plains,NY,Mini Classics,24067,9145554562,1831.2
+11/1/2004 0:00,3609.6,48,UK,Planes,75.2,Garden House Crowther Way,Cowes,Isle of Wight,giftsbymail.co.uk,PO31 7PJ,(198) 555-8888,3609.6000000000004
+12/4/2004 0:00,3523.85,43,USA,Planes,81.95,2440 Pompton St.,Glendale,CT,Gift Ideas Corp.,97561,2035554407,3523.85
+12/17/2004 0:00,5001.92,44,Australia,Planes,100,"Monitor Money Building, 815 Pacific Hwy",Chatswood,NSW,Souveniers And Things Co.,2067,+61 2 9495 8555,4400
+4/3/2005 0:00,7084,77,USA,Planes,92,7476 Moss Rd.,Newark,NJ,Tekni Collectables Inc.,94019,2015559350,7084
+8/8/2003 0:00,2334.99,21,USA,Ships,100,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,2100
+11/14/2003 0:00,3891.66,37,USA,Ships,100,4575 Hillside Dr.,New Bedford,MA,Mini Creations Ltd.,50553,5085559555,3700
+2/19/2004 0:00,4187.22,38,USA,Ships,100,361 Furth Circle,San Diego,CA,Collectable Mini Designs Co.,91217,7605558146,3800
+3/20/2004 0:00,4615.68,48,UK,Ships,96.16,Garden House Crowther Way,Cowes,Isle of Wight,giftsbymail.co.uk,PO31 7PJ,(198) 555-8888,4615.68
+5/7/2004 0:00,3245.4,30,USA,Ships,100,897 Long Airport Avenue,NYC,NY,Land of Toys Inc.,10022,2125557818,3000
+6/17/2004 0:00,2203.75,25,Canada,Ships,88.15,43 rue St. Laurent,Montreal,Quebec,Quebec Home Shopping Network,H1J 1C3,(514) 555-8054,2203.75
+8/20/2004 0:00,1939.3,22,Canada,Ships,88.15,23 Tsawassen Blvd.,Tsawassen,BC,"Royal Canadian Collectables, Ltd.",T2F 8M4,(604) 555-4555,1939.3000000000002
+9/10/2004 0:00,3473.78,34,USA,Ships,100,8616 Spinnaker Dr.,Boston,MA,Gifts4AllAges.com,51003,6175559555,3400
+11/21/2004 0:00,2770.78,31,USA,Ships,89.38,5905 Pompton St.,NYC,NY,Classic Legends Inc.,10022,2125558493,2770.7799999999997
+5/6/2005 0:00,3029.04,28,USA,Ships,100,8616 Spinnaker Dr.,Boston,MA,Gifts4AllAges.com,51003,6175559555,2800
+8/8/2003 0:00,3245.58,38,USA,Ships,85.41,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,3245.58
+11/14/2003 0:00,1747.9,22,USA,Ships,79.45,4575 Hillside Dr.,New Bedford,MA,Mini Creations Ltd.,50553,5085559555,1747.9
+2/19/2004 0:00,2955.54,31,USA,Ships,95.34,361 Furth Circle,San Diego,CA,Collectable Mini Designs Co.,91217,7605558146,2955.54
+3/20/2004 0:00,2885.05,35,UK,Ships,82.43,Garden House Crowther Way,Cowes,Isle of Wight,giftsbymail.co.uk,PO31 7PJ,(198) 555-8888,2885.05
+5/7/2004 0:00,3162.95,35,USA,Ships,90.37,897 Long Airport Avenue,NYC,NY,Land of Toys Inc.,10022,2125557818,3162.9500000000003
+6/17/2004 0:00,4071.5,50,Canada,Ships,81.43,43 rue St. Laurent,Montreal,Quebec,Quebec Home Shopping Network,H1J 1C3,(514) 555-8054,4071.5000000000005
+8/20/2004 0:00,3396.44,38,Canada,Ships,89.38,23 Tsawassen Blvd.,Tsawassen,BC,"Royal Canadian Collectables, Ltd.",T2F 8M4,(604) 555-4555,3396.4399999999996
+9/10/2004 0:00,4692.6,45,USA,Ships,100,7635 Spinnaker Dr.,Brickhaven,MA,Online Mini Collectables,58339,6175557555,4500
+11/21/2004 0:00,2588.04,36,USA,Ships,71.89,5905 Pompton St.,NYC,NY,Classic Legends Inc.,10022,2125558493,2588.04
+5/6/2005 0:00,2439.99,27,USA,Ships,90.37,8616 Spinnaker Dr.,Boston,MA,Gifts4AllAges.com,51003,6175559555,2439.9900000000002
+6/16/2003 0:00,2213.38,26,USA,Planes,85.13,2440 Pompton St.,Glendale,CT,Gift Ideas Corp.,97561,2035554407,2213.38
+8/10/2003 0:00,2919.58,34,USA,Planes,85.87,4575 Hillside Dr.,New Bedford,MA,Mini Creations Ltd.,50553,5085559555,2919.58
+10/28/2003 0:00,3233.49,39,USA,Planes,82.91,9408 Furth Circle,Burlingame,CA,Technics Stores Inc.,94217,6505556809,3233.49
+1/12/2004 0:00,2953.86,42,Japan,Planes,70.33,"Dojima Avanza 4F, 1-6-20 Dojima, Kita-ku",Osaka,Osaka,Osaka Souveniers Co.,530-0003,+81 06 6342 5555,2953.86
+2/19/2004 0:00,3183.29,43,USA,Planes,74.03,361 Furth Circle,San Diego,CA,Collectable Mini Designs Co.,91217,7605558146,3183.29
+4/2/2004 0:00,2466.7,34,Canada,Planes,72.55,23 Tsawassen Blvd.,Tsawassen,BC,"Royal Canadian Collectables, Ltd.",T2F 8M4,(604) 555-4555,2466.7
+5/11/2004 0:00,2363.22,38,USA,Planes,62.19,3086 Ingle Ln.,San Jose,CA,The Sharp Gifts Warehouse,94217,4085553659,2363.22
+10/15/2004 0:00,2656.29,39,USA,Planes,68.11,3758 North Pendale Street,White Plains,NY,Mini Classics,24067,9145554562,2656.29
+11/1/2004 0:00,2736.36,44,UK,Planes,62.19,Garden House Crowther Way,Cowes,Isle of Wight,giftsbymail.co.uk,PO31 7PJ,(198) 555-8888,2736.3599999999997
+11/23/2004 0:00,2893,50,Japan,Planes,57.86,2-2-8 Roppongi,Minato-ku,Tokyo,"Tokyo Collectables, Ltd",106-0032,+81 3 3584 0555,2893
+12/3/2004 0:00,1661.22,22,USA,Planes,75.51,16780 Pompton St.,Brickhaven,MA,Auto-Moto Classics Inc.,58339,6175558428,1661.22
+12/17/2004 0:00,4277.35,35,Australia,Planes,100,"Monitor Money Building, 815 Pacific Hwy",Chatswood,NSW,Souveniers And Things Co.,2067,+61 2 9495 8555,3500
+4/3/2005 0:00,2031.4,28,USA,Planes,72.55,7476 Moss Rd.,Newark,NJ,Tekni Collectables Inc.,94019,2015559350,2031.3999999999999
+6/16/2003 0:00,875.91,21,USA,Planes,41.71,2440 Pompton St.,Glendale,CT,Gift Ideas Corp.,97561,2035554407,875.91
+8/10/2003 0:00,1874.05,37,USA,Planes,50.65,4575 Hillside Dr.,New Bedford,MA,Mini Creations Ltd.,50553,5085559555,1874.05
+2/19/2004 0:00,1416.39,31,USA,Planes,45.69,361 Furth Circle,San Diego,CA,Collectable Mini Designs Co.,91217,7605558146,1416.3899999999999
+5/8/2004 0:00,1843.52,32,USA,Planes,57.61,4658 Baden Av.,Cambridge,MA,Cambridge Collectables Co.,51247,6175555555,1843.52
+7/21/2004 0:00,1875.2,32,USA,Planes,58.6,7825 Douglas Av.,Brickhaven,MA,Collectables For Less Inc.,58339,6175558555,1875.2
+8/20/2004 0:00,2477.23,43,Canada,Planes,57.61,23 Tsawassen Blvd.,Tsawassen,BC,"Royal Canadian Collectables, Ltd.",T2F 8M4,(604) 555-4555,2477.23
+10/14/2004 0:00,1823.42,34,USA,Planes,53.63,782 First Street,Philadelphia,PA,"Classic Gift Ideas, Inc",71270,2155554695,1823.42
+11/1/2004 0:00,1485.8,34,UK,Planes,43.7,Garden House Crowther Way,Cowes,Isle of Wight,giftsbymail.co.uk,PO31 7PJ,(198) 555-8888,1485.8000000000002
+11/15/2004 0:00,3789.72,44,USA,Planes,86.13,897 Long Airport Avenue,NYC,NY,Land of Toys Inc.,10022,2125557818,3789.72
+11/23/2004 0:00,2060.37,27,Japan,Planes,76.31,2-2-8 Roppongi,Minato-ku,Tokyo,"Tokyo Collectables, Ltd",106-0032,+81 3 3584 0555,2060.37
+12/3/2004 0:00,2579.36,49,USA,Planes,52.64,16780 Pompton St.,Brickhaven,MA,Auto-Moto Classics Inc.,58339,6175558428,2579.36
+12/17/2004 0:00,2189.6,23,Australia,Planes,95.2,"Monitor Money Building, 815 Pacific Hwy",Chatswood,NSW,Souveniers And Things Co.,2067,+61 2 9495 8555,2189.6
+4/1/2005 0:00,1122.4,20,USA,Planes,56.12,3086 Ingle Ln.,San Jose,CA,The Sharp Gifts Warehouse,94217,4085553659,1122.3999999999999
+5/9/2005 0:00,2419.62,42,Australia,Planes,57.61,7 Allen Street,Glen Waverly,Victoria,"Australian Collectables, Ltd",3150,61-9-3844-6555,2419.62
+8/8/2003 0:00,1724.97,39,USA,Ships,44.23,5677 Strong St.,San Rafael,CA,Mini Gifts Distributors Ltd.,97562,4155551450,1724.9699999999998
+11/14/2003 0:00,1804.04,28,USA,Ships,64.43,4575 Hillside Dr.,New Bedford,MA,Mini Creations Ltd.,50553,5085559555,1804.0400000000002
+2/19/2004 0:00,2280.24,36,USA,Ships,63.34,361 Furth Circle,San Diego,CA,Collectable Mini Designs Co.,91217,7605558146,2280.2400000000002
+3/20/2004 0:00,1192.56,24,UK,Ships,49.69,Garden House Crowther Way,Cowes,Isle of Wight,giftsbymail.co.uk,PO31 7PJ,(198) 555-8888,1192.56
+5/7/2004 0:00,1506.96,23,USA,Ships,65.52,897 Long Airport Avenue,NYC,NY,Land of Toys Inc.,10022,2125557818,1506.9599999999998
+6/17/2004 0:00,1472.62,29,Canada,Ships,50.78,43 rue St. Laurent,Montreal,Quebec,Quebec Home Shopping Network,H1J 1C3,(514) 555-8054,1472.6200000000001
+8/20/2004 0:00,1693.56,33,Canada,Ships,51.32,23 Tsawassen Blvd.,Tsawassen,BC,"Royal Canadian Collectables, Ltd.",T2F 8M4,(604) 555-4555,1693.56
+11/21/2004 0:00,4080.72,42,USA,Ships,97.16,5905 Pompton St.,NYC,NY,Classic Legends Inc.,10022,2125558493,4080.72
+5/6/2005 0:00,3079.44,47,USA,Ships,65.52,8616 Spinnaker Dr.,Boston,MA,Gifts4AllAges.com,51003,6175559555,3079.4399999999996
