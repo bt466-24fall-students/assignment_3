@@ -6,7 +6,13 @@ library(ggplot2)
 library(e1071)
 library(skimr)
 library(plotly)
-library(shiny)
+library(here)
+
+
+# Create the raw_data folder if it doesn't exist
+if (!dir.exists("raw_data")) {
+  dir.create("raw_data")
+}
 
 # setting download path as the raw data folder
 download_path <- "raw_data/sales_data.csv"
@@ -85,7 +91,7 @@ Sales_data_cleaned <- Sales_data_cleaned %>%
 
 
 # Save the cleaned dataset to the raw_data folder
-write_csv(Sales_data_cleaned, "raw_data/sales_data_cleaned.csv")
+write_csv(Sales_data_cleaned, here("raw_data", "sales_data_cleaned.csv"))
 
 # Print a message to confirm that the file has been saved
 cat("Cleaned dataset saved to 'raw_data/sales_data_cleaned.csv'")

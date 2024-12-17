@@ -5,6 +5,9 @@ library(dplyr)
 library(ggplot2)
 library(plotly)
 library(DT)
+library(here)
+
+
 
 # Define the UI for the app
 ui <- fluidPage(
@@ -33,7 +36,7 @@ ui <- fluidPage(
 server <- function(input, output) {
   
   # Load the cleaned dataset
-  cleaned_data <- read_csv("raw_data/sales_data_cleaned.csv")
+  cleaned_data <- read_csv(here("raw_data", "sales_data_cleaned.csv"))
   
   # Display the cleaned dataset in a table
   output$sales_table <- renderDT({
