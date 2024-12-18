@@ -6,11 +6,11 @@
 This project analyzes the NYC Taxi Zone Lookup dataset to explore trends and patterns in taxi zones across New York City. It was completed as a three-part assignment for a data analytics course, emphasizing data cleaning, summarization, and visualization.
 
 ## Project Structure
+- **assignment_1/**: Can be found in the file (`script.R`).
 - **raw_data/**: Contains the original dataset (`taxi_zone_lookup.csv`).
-- **processed_data/**: Contains the cleaned and processed dataset (`zone_lookup_cleaned.csv`).
-- **scripts/**: Includes R scripts used for data cleaning and analysis:
-  - `data_download.R`: Downloads and reads the dataset.
-  - `data_cleaning.R`: Cleans, transforms, and prepares the dataset for analysis.
+- **assignment_2/**: Can be found in the file (`assignment_2.Rproj`).
+- **bivariate_plots.png/**: Includes bivariate graphs from assignment 2
+- **univariate_plots.png/**: Includes bivariate graphs from assignment 2
 - **assignment3.qmd**: A Quarto document presenting the analysis, findings, and visualizations.
 - **README.md**: Provides an overview of the project and its structure.
 
