@@ -1,0 +1,34 @@
+# Interactive Visualizations with Plotly
+
+# Load necessary libraries
+if (!requireNamespace("plotly", quietly = TRUE)) install.packages("plotly")
+library(plotly)
+
+# Interactive Histogram: Distribution of Location IDs
+location_id_hist <- ggplot(zone_lookup_final, aes(x = location_id)) + 
+  geom_histogram(binwidth = 10, fill = "blue", color = "white") +
+  labs(title = "Distribution of Location IDs", x = "Location ID", y = "Count")
+
+# Convert to interactive plot
+location_id_hist_interactive <- ggplotly(location_id_hist)
+
+# Interactive Density Plot: Zone Name Lengths
+zone_name_density <- ggplot(zone_lookup_final, aes(x = zone_name_length)) + 
+  geom_density(fill = "green", alpha = 0.5) +
+  labs(title = "Density of Zone Name Lengths", x = "Zone Name Length", y = "Density")
+
+# Convert to interactive plot
+zone_name_density_interactive <- ggplotly(zone_name_density)
+
+# Interactive Scatter Plot: Location ID vs. Zone Name Length
+scatter_plot <- ggplot(zone_lookup_final, aes(x = location_id, y = zone_name_length)) + 
+  geom_point(color = "darkred") +
+  labs(title = "Location ID vs Zone Name Length", x = "Location ID", y = "Zone Name Length")
+
+# Convert to interactive plot
+scatter_plot_interactive <- ggplotly(scatter_plot)
+
+# Save interactive plots as HTML files
+htmlwidgets::saveWidget(location_id_hist_interactive, "interactive_histogram.html")
+htmlwidgets::saveWidget(zone_name_density_interactive, "interactive_density.html")
+htmlwidgets::saveWidget(scatter_plot_interactive, "interactive_scatter.html")
