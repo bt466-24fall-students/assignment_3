@@ -12,6 +12,7 @@ This project analyzes the NYC Taxi Zone Lookup dataset to explore trends and pat
 - **bivariate_plots.png/**: Includes bivariate graphs from assignment 2
 - **univariate_plots.png/**: Includes bivariate graphs from assignment 2
 - **assignment3.qmd**: A Quarto document presenting the analysis, findings, and visualizations.
+-  **extra_credit**: Extra credit file, incorporating tools like plotly or Shiny for interactivity.
 - **README.md**: Provides an overview of the project and its structure.
 
 ## Key Features
