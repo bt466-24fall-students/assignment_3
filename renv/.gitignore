@@ -1,0 +1,8 @@
+library/
+local/
+cellar/
+lock/
+python/
+sandbox/
+staging/
+group_01/raw_data/
