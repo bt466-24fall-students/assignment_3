@@ -8,7 +8,7 @@ This project analyzes the NYC Taxi Zone Lookup dataset to explore trends and pat
 ## Project Structure
 - **assignment_1/**: Can be found in the file (`script.R`).
 - **raw_data/**: Contains the original dataset (`taxi_zone_lookup.csv`).
-- **assignment_2/**: Can be found in the file (`assignment_2.Rproj`).
+- **assignment_2/**: Can be found in the file (`Assignment2.BT466.R`).
 - **bivariate_plots.png/**: Includes bivariate graphs from assignment 2
 - **univariate_plots.png/**: Includes bivariate graphs from assignment 2
 - **assignment3.qmd**: A Quarto document presenting the analysis, findings, and visualizations.
