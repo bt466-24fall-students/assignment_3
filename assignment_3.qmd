@@ -1,26 +1,172 @@
 ---
-title: "assignment_3"
+title: "Assignment 3 - Sales Data Analysis"
+author: "Group Number: 1, Group Members: Ankith K, Justin G, Connor C"
 format: html
 editor: visual
 ---
 
-## Quarto
+## Introduction
 
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
-
-## Running Code
-
-When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
-
-```{r}
-1 + 1
+```         
+This assignment aims to analyze a sales dataset to uncover key insights and trends. The dataset includes information on orders for various products, primarily focusing on motorcycles, classic cars, and trucks and buses. The goals of this assignment are to perform exploratory data analysis (EDA), identify patterns, and present findings using visualizations.
 ```
 
-You can add options to executable code like this
+## Methods
 
-```{r}
-#| echo: false
-2 * 2
+```         
+The following steps will be taken for the exploratory data analysis (EDA):
 ```
 
-The `echo: false` option disables the printing of code (only output is displayed).
+## 1. Data loading 
+
+```         
+- Load the dataset into R using the `readr` package.    - Ensure the dataset is correctly imported and stored in a data frame.
+```
+
+##   2. Data cleaning 
+
+```         
+- Remove any missing or blank entries to ensure data quality.    - Select relevant columns that are essential for analysis, such as `ORDERDATE`, `SALES`, `QUANTITYORDERED`, `COUNTRY`, `PRODUCTLINE`, `PRICEEACH`, `ADDRESSLINE1`, `CITY`, `STATE`, `CUSTOMERNAME`, and `POSTALCODE`.    - Create a new column `TOTAL_REVENUE` by multiplying `QUANTITYORDERED` and `PRICEEACH`.
+```
+
+##   3. Summary statistics  
+
+```         
+- Calculate summary statistics for numeric columns, including mean, median, and standard deviation for `SALES` and `QUANTITYORDERED`.    - Generate frequency counts for categorical variables such as `COUNTRY` and `PRODUCTLINE`.
+```
+
+##    4. Skewness detection  
+
+```         
+- Detect skewness in the `SALES` and `QUANTITYORDERED` columns to understand the distribution of the data.    - Use the `e1071` package to calculate skewness values. 
+```
+
+##    5. Visualization   
+
+```         
+- Create various plots to visualize the data using `ggplot2` and `plotly` packages:      - **Histograms**: To show the distribution of `SALES` and `QUANTITYORDERED`.      - **Density Plots**: To visualize the density of `QUANTITYORDERED` by `PRODUCTLINE`.      - **Bar Plots**: To display the frequency of `PRODUCTLINE` by `COUNTRY` and vice versa.      - **Box Plots**: To show the distribution of `SALES` and `QUANTITYORDERED` across different `PRODUCTLINE` and `COUNTRY`.      - **Scatter Plots**: To explore the relationship between `SALES` and `QUANTITYORDERED`.
+```
+
+##   6. Revenue Analysis 
+
+```         
+- Summarize total revenue by `COUNTRY` and `PRODUCTLINE` to identify key markets and profitable product lines.    - Use `dplyr` for data manipulation and summarization.
+```
+
+#   Data loading  
+
+```         
+Load necessary libraries
+```
+
+```{r}
+library(readr)
+library(dplyr)
+library(ggplot2)
+library(plotly)
+library(DT)
+library(here)
+
+```
+
+```         
+Load the cleaned dataset
+```
+
+```{r}
+cleaned_data <- read_csv(here("raw_data", "sales_data_cleaned.csv"))
+```
+
+\
+
+```         
+Display the cleaned dataset
+```
+
+```{r}
+datatable(cleaned_data)
+```
+
+#  Summary statistics  
+
+```{r}
+numeric_summary <- cleaned_data %>%
+  summarise(
+    mean_sales = mean(SALES, na.rm = TRUE),
+    median_sales = median(SALES, na.rm = TRUE),
+    sd_sales = sd(SALES, na.rm = TRUE),
+    mean_quantity = mean(QUANTITYORDERED, na.rm = TRUE),
+    median_quantity = median(QUANTITYORDERED, na.rm = TRUE),
+    sd_quantity = sd(QUANTITYORDERED, na.rm = TRUE)
+  )
+
+print(numeric_summary)
+```
+
+#  Skewness detection 
+
+```{r}
+sales_skewness <- e1071::skewness(cleaned_data$SALES, na.rm = TRUE)
+quantity_skewness <- e1071::skewness(cleaned_data$QUANTITYORDERED, na.rm = TRUE)
+
+cat("Skewness for SALES:", sales_skewness, "\n")
+cat("Skewness for QUANTITYORDERED:", quantity_skewness, "\n")
+```
+
+#  Visualizations 
+
+```{r}
+ggplot_plot <- ggplot(cleaned_data, aes(x = SALES)) +
+  geom_histogram(binwidth = 1000, fill = "blue", color = "black", alpha = 0.7) +
+  labs(title = "Distribution of Sales", x = "Sales", y = "Frequency")
+ggplotly(ggplot_plot)
+```
+
+#   Revenue Analysis  
+
+```{r}
+revenue_by_country <- cleaned_data %>%
+  group_by(COUNTRY) %>%
+  summarise(total_revenue = sum(TOTAL_REVENUE, na.rm = TRUE)) %>%
+  arrange(desc(total_revenue))
+
+print(revenue_by_country)
+```
+
+```{r}
+revenue_by_productline <- cleaned_data %>%
+  group_by(PRODUCTLINE) %>%
+  summarise(total_revenue = sum(TOTAL_REVENUE, na.rm = TRUE)) %>%
+  arrange(desc(total_revenue))
+
+print(revenue_by_productline)
+```
+
+###  Discussion    The analysis of the sales data set has provided several key insights and trends:
+
+1.  **Sales Distribution**: The distribution of sales shows that most sales transactions are concentrated in the lower range, with a few high-value transactions. This indicates a skewed distribution, which was confirmed by the skewness detection analysis.
+
+2.  **Quantity Ordered**: The quantity ordered for most transactions is relatively low, with a few orders having significantly higher quantities. This pattern suggests that while most customers place small orders, there are occasional bulk purchases.
+
+3.  **Sales vs Quantity Ordered**: The scatter plot of sales versus quantity ordered reveals a positive correlation between the two variables. Higher quantities ordered generally result in higher sales, which is expected.
+
+4.  **Revenue by Country**: The revenue analysis by country shows that certain countries contribute more significantly to the total revenue. Identifying these key markets can help in targeting marketing efforts and optimizing sales strategies.
+
+**Revenue by Product Line**: The analysis of revenue by product line indicates which product lines are the most profitable. This information can be used to focus on high-performing products and potentially improve or phase out lower-performing ones.\
+\
+\
+Key Insights
+
+-   **High Revenue Countries**: Countries like the USA, France, and Norway are major contributors to the total revenue. These markets should be prioritized for sales and marketing efforts.
+
+-   **Profitable Product Lines**: Classic Cars and Motorcycles are the most profitable product lines. Strategies to boost sales in these categories should be considered.
+
+-   **Skewed Data**: The skewness in sales and quantity ordered suggests the presence of outliers or a non-normal distribution. This should be taken into account when performing further statistical analyses.
+
+### Potential Next Steps
+
+-   **Targeted Marketing**: Focus marketing efforts on high-revenue countries and profitable product lines to maximize returns.
+
+-   **Outlier Analysis**: Investigate the outliers in the dataset to understand the reasons behind exceptionally high or low sales and quantities ordered.
+
+-   **Product Line Optimization**: Consider strategies to enhance the performance of lower-performing product lines or phase them out if they are not profitable.
