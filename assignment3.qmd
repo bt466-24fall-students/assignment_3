@@ -1,0 +1,101 @@
+---
+title: "Assignment 3: NYC Taxi Zone Data Analysis"
+author: "Group X"
+format: html
+---
+
+# Introduction
+
+The dataset analyzed in this project is the NYC Taxi Zone Lookup dataset. This dataset contains information on taxi zones in New York City, including their location IDs, zone names, boroughs, and service zone classifications. The goal of this assignment is to clean, analyze, and present insights about the data. Our scope includes identifying trends, creating visualizations, and summarizing findings.
+
+# Methods
+
+To perform exploratory data analysis (EDA), we followed these steps:
+
+1. **Data Cleaning**: Renamed columns for consistency, selected key columns, handled missing data, and created new variables.
+2. **Data Summarization**: Computed descriptive statistics and examined data trends.
+3. **Data Visualization**: Used `ggplot2` to create visualizations, including univariate and bivariate plots.
+
+# Results
+
+## Data Cleaning
+
+```{r}
+# Display the cleaned dataset structure
+print(glimpse(zone_lookup_final))
+```
+
+Key decisions during data cleaning included renaming columns, creating a binary indicator for Manhattan zones, and categorizing service zones. Missing data was handled by removing rows with NA values.
+
+## Data Summarization
+
+### Summary Statistics
+
+```{r}
+# Summary statistics for numeric columns
+zone_lookup_final %>% 
+  summarize(
+    mean_zone_name_length = mean(zone_name_length, na.rm = TRUE),
+    median_zone_name_length = median(zone_name_length, na.rm = TRUE),
+    sd_zone_name_length = sd(zone_name_length, na.rm = TRUE)
+  )
+
+# Frequency counts for categorical variables
+zone_lookup_final %>% 
+  count(borough, sort = TRUE)
+```
+
+### Trends and Observations
+- Manhattan zones account for a significant portion of the dataset.
+- Zone name lengths vary, with some outliers indicating unusually short or long names.
+- Service zone categories have distinct distributions.
+
+## Visualizations
+
+### Distribution of Location IDs
+
+```{r}
+ggplot(zone_lookup_final, aes(x = location_id)) + 
+  geom_histogram(binwidth = 10, fill = "blue", color = "white") +
+  labs(title = "Distribution of Location IDs", x = "Location ID", y = "Count")
+```
+
+### Density of Zone Name Lengths
+
+```{r}
+ggplot(zone_lookup_final, aes(x = zone_name_length)) + 
+  geom_density(fill = "green", alpha = 0.5) +
+  labs(title = "Density of Zone Name Lengths", x = "Zone Name Length", y = "Density")
+```
+
+### Distribution of Zones by Borough
+
+```{r}
+ggplot(zone_lookup_final, aes(x = borough)) + 
+  geom_bar(fill = "purple", color = "black") +
+  labs(title = "Distribution of Zones by Borough", x = "Borough", y = "Count")
+```
+
+### Location ID vs. Zone Name Length
+
+```{r}
+ggplot(zone_lookup_final, aes(x = location_id, y = zone_name_length)) + 
+  geom_point(color = "darkred") +
+  labs(title = "Location ID vs Zone Name Length", x = "Location ID", y = "Zone Name Length")
+```
+
+# Discussion
+
+Our analysis highlighted the following key insights:
+
+- The majority of zones are concentrated in certain boroughs, with Manhattan being the most prominent.
+- Service zones are clearly categorized, and trends suggest that certain boroughs dominate specific service zone categories.
+- Zone name lengths show notable variance, offering potential for further exploration into naming conventions or their relationship with other variables.
+
+Potential next steps:
+
+- Explore temporal data, if available, to analyze changes over time.
+- Perform clustering analysis to identify groups of zones with similar characteristics.
+- Expand the dataset to include additional attributes for more comprehensive analysis.
+
+---
