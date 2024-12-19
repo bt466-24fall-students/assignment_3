@@ -1,0 +1,88 @@
+---
+title: "assigngment_3"
+format: html
+editor: visual
+---
+
+# Assignment 3
+
+#### Group 6: Erin Hardiman, Griffin Holmes, Joey Lim
+
+------------------------------------------------------------------------
+
+## Introduction
+
+This project analyzes economic indicators for the state of Iowa. The data set includes columns such as month/year, residential building permits, fuel consumption, average weekly unemployment claims, and profits from resources like corn, hogs, and soybeans. The goal is to enhance our Git and R analytics skills while deriving key insights about Iowa’s economy.
+
+------------------------------------------------------------------------
+
+## Methods
+
+### Data Set Preparation
+
+1.  Downloaded the data set from the Iowa government data portal.
+2.  Cleaned column names and added descriptive units to key columns.
+3.  Selected 12 key columns based on relevance.
+4.  Created a new column, `Average_Profits`, as the mean of four agricultural profit columns.
+
+### Analysis
+
+-   **Data Exploration**: Used `skimr` for initial exploration and summary statistics (`mean`, `median`, `SD`).
+-   **Data Visualization**: Created histograms and scatter plots to identify patterns and trends.
+-   **Missing Data**: Checked for missing data and ensured the data set was clean.
+
+------------------------------------------------------------------------
+
+## Results
+
+### Summary Statistics
+
+-   **Key Observations**:
+    -   Corn and Soybean Profits: Large difference between mean and median indicates outliers.
+    -   Hog and Cattle Profits: Stable with normal mean and median.
+    -   Residential Building Permits: High standard deviation reflects economic recessions.
+    -   Diesel Consumption: High volatility due to seasonal driving habits and oil prices.
+    -   Iowa Stock Market and Agricultural Futures: High SD shows investor uncertainty.
+
+### Visualizations
+
+#### Histograms
+
+#### Histograms
+
+1.  Histogram of Iowa Leading Indicator Index: ![](scripts/iowa_leading_indicator_histogram.png)
+
+2.  Histogram of Residential Building Permits: ![](scripts/residential_building_permits_histogram.png)
+
+3.  Histogram of Iowa Stock Market Index: ![](scripts/iowa_stock_market_histogram.png)
+
+#### Scatter Plots
+
+1.  Scatter plot of Average Profits vs Iowa Leading Indicator Index: ![](scripts/average_profits_vs_indicator.png)
+
+2.  Scatter plot of Corn Profits vs Soybean Profits: ![](scripts/corn_vs_soybean_profits.png)
+
+3.  Scatter plot of Avg Weekly Unemployment Claims vs Residential Building Permits: ![](scripts/unemployment_vs_building.png)
+
+------------------------------------------------------------------------
+
+## Discussion
+
+### Key Insights
+
+1.  **Agricultural Profit Volatility**: Crops (corn, soybeans) show more volatility than livestock (hogs, cattle).
+2.  **Economic Recession Impact**: Residential building permits and unemployment claims are highly sensitive to economic downturns.
+3.  **Diesel Consumption**: Seasonal patterns and oil price fluctuations contribute to high variability.
+
+### Next Steps
+
+-   Analyze correlations between agricultural profits and leading economic indicators.
+-   Investigate regional differences within Iowa if granular data is available.
+-   Predict future trends using machine learning techniques.
+
+------------------------------------------------------------------------
+
+## References
+
+-   Data Source: [Iowa Government Data Portal](https://data.iowa.gov)
+-   R Packages: `dplyr`, `readr`, `skimr`, `ggplot2`, `tidyverse`
