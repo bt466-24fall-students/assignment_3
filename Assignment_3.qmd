@@ -1,0 +1,115 @@
+---
+title: "Assignment 3 - Sales Data Analysis"
+author: "Group Number: 7, Group Members: Ryder, Ethan, Nico"
+format: html
+editor: visual
+---
+
+## Introduction
+
+```         
+This assignment focuses on examining a taxi fare dataset to uncover valuable insights and trends. The dataset captures details of orders across different  categories, including location id, borough, and zone. The task involves performing exploratory data analysis (EDA), recognizing key patterns, and showcasing the results through compelling visualizations.
+```
+
+## Methods
+
+```         
+Exploratory Data Analysis:
+```
+
+## 1. Load Data
+
+```         
+- Use the`readr` package to move the data into R. 
+```
+
+## 2. Clean Data
+
+```         
+- Create a new column `Address` by concatonating 'Borough' and 'Zone'.
+```
+
+## 3. Summary statistics
+
+```         
+- Used 'GROUPBY' to create a frequency analysis of the data
+```
+
+## 4. Visualize
+
+```         
+- Create various plots to visualize the data using `ggplot2`   
+```
+
+# Load Data
+
+```         
+-Loaded libraries
+```
+
+```{r}
+library(readr)
+library(dplyr)
+library(ggplot2)
+
+```
+
+```         
+Load the new dataset
+```
+
+```{r}
+data <- read.csv("taxi_updated.csv")
+```
+
+\
+
+```         
+Show the new dataset
+```
+
+```{r}
+print(data)
+```
+
+# Summary statistics
+
+```{r}
+compute_frequency <- function(data, Address) {
+  # Group by the specified column and compute frequency
+  frequency_analysis <- data %>%
+    group_by(across(all_of(Address))) %>%  # Group by the specified column
+    summarize(Frequency = n(), .groups = "drop") %>%  # Count occurrences
+    arrange(desc(Frequency))  # Arrange by descending frequency
+  
+  return(frequency_analysis)
+}
+frequency_result <- compute_frequency(data, "Borough")
+
+# View the result
+print(frequency_result)
+view(frequency_result)
+```
+
+# Visualizations
+
+```{r}
+ggplot(data, aes(x = Borough)) +
+  geom_density() +
+  labs(title = "Density Plot of Boroughs", x = "Borough", y = "Density")
+```
+
+### Address Data Discussion:
+
+We performed exploratory data analysis (EDA) to create a new column, "Address," by combining similar variables to simplify data interpretation. The frequency analysis revealed that most users were located in Manhattan, Queens, and Brooklyn, highlighting these as dominant areas in our dataset. This analysis was crucial in understanding the data's composition and identifying outliers, such as Newark and entries marked as N/A. Creating the "Address" column allowed for more streamlined insights and better visualization of patterns. The process also underscored the importance of cleaning and aggregating data for accuracy and improved analysis in decision-making.\
+\
+\
+Key Insights
+
+-   **Lower Frequency Locations:** Staten Island, the Bronx, and EWR have significantly less traffic than Queens, Brooklyn and Manhattan, all of which are comparable to one another.
+
+### Moving Foreward
+
+-   **Customer Profile Deep Dive**: A more detailed look at where customers are traveling within profitable boroughs.
+
+-   **Starting Location Deep Dive**: Determine common starting location for the cabs and build a stronger presence there.
